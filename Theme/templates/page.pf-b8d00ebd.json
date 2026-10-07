@@ -1,0 +1,51 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-b8d00ebd": {
+      "type": "pf-b8d00ebd",
+      "settings": {
+        "pf_9dac1af0_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the blue chat circle at the bottom right of this page or send them a message using the form below.",
+        "pf_74b74969_value": "Looking for more in-depth knowledge on ThePhotoStick Mobile? Our official user guide can answer all of your questions and help troubleshoot any issues you may run into.",
+        "pf_0e586023_value": "Are you more of a visual learner? Click the button below if you'd rather watch a video of the installation steps, rather than read them.&nbsp;",
+        "pf_6355c731_value": "<span style=\"font-weight: bold;\">Mac<br><br></span>Mac OS X Version 10.13 and Later\r\r",
+        "pf_6374b537_value": "<span style=\"font-weight: bold;\">iOS<br><br></span>iOS Version 10.13 and Later\r\r",
+        "pf_93e91d59_value": "<span style=\"font-weight: bold;\">Windows<br><br></span>Windows 7 SP1 and Later\r\r",
+        "pf_f423fb43_value": "Looking for help with ThePhotoStick® Mobile? You've come to the right place!",
+        "pf_17b24484_alt": "Find troubleshooting help with ThePhotoStick Mobile Official User Guide",
+        "pf_bdebd3f4_value": "Getting Started: ThePhotoStick® Mobile for iOS",
+        "pf_1ff97e9d_value": "Still Can't Find What You're Looking For?",
+        "pf_4a062680_value": "ThePhotoStick® Mobile for iOS User Guides",
+        "pf_17b24484_title": "ThePhotoStick Mobile Official User Guide",
+        "pf_3c04cb8f_value": "ThePhotoStick® Mobile for iOS - FAQs",
+        "pf_0399e105_value": "Download ThePhotoStick® Mobile App",
+        "pf_ce1cc6ba_placeholder": "What can we help you with today?",
+        "pf_ccbc490e_value": "Easy Installation Video",
+        "pf_54bce147_value": "System Requirements:",
+        "pf_eb8e6174_value": "Official User Guide",
+        "pf_319dc214_value": "View PDF Download",
+        "pf_69a0351b_value": "View Web Version",
+        "pf_23ed3a17_value": "View Video Now",
+        "pf_a6cf2d8a_text": "Submit Form",
+        "pf_691fb76d_label_text": "First Name",
+        "pf_b0aaacb9_label_text": "First Name",
+        "pf_6dc3b315_placeholder": "Last Name",
+        "pf_c3b315c7_label_text": "Last Name",
+        "pf_1cc6ba06_label_text": "Message",
+        "pf_78da48cc_value": "Divider",
+        "pf_a84fb949_value": "Divider",
+        "pf_6dc3b315_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-b8d00ebd"
+  ]
+}

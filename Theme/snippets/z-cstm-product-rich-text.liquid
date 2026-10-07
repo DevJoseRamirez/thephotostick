@@ -1,0 +1,25 @@
+<!-- Display Rich Text for custom product descriptions -->
+<script>
+  function renderRichText(json) {
+    try {
+      const data = typeof json === 'string' ? JSON.parse(json) : json;
+      return parseRichTextNode(data);
+    } catch(e) { return ''; }
+  }
+
+  function parseRichTextNode(node) {
+    if (!node) return '';
+    if (node.type === 'text') {
+      let text = node.value || '';
+      if (node.bold) text = `<strong>${text}</strong>`;
+      if (node.italic) text = `<em>${text}</em>`;
+      return text;
+    }
+    const children = (node.children || []).map(parseRichTextNode).join('');
+    if (node.type === 'paragraph') return `<p>${children}</p>`;
+    if (node.type === 'heading') return `<h${node.level}>${children}</h${node.level}>`;
+    if (node.type === 'list') return node.listType === 'ordered' ? `<ol>${children}</ol>` : `<ul>${children}</ul>`;
+    if (node.type === 'list-item') return `<li>${children}</li>`;
+    return children;
+  }
+</script>

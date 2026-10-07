@@ -1,0 +1,143 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_636444779831362363": {
+      "settings": {
+        "checksum": "fcf339283d95de0ee987c05ba42fed57170424a7878874518a6b75e774583bb8_1_1_1_0__1",
+        "ggTVd0sxrs8_text": "Shop ThePhotoStick®",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636444779831362363"
+    },
+    "gp_section_636444779831427899": {
+      "settings": {
+        "checksum": "c56922a7c4c4a50e3282de2a06aab09b5063d15de0d14f6a8450b6137227c668_1_1_1_0__1",
+        "ggvLILd8gkW_text": "<p>⚡️ <strong>FREE</strong> Shipping On All U.S. Orders Over $50 ⚡️</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636444779831427899"
+    },
+    "gp_section_636444779831493435": {
+      "settings": {
+        "checksum": "3a950de966640ead9a919a717bc273c3873c92665cce74b7265c5d434785b6a6_1_1_1_0__1",
+        "gg0pLVMam0s_text": "Frequently Asked Questions",
+        "gg4TkwRjFpV_text": "<p>ThePhotoStick Omni Protective Case is perfect for keeping small tech essentials together, including ThePhotoStick devices, USB drives, earbuds, SD cards, charging cables, adapters, and other compact accessories.</p>",
+        "ggDFVBy3_ux_text": "<p>While the case is water-resistant and can protect your drives from rain or accidental spills, it is not completely waterproof and should never be submerged underwater.</p>",
+        "ggaEVrQTJHR_text": "<p>ThePhotoStick Omni Protective Case is approximately 11cm x 5cm x 3.5cm. Today's standard USB drives will fit perfectly inside the case's mesh pockets without slipping out, ensuring your data and precious memories are always kept safe.</p>",
+        "ggmySa8-oE__text": "<p>We offer a no-hassle, 30-Day Money Back Guarantee. If you’re not 100% satisfied with your purchase from ThePhotoStick®, our team is here to help you with a return. We want you to be happy!</p><p>&nbsp;</p><p>If you are not completely satisfied with your order, please contact us at returns@thephotostick.com, and we'd be happy to facilitate your return and refund. For more information regarding our return process, check out our <a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_blank\"><strong>Returns and Refunds</strong></a> page.</p>",
+        "ggqsP5Ip4P5_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggqsP5Ip4P5_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggw7bbKA89T_childItem_0": "<p>Is ThePhotoStick® Omni Protective Case waterproof?</p>",
+        "ggw7bbKA89T_childItem_1": "<p>What can I store in the Protective Case?</p>",
+        "ggw7bbKA89T_childItem_2": "<p>What are the dimensions of ThePhotoStick® Omni Protective Case?</p>",
+        "ggw7bbKA89T_childItem_3": "<p>Will every size flash drive fit inside?</p>",
+        "ggw7bbKA89T_childItem_4": "<p>How does the 30-Day Money Back Guarantee work?</p>",
+        "ggy8wQHDqPh_text": "<p>ThePhotoStick Omni Protective Case features two easy-access mesh pockets, allowing different-sized USB drives and other mobile accessories, such as charging cables, to fit inside with ease.</p>"
+      },
+      "type": "gp-section-636444779831493435"
+    },
+    "gp_section_636444779831558971": {
+      "settings": {
+        "checksum": "a8fa01a26a970e13575ee374662013efbdfd96784465250f2eb90fe25fe4d04b_1_1_1_0__1",
+        "ggEBmuI-zm5_text": "ThePhotoStick® Gear",
+        "ggGI3rvDUDG_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggGI3rvDUDG_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Quick_Click_Remote_5.gif",
+        "ggGI3rvDUDG_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Quick_Click_Remote_5.gif",
+        "ggoFU7WUuf3_label": "<p>SHOP ALL PRODUCTS</p>",
+        "ggu7ab2vPIR_text": "<p>Smart, stylish accessories that make it easy to&nbsp;</p><p>capture, protect, and enjoy your memories wherever life takes you.</p>",
+        "ggzzinM5Ao8_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggzzinM5Ao8_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png"
+      },
+      "type": "gp-section-636444779831558971"
+    },
+    "gp_section_636444779831624507": {
+      "settings": {
+        "checksum": "64ac8d78e320e1df9e41fcf493e2c3cb132c40cb30b70a75b631c253877a8b0e_1_1_1_0__1",
+        "ggR51vaMCES_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">Copyright ©2026 - ThePhotoStick® | All Rights Reserved</span></p><p><a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\"> |&nbsp;</span><a href=\"https://www.thephotostick.com/pages/support-center\" target=\"_blank\">Contact Us</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">&nbsp;|&nbsp;</span><a href=\"https://www.thephotostick.com/pages/terms-of-service\" target=\"_blank\">Terms of Service</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\"> | </span><a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a></p><p><a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_blank\">Return&nbsp;Policy</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">&nbsp;| </span><a href=\"https://www.thephotostick.com/pages/support-shipping-information\" target=\"_blank\">Shipping Policy</a></p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636444779831624507"
+    },
+    "gp_section_636444779831690043": {
+      "block_order": [
+        "gp_app_okendo-reviews-loyalty_gZ6LFs_1-Q"
+      ],
+      "blocks": {
+        "gp_app_okendo-reviews-loyalty_gZ6LFs_1-Q": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{ product }}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "settings": {
+        "checksum": "dff44508d4079688f0bd5c67b0811b6f7e782533a5247454add90fa063cf4d6d_1_1_1_0__1",
+        "gg-HZVPxq2U_displayContent": "App Exclusive: {percent_discount} OFF",
+        "gg0S4cndBrI_text": "<p>Fast</p><p>Shipping</p>",
+        "gg7kI4TRtsJ_text": "<p><strong>Ultra-Protective Material</strong></p>",
+        "gg7rDDi3IgU_text": "<p><strong>• </strong>Colors: Gray<br><br><strong>• </strong>Outer Material: Nylon</p><p>&nbsp;</p><p><strong>• </strong>Inner Material: Mesh Pocket / Flannelette Lining<br><br><strong>• </strong>Size: 4.33\" x 1.97\" x 1.38\"</p><p><br><strong>• </strong>Weight: 1.2 OZ</p>",
+        "gg9azCNw2Mi_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-0f8a1c83-1df7-48bd-8ea0-69fe91399f1b.svg?v=1718348678",
+        "gg9azCNw2Mi_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_20.png",
+        "ggBRdgqt4qj_text": "<p>Live Chat Support</p>",
+        "ggI74HP5Iw0_text": "<p><strong>Lightweight &amp; Compact</strong></p>",
+        "ggItceyZaw6_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-07ba47bc-bd82-4197-8a16-a6e65ca8f7fa.png?v=1716375124",
+        "ggItceyZaw6_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Travel_Tech_Case_10.png",
+        "ggItceyZaw6_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Travel_Tech_Case_10.png",
+        "ggOHXtEPlRb_errorMessage": "Cannot add product to cart",
+        "ggOHXtEPlRb_label": "Add to cart",
+        "ggOHXtEPlRb_outOfStockLabel": "Out of stock",
+        "ggOHXtEPlRb_successMessage": "Add product to cart successfully",
+        "ggOHXtEPlRb_unavailableLabel": "Unavailable",
+        "ggQesUdn4C8_text": "<p><strong>No More Tangled Cords</strong></p>",
+        "ggQne_5n9ae_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-9d2a2a98-7aa9-4d10-ac13-0cc0b763c713.svg?v=1718348798",
+        "ggQne_5n9ae_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_22.png",
+        "ggRrl219-yt_text": "<p>Secure Checkout</p>",
+        "ggUfHbbrPio_text": "<p>Keep your must-have tech and memory-saving gear safe, organized, and always within reach. With a durable, shock-resistant shell and a soft interior lining to protect from scratches, our Travel Tech Case is built for life on the move.</p>",
+        "ggVevG23eea_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8a685f74-1ee2-4eab-a19e-17f5e720f623.svg?v=1718348722",
+        "ggVevG23eea_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_17.png",
+        "ggZsOP65o8V_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b1b8e8b4-1a58-40a9-9a81-c5ad8a1b619e.png?v=1716375140",
+        "ggZsOP65o8V_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Travel_Tech_Case_11.png",
+        "ggZsOP65o8V_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Travel_Tech_Case_11.png",
+        "gga7aFDi-MY_text": "ThePhotoStick® Omni Protective Case",
+        "ggaC7AZvrT-_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d76ff965-5eb9-4369-acf8-a935b85cbb3f.svg?v=1718348823",
+        "ggaC7AZvrT-_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_19.png",
+        "ggcc6Jh3vwb_text": "<p>30 Day Guarantee</p>",
+        "ggckONzDw_M_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggckONzDw_M_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggiKOCRtT0t_text": "<p>Trusted by</p><p>2 Million+</p>",
+        "ggm_HP19WfH_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(29,31,37);\">Mesh pockets securely store cables, chargers, earphones, memory cards, SD cards, hard drives, lens filters, keys, and more.</span></p>",
+        "ggmq5AqBqrY_text": "<p>All shipments are sent by DHL Global Mail</p><p>You can track your shipment via the DHL Global Mail tracking system at <a href=\"https://webtrack.dhlglobalmail.com/\"><strong>https://webtrack.dhlglobalmail.com</strong></a></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(66,66,66);\">We offer a no-hassle, 30-Day Money Back Guarantee. If you’re not 100% satisfied with your purchase from ThePhotoStick®, our team will happily assist you with your return.&nbsp;</span></p>",
+        "ggn5KcBHDKv_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(29,31,37);\">Durable nylon shields your drives and other tech from accidental spills, drops, and other forms of damage.&nbsp;</span></p>",
+        "ggpDT2JjMb8_text": "<p>304+ Reviews</p>",
+        "ggqpnCEQMQV_text": "<p>Effortlessly attach it to your keys and slip it into your purse, briefcase, or any bag for instant access on the go.</p>",
+        "ggsLbWM0bz9_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7382edec-3685-4565-b421-e96bbb0c96e3.png?v=1716375112",
+        "ggsLbWM0bz9_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/2_Bag_v2_2_a65ebb2d-ef18-404c-96b8-52951d5c6217.png",
+        "ggsLbWM0bz9_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/2_Bag_v2_2_a65ebb2d-ef18-404c-96b8-52951d5c6217.png",
+        "ggx6FYywMWR_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-1be461db-3fb2-4dd2-ae5f-875b1ce4bfc5.svg?v=1718348667",
+        "ggx6FYywMWR_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_21.png",
+        "ggy0s0EIoju_childItem_0": "<p>SPECIFICATIONS</p>",
+        "ggy0s0EIoju_childItem_1": "<p>SHIPPING &amp; RETURNS</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636444779831690043"
+    }
+  },
+  "order": [
+    "gp_section_636444779831427899",
+    "gp_section_636444779831362363",
+    "gp_section_636444779831690043",
+    "gp_section_636444779831558971",
+    "gp_section_636444779831493435",
+    "gp_section_636444779831624507"
+  ],
+  "layout": "theme.gempages.blank"
+}

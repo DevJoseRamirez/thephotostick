@@ -1,0 +1,25 @@
+<!-- Hide announcement bar -->
+{% assign hide_announcement_handles = ",get-thephotostick-omni-special-offer-g,get-thephotostick-omni-special-offer-now-b,shop-thephotostick-omni-holiday-savings,get-thephotostick-omni-x-special-offer-now" | split: "," %}
+{% assign hide_announcement_urls = "" | split: "," %}
+
+{% if hide_announcement_handles contains handle or hide_announcement_urls contains request.path %}
+  <style>
+    #shopify-section-sections--19992166793352__announcement-bar {
+      display: none !important;
+    }
+  </style>
+{% endif %}
+
+<!-- Hide announcement bar on Shopify pages -->
+{% assign hide_announcement_handles = "shop-thephotostick-omni-holiday-savings,get-thephotostick-omni-special-offer-now" | split: "," %}
+{% assign hide_announcement_urls = "/blogs/help-and-troubleshooting/what-to-do-if-thephotostick-omni-drive-is-not-detected-by-your-mobile-device,/products/get-thephotostick-omni-x-special-offer-now,/products/shop-thephotostick-omni-holiday-savings" | split: "," %}
+
+{% if hide_announcement_handles contains handle or hide_announcement_urls contains request.path %}
+  <style>
+    [id^="shopify-section"][id$="announcement-bar"] {
+      display: none !important;
+    }
+  </style>
+{% endif %}
+
+

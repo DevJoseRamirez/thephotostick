@@ -1,0 +1,39 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-9c6bf564": {
+      "type": "pf-9c6bf564",
+      "settings": {
+        "pf_1ee35772_value": "<b>Brauchen Sie Hilfe?</b><br>Falls Sie weitere Informationen zum ThePhotostick® wünschen oder Unterstützung bei Ihrer ThePhotostick® Bestellung benötigen, ausgezeichneten Kundenbetreuer gerne zur Verfügung, um Ihnen schnell und einfach weiterzuhelfen!<br><br><b>Kontaktieren Sie ThePhotostick®</b><br><br>Kontaktname: Olivia Watson<br><br>PO Box 234 <br>Haxtun, CO 80731<br><br>Handelsregisternummer: SR 20205925458<br><br>Per E-mail: <a href=\"mailto:tps_support@thephotostick.com?subject=Kontakt%20zu%20ThePhotoStick\">tps_support@thephotostick.com</a><br><br><span style=\"font-style: italic;\">Sie können uns rund um die Uhr, 7 Tage die Woche per E-Mail erreichen.</span>",
+        "pf_c418db71_value": "<a href=\"/pages/about-us\" target=\"_blank\">Über uns</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Kontakt</a>&nbsp; &nbsp; &nbsp;<a href=\"/pages/terms-conditions\" target=\"_blank\">Nutzungsbedingungen</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Datenschutzerklärung</a>",
+        "pf_0bb554fa_alt": "I had a grand total of about 60,000 images, with many duplicates. This little \"stick\" managed to eliminate the duplicates so that I now have about 24,00 originals preserved forever in a fire-proof vault, a cost-free and independent method of safekeeping.",
+        "pf_54faecbf_alt": "The Photo Stick works just the way it says it does; very easy to use. I checked it when done, and there were my pictures. There is so much room on the stick that I should be able to use it for years to backup documents and pictures",
+        "pf_79f49871_alt": "Easy breezy, just plug into your computer and follow the directions. I wish I had this way back when I had my first camera phone so I wouldn't have lost so many pictures of my kids, other family, and friends, and important events.",
+        "pf_a95f79f4_alt": "So easy to use. Can move tons of old keepable photos off my other devices and onto this stick. I must have moved 500 photos to the stick and the \"needle\" barely moved. Totally happy with it - especially at a rather low cost.",
+        "pf_96220bb5_alt": "This thing is amazing! Plugged it into my iMac and it found all my pics and saved them. 85,000+ pics saved! Saved storage space on my computer and now I have all of these memories over the past decade saved in a safe place",
+        "pf_ecbfa95f_alt": "This was an excellent product to save my pictures. It captured all my photos off a computer that had crashed. I was very happy with the stick.",
+        "pf_e86e5d5c_value": "Here's Why Customers Love ThePhotoStick Products",
+        "pf_0bb554fa_title": "C. Reshetiloff Review",
+        "pf_e35772e1_alt": "ThePhotoStick Omni",
+        "pf_54faecbf_title": "L. Wilson Review",
+        "pf_79f49871_title": "Sharon G. Review",
+        "pf_ecbfa95f_title": "Pastor T. Review",
+        "pf_96220bb5_title": "T. Sharp Review",
+        "pf_a95f79f4_title": "John H. Review",
+        "pf_e2278b1e_value": "Impressum:"
+      }
+    }
+  },
+  "order": [
+    "pf-9c6bf564"
+  ],
+  "layout": "theme.pagefly"
+}

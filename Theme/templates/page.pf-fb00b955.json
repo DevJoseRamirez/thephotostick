@@ -1,0 +1,25 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-fb00b955": {
+      "type": "pf-fb00b955",
+      "settings": {
+        "pf_61c43e6c_code": "<div>\r\n  <p>Note: This form is for submitting Data Subject Access Requests (DSARs) related to privacy rights, such as\r\n    accessing, deleting, or managing personal information. It is not for order inquiries, cancellations, refunds, or\r\n    technical support.</p>\r\n  <p>For assistance with your order or product, please contact our support team by using the chat feature or visiting\r\n    our <a href=\"https://www.thephotostick.com/pages/support-center\">Support Center</a>.</p>\r\n</div>",
+        "pf_28fc1d18_value": "<strong>NOTICE: Disabling cookies may affect your experience on our website.</strong> If you have already denied cookies, or you simply&nbsp;do not see the form provided on this page,&nbsp;please follow these steps:&nbsp;&nbsp;1) Click the Consent Settings button.&nbsp;&nbsp;2) Select Allow All cookies.&nbsp;&nbsp;3) Refresh your browser.<br><br><strong>Important:</strong>&nbsp;Email communication&nbsp;will come from: dpo@prairieit.com",
+        "pf_f97b8d1f_code": "<div style=\"text-align: center;\">\r\n  <a href=\"#\" class=\"termly-display-preferences\"\r\n    style=\"background-color: #1990C6; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px;\">Consent\r\n    Settings</a>\r\n</div>",
+        "pf_53b97144_value": "Data Subject Access Request"
+      }
+    }
+  },
+  "order": [
+    "pf-fb00b955"
+  ]
+}

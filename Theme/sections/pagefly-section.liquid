@@ -1,0 +1,410 @@
+
+{% if section.settings.section_id.size > 0 %}
+  <!-- PageFlyGlobalSection -->
+  {% render 'pagefly-main-js' %}
+  {% render 'pagefly-main-css' %}
+  {% include section.settings.section_id %}
+{% else %}
+  
+    {% if request.design_mode %}
+      <style>.pf-ph{font-size:14px!important;background:#fafafa;padding:20px;text-align:center;border:1px solid #f0f0f0;border-radius:4px;margin:15px}.pf-ph span{display:block;background:#e6f7ff;padding:8px 15px;border:1px solid #91d5ff}</style>
+      <div class="pf-ph">
+        <h3>PageFly Section</h3>
+        <span>No section selected. Please select your section from the list</span>
+      </div>
+    {% endif %}
+  
+{% endif %}
+
+{% schema %}
+{
+  "name": "PageFly Section",
+  "settings": [
+    {
+      "id": "section_id",
+      "type": "select",
+      "label": "Sections",
+      "options": [
+        {
+          "label": "Select section",
+          "value": ""
+        },
+        {
+          "label": "Holiday Sale - End",
+          "value": "pf-3baeeb4d"
+        },
+        {
+          "label": "Holiday Sale - Reviews",
+          "value": "pf-4a9c2dbb"
+        },
+        {
+          "label": "Holiday Sale - 3 Features",
+          "value": "pf-6328af9d"
+        },
+        {
+          "label": "SON - Mobile",
+          "value": "pf-d66aa6b7"
+        },
+        {
+          "label": "Holiday Sale - KFB",
+          "value": "pf-c63384b6"
+        },
+        {
+          "label": "Holiday Sale - Mobile",
+          "value": "pf-4ff11a6f"
+        },
+        {
+          "label": "Holiday Sale - Desktop",
+          "value": "pf-2ae71c97"
+        },
+        {
+          "label": "SON - Desktop",
+          "value": "pf-91fb877f"
+        },
+        {
+          "label": "SON - Above Offer",
+          "value": "pf-26a9cbce"
+        },
+        {
+          "label": "SON - Last Chance",
+          "value": "pf-bc1ddc52"
+        },
+        {
+          "label": "SON - Promo Announcement - TPSO X",
+          "value": "pf-2c7a2f85"
+        },
+        {
+          "label": "SON - Promo Announcement",
+          "value": "pf-29110013"
+        },
+        {
+          "label": "SON - Promo Announcement",
+          "value": "pf-ca44974e"
+        },
+        {
+          "label": "Holiday Sale - FAQ",
+          "value": "pf-dc4a4e2a"
+        },
+        {
+          "label": "Holiday Sale - Top Menu",
+          "value": "pf-59ffe61f"
+        },
+        {
+          "label": "Holiday Sale - Bundles",
+          "value": "pf-cdc106ec"
+        },
+        {
+          "label": "Holiday Sale - Above Offer",
+          "value": "pf-7f8314c3"
+        },
+        {
+          "label": "Holiday Sale - 3 Steps",
+          "value": "pf-2951f138"
+        },
+        {
+          "label": "SON - Mobile - TPSO X",
+          "value": "pf-986dc062"
+        },
+        {
+          "label": "SON - FAQ - TPSO X",
+          "value": "pf-851f5bfe"
+        },
+        {
+          "label": "SON - Desktop - TPSO X",
+          "value": "pf-02814193"
+        },
+        {
+          "label": "SON - Top Menu - TPSO X",
+          "value": "pf-b79d8102"
+        },
+        {
+          "label": "SON - Bundles - Travel Tech Case - TPSO X",
+          "value": "pf-c63dc32d"
+        },
+        {
+          "label": "SON - As Seen On - TPSO X",
+          "value": "pf-d8b952b7"
+        },
+        {
+          "label": "SON - 3 Steps - TPSO X",
+          "value": "pf-f988324e"
+        },
+        {
+          "label": "SON - Reviews - TPSO X",
+          "value": "pf-8414caa0"
+        },
+        {
+          "label": "SON - Risk - TPSO X",
+          "value": "pf-c5f2fccd"
+        },
+        {
+          "label": "SON - Last Chance - 30-Day - TPSO X",
+          "value": "pf-4be38a77"
+        },
+        {
+          "label": "SON - Last Chance - TPSO X",
+          "value": "pf-eaf5a0ef"
+        },
+        {
+          "label": "SON - Above Offer - TPSO X",
+          "value": "pf-75894fec"
+        },
+        {
+          "label": "SON - Top Menu",
+          "value": "pf-9a0ffbb4"
+        },
+        {
+          "label": "SON - Risk",
+          "value": "pf-d701610b"
+        },
+        {
+          "label": "SON - As Seen On",
+          "value": "pf-0c2a19b7"
+        },
+        {
+          "label": "SON - FAQ",
+          "value": "pf-2792b56f"
+        },
+        {
+          "label": "SON - Last Chance - 30-Day",
+          "value": "pf-88b2d2d1"
+        },
+        {
+          "label": "SON - Reviews",
+          "value": "pf-b25ff135"
+        },
+        {
+          "label": "SON - 3 Steps",
+          "value": "pf-231eb2ef"
+        },
+        {
+          "label": "SON - Bundles - TPSO Case",
+          "value": "pf-4bbb49f8"
+        },
+        {
+          "label": "SON - Bundles - KFB",
+          "value": "pf-24baf895"
+        },
+        {
+          "label": "SON - Bundles (B)",
+          "value": "pf-bc37d7cc"
+        },
+        {
+          "label": "TPS - 2026 Footer",
+          "value": "pf-ceb3a6cb"
+        },
+        {
+          "label": "Kaching Button",
+          "value": "pf-17172be5"
+        },
+        {
+          "label": "Special Offer 25",
+          "value": "pf-b9c7765b"
+        },
+        {
+          "label": "Special Offer G - PT - 25",
+          "value": "pf-5bb493b5"
+        },
+        {
+          "label": "App-Exclusive Offer Section",
+          "value": "pf-4d3b37ac"
+        },
+        {
+          "label": "TPS 2025 Footer - FR",
+          "value": "pf-e984f2da"
+        },
+        {
+          "label": "TPSO 2.0",
+          "value": "pf-c86dfebc"
+        },
+        {
+          "label": "TPS - 2025 Footer - DE",
+          "value": "pf-6b7d50e4"
+        },
+        {
+          "label": "G Promo Banner",
+          "value": "pf-a5ba5ed8"
+        },
+        {
+          "label": "Home Reviews",
+          "value": "pf-dbf22799"
+        },
+        {
+          "label": "Home Product",
+          "value": "pf-e2a391a8"
+        },
+        {
+          "label": "Home Best Seller",
+          "value": "pf-b69d3036"
+        },
+        {
+          "label": "Home Sign Up",
+          "value": "pf-287a2416"
+        },
+        {
+          "label": "Home > LP",
+          "value": "pf-e8e529ea"
+        },
+        {
+          "label": "Home Intro",
+          "value": "pf-cfa10680"
+        },
+        {
+          "label": "Special Offer G - Top Banner",
+          "value": "pf-c99dfb5c"
+        },
+        {
+          "label": "Secure Your Photos - Offer Section",
+          "value": "pf-fef6ed45"
+        },
+        {
+          "label": "Secure Your Photos - Top Banner",
+          "value": "pf-3112e835"
+        },
+        {
+          "label": "BWP Offer Section",
+          "value": "pf-cdd848e1"
+        },
+        {
+          "label": "Single Offer Section - Kaching",
+          "value": "pf-81fc7a05"
+        },
+        {
+          "label": "Offers - Desktop & Mobile",
+          "value": "pf-9460086a"
+        },
+        {
+          "label": "Consent Settings",
+          "value": "pf-8b1450ed"
+        },
+        {
+          "label": "2024 FAQ",
+          "value": "pf-5d496d4a"
+        },
+        {
+          "label": "Top Features",
+          "value": "pf-68d30883"
+        },
+        {
+          "label": "TPSO Case Bundles",
+          "value": "pf-f4da3c95"
+        },
+        {
+          "label": "TPS LP Footer Links",
+          "value": "pf-4fe98bc7"
+        },
+        {
+          "label": "TPS Header - Mobile",
+          "value": "pf-0d952a90"
+        },
+        {
+          "label": "Cookies Notice",
+          "value": "pf-00b41ced"
+        },
+        {
+          "label": "Cookie Top Banner",
+          "value": "pf-9fdb0018"
+        },
+        {
+          "label": "TPSO+Case Promo",
+          "value": "pf-e4cb7cb6"
+        },
+        {
+          "label": "Support Form",
+          "value": "pf-e007c75d"
+        },
+        {
+          "label": "Special Offer G - Main Offer Section",
+          "value": "pf-4d553e8b"
+        },
+        {
+          "label": "Promo Carousel",
+          "value": "pf-bc7d10cd"
+        },
+        {
+          "label": "Mobile Offer Carousel",
+          "value": "pf-9af0e01a"
+        },
+        {
+          "label": "2023 Press Links",
+          "value": "pf-d1f71daa"
+        },
+        {
+          "label": "Google Shopping - Top Offer",
+          "value": "pf-ad40f350"
+        },
+        {
+          "label": "Google Shopping - Strip",
+          "value": "pf-d97f8906"
+        },
+        {
+          "label": "Google Shopping - Video",
+          "value": "pf-500190c3"
+        },
+        {
+          "label": "Google Shopping - Promo Other Products",
+          "value": "pf-3212ff93"
+        },
+        {
+          "label": "Google Shopping - Coupon Offer",
+          "value": "pf-a93e6cca"
+        },
+        {
+          "label": "Single Deal",
+          "value": "pf-2c432b27"
+        },
+        {
+          "label": "Bundle Deals",
+          "value": "pf-417af0e0"
+        },
+        {
+          "label": "TPS Omni B2G2",
+          "value": "pf-57d42c7a"
+        },
+        {
+          "label": "Offer Section - Coupon Code",
+          "value": "pf-6c4560a7"
+        },
+        {
+          "label": "Support Guides - Apps",
+          "value": "pf-575db55f"
+        },
+        {
+          "label": "Apps",
+          "value": "pf-6c450976"
+        },
+        {
+          "label": "Support Center Breadcrumb",
+          "value": "pf-382d1d51"
+        },
+        {
+          "label": "TPS Header",
+          "value": "pf-190f6a91"
+        },
+        {
+          "label": "Countdown",
+          "value": "pf-7e055e67"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Find and edit your section on the [section listing](https://thephotostick.myshopify.com/admin/apps/pagefly/sections)"
+    },
+    {
+      "type": "paragraph",
+      "content": "To add block to a section, please use the App Block element on PageFly section editor."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+    }
+  ],
+  "presets": [
+    {
+      "name": "PageFly Section"
+    }
+  ]
+}
+{% endschema %}

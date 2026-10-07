@@ -1,0 +1,39 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-5d0219cb": {
+      "type": "pf-5d0219cb",
+      "settings": {
+        "pf_aaf73b07_value": "This limited warranty covers defects in materials and workmanship in ThePhotoStick or ThePhotoStick Mobile  in the first 30 days after shipment. <br><br>&nbsp;Our entire liability and your exclusive remedy is limited to the price paid for ThePhotoStick, ThePhotoStick Mobile or ThePhotoStick Omni, if any. In no event shall Prairie IT LLC or our licensors be liable to you for any consequential, special, incidental or indirect damages of any kind.",
+        "pf_4e74d27a_value": "<br>Just email us at <a href=\"mailto:returns@thephotostick.com?subject=ThePhotoStick%20Return%20Inquiry\"><b>returns@thephotostick.com</b></a> to receive your required return instructions.",
+        "pf_670da2bd_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the blue chat circle at the bottom right of this page or send them a message using the form below.",
+        "pf_2f17a808_value": "You can return ThePhotoStick, ThePhotoStick Mobile, or ThePhotoStick Omni for any reason within 30 days, beginning the date of delivery, for a full refund of your purchase amount.",
+        "pf_7a22f4ce_value": "*Shipping and handling charges and taxes paid (e.g. state, customs, VAT) are non-refundable.",
+        "pf_ab488067_value": "Still Can't Find What You're Looking For?",
+        "pf_7519dd06_value": "Our return and refund process is simple!",
+        "pf_31e01e09_placeholder": "What can we help you with today?",
+        "pf_61cb5410_value": "ThePhotoStick® Limited Warranty:",
+        "pf_cb3f9b75_value": "Return and Refund Process",
+        "pf_e5d5177d_value": "Return and Refund FAQs",
+        "pf_6465c54b_value": "Submit Form",
+        "pf_699ee165_label_text": "First Name",
+        "pf_9d8935b1_label_text": "First Name",
+        "pf_65a8d6e8_placeholder": "Last Name",
+        "pf_a8d6e863_label_text": "Last Name",
+        "pf_31e01e09_label_text": "Message",
+        "pf_65a8d6e8_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-5d0219cb"
+  ]
+}

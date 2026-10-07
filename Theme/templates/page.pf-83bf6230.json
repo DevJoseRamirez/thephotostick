@@ -1,0 +1,48 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-83bf6230": {
+      "type": "pf-83bf6230",
+      "settings": {
+        "pf_7bed301c_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the blue chat circle at the bottom right of this page or send them a message using the form below.",
+        "pf_79b182bf_value": "Looking for more in-depth knowledge on ThePhotoStick? Our official user guide can answer all of your questions and help troubleshoot any issues you may run into.",
+        "pf_07f5fdd3_value": "<span style=\"font-weight: bold;\">Windows<br><br></span>Windows 7 SP1, Windows 8, Windows 8.1, Windows 10, Windows 11",
+        "pf_37090a18_value": "Getting started is a breeze! Quickly and easily begin using ThePhotoStick, with our downloadable Quick Start Guide.",
+        "pf_20102818_value": "Looking for help with ThePhotoStick for PC and Mac Computers? You've come to the right place!",
+        "pf_6bc37284_alt": "Easily get started with ThePhotoStick for PC and Mac Computers Quick Start Guide",
+        "pf_21f26ec1_value": "<span style=\"font-weight: bold;\">iOS<br><br></span>macOS 10.13 and later<br>",
+        "pf_919d43b4_title": "ThePhotoStick for PC and Mac Computers Official User Guide",
+        "pf_302c0820_value": "Getting Started: ThePhotoStick® for PC and Mac Computers",
+        "pf_6bc37284_title": "ThePhotoStick for PC and Mac Computers Quick Start Guide",
+        "pf_0de95e2d_value": "The PhotoStick® for PC and Mac Computers User Guides",
+        "pf_cd64db2c_value": "The PhotoStick® for PC and Mac Computers - FAQs",
+        "pf_cf517c7b_value": "Still Can't Find What You're Looking For?",
+        "pf_2f5fb4bb_placeholder": "What can we help you with today?",
+        "pf_c2bddb40_value": "System Requirements:",
+        "pf_f87ffd79_value": "Official User Guide",
+        "pf_44195191_value": "View PDF Download",
+        "pf_84fa4e37_value": "Quick Start Guide",
+        "pf_18739c3c_value": "View Web Version",
+        "pf_276aad11_text": "Submit Form",
+        "pf_93d754f8_label_text": "First Name",
+        "pf_e98ed4a1_label_text": "First Name",
+        "pf_4c61f7ed_label_text": "Last Name",
+        "pf_f84c61f7_placeholder": "Last Name",
+        "pf_2f5fb4bb_label_text": "Message",
+        "pf_c389affc_value": "Divider",
+        "pf_8ed4a13f_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-83bf6230"
+  ]
+}

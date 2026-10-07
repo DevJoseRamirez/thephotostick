@@ -1,0 +1,75 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-800d1b92": {
+      "type": "pf-800d1b92",
+      "settings": {
+        "pf_0dd206d7_code": "<!-- Global site tag (gtag.js) - Google Ads: 441272717 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-441272717\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-441272717');\n</script>\n\n<!-- Event snippet for ThePhotoStick For Computers -  Product Page - PIT - Page view conversion page -->\n<script>\n  gtag('event', 'conversion', {'send_to': 'AW-441272717/1OUwCLTH9vkBEI2TtdIB'});\n</script>\n\n\n<script data-cfasync=\"false\" src=\"https://track.thephotostickquiz.com/integration/lumetric.js?2.2.0\"></script>\n<script>\n  var lum = new Lumetric();\n</script>\n\n<script>\nlum.event('view', {\n  'query': {\n    'f': '0tXCrOiMHG3c',\n    'n': '0wC936dZ04h3',\n    'p': '0wC8jUKY9bnJ',\n    // 'ts': '0tXRWF1nMBVT',\n    // 'c': '{COST}'\n  },\n  'options': {\n\t'cookieAllowed': true,\n\t'urlRewrite': true,\n    'timeOnPage': false,\n    'resolveTokens': [],\n  },\n  'onDone': function (response) {}\n});\n</script>\n\n\n<!-- Taboola Pixel Code -->\n<script type='text/javascript'>\n  window._tfa = window._tfa || [];\n  window._tfa.push({notify: 'event', name: 'page_view', id: 1379300});\n  !function (t, f, a, x) {\n         if (!document.getElementById(x)) {\n            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);\n         }\n  }(document.createElement('script'),\n  document.getElementsByTagName('script')[0],\n  '//cdn.taboola.com/libtrc/unip/1379300/tfa.js',\n  'tb_tfa_script');\n</script>\n<!-- End of Taboola Pixel Code -->\n\n<!-- Taboola Pixel event Code -->\n<script>\n    _tfa.push({notify: 'event', name: 'tps_for_computers_sales_page_view_content', id: 1379300});\n</script>\n<!-- End of Taboola Pixel Code -->\n\n\n<!-- Facebook Pixel Code TPS & XPC Ad Account -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '888738925033509');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=888738925033509&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
+        "pf_c572d7ed_value": "What would you do if your computer crashed? Got lost or stolen? Thousands upon thousands of incredible family memories wiped out just like that. <span style=\"font-weight: normal;\">Everything gone simply because your computer had a little glitch! And having them professionally retrieved can cost serious $$$ – YIKES!</span><br><br><span style=\"font-weight: normal;\">But now, there’s an amazing new device that gives you</span> the power to download and protect all your memories with the single click of a button. <span style=\"font-weight: normal;\">You can easily save up to 60,000 photos and videos automatically without the headache of manually backing up each file individually! Just ONE click and you’re done – seriously!</span><br>",
+        "pf_59b89904_value": "We are committed to delighting each customer of ThePhotoStick. We are so confident you will love it, that we offer a no-risk 60-Day Money Back Guarantee, starting at the day of delivery.<br><br>Try out ThePhotoStick for PC and Mac computers, or ThePhotoStick Mobile for iPhone or Android smartphones, with no risk! If you have any issues and are not completely satisfied with your purchase for whatever reason, simply contact returns@thephotostick.com or visit our Live Chat support at thephotostick.com.",
+        "pf_bece52a7_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_37ca9fc0_value": "ThePhotoStick® is compatible with nearly all modern computers using Windows and Mac Operating Systems:<br><br><span style=\"font-weight: bold;\">Windows</span>: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10.<br><br><span style=\"font-weight: bold;\">Mac</span>: Mac OS X Version 10.7 and later.<br>",
+        "pf_a45bfb2a_value": "No, that’s what makes it so great! ThePhotoStick® does not need to install anything on your computer, nor does it require anything to be already installed on your computer.<br><br>ThePhotoStick® comes with everything it needs — you simply need to plug it into an available USB slot and it’s ready to run.",
+        "pf_2a4a0625_alt": "I had a grand total of about 60,000 images, with many duplicates. This little \"stick\" managed to eliminate the duplicates so that I now have about 24,00 originals preserved forever in a fire-proof vault, a cost-free and independent method of safekeeping.",
+        "pf_49d5cc69_value": "ThePhotoStick® is a small USB flash drive that instantly backs up your priceless memories WITHOUT the frustration of searching and organizing them yourself!<br><br>✅ Easy to Use<br>✅ No Software to Install<br>✅ Removes Duplicates<br>",
+        "pf_06257b91_alt": "The Photo Stick works just the way it says it does; very easy to use. I checked it when done, and there were my pictures. There is so much room on the stick that I should be able to use it for years to backup documents and pictures",
+        "pf_2f6165e0_alt": "Easy breezy, just plug into your computer and follow the directions. I wish I had this way back when I had my first camera phone so I wouldn't have lost so many pictures of my kids, other family, and friends, and important events.",
+        "pf_ef602f61_alt": "So easy to use. Can move tons of old keepable photos off my other devices and onto this stick. I must have moved 500 photos to the stick and the \"needle\" barely moved. Totally happy with it - especially at a rather low cost.",
+        "pf_3ec82a4a_alt": "This thing is amazing! Plugged it into my iMac and it found all my pics and saved them. 85,000+ pics saved! Saved storage space on my computer and now I have all of these memories over the past decade saved in a safe place",
+        "pf_761cc3b3_value": "Yes, it’s a great backup solution! Many people leave the ThePhotoStick® plugged in and do a quick and easy weekly backup to make sure they are continually protecting their memories.",
+        "pf_7b91ef60_alt": "This was an excellent product to save my pictures. It captured all my photos off a computer that had crashed. I was very happy with the stick.",
+        "pf_bcf54257_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_1c1b1d22_value": "Never Lose a Precious Memory Again With This Revolutionary Device",
+        "pf_362853fc_label": "What photo and video file types can ThePhotoStick® find and save?",
+        "pf_02c1a45b_label": "Does ThePhotoStick® need to install anything on my computer?",
+        "pf_80d83acd_value": "Easily Backup ALL Your Photos &amp; Videos in ONE Click!",
+        "pf_8230761c_label": "Can I use ThePhotoStick® as an ongoing backup solution?",
+        "pf_da618f42_value": "When the file backup program pops up, simply hit 'GO'",
+        "pf_95a8cc07_value": "Easily plugs into an empty USB slot on your computer",
+        "pf_98f5d66a_value": "Your photos and videos are safely stored in minutes!",
+        "pf_2362b449_value": "Keep Your Memories Safe With ThePhotoStick®!",
+        "pf_a12d37ca_label": "Which computers can I use ThePhotoStick® on?",
+        "pf_4c4d842f_value": "Using ThePhotoStick Is As Easy As 1, 2, 3!",
+        "pf_400226d2_value": "Here's Why Customers Love ThePhotoStick",
+        "pf_fca2d37d_value": "60-Day Money Back Guarantee",
+        "pf_1c6319aa_value": "Frequently Asked Questions",
+        "pf_78341a8d_value": "Now Available in 3 Sizes!",
+        "pf_24d8b398_value": "Everything Is Backed Up!",
+        "pf_2a4a0625_title": "C. Reshetiloff Review",
+        "pf_0f5ebcf5_value": "Payments accepted:",
+        "pf_1b928252_alt": "ThePhotoStick Logo",
+        "pf_bcf54257_title": "Payments Accepted",
+        "pf_06257b91_title": "L. Wilson Review",
+        "pf_2f6165e0_title": "Sharon G. Review",
+        "pf_7b91ef60_title": "Pastor T. Review",
+        "pf_3ec82a4a_title": "T. Sharp Review",
+        "pf_ef602f61_title": "John H. Review",
+        "pf_832f8295_value": "Plug It In",
+        "pf_096cc551_text": "ORDER NOW",
+        "pf_3623e16c_text": "ORDER NOW",
+        "pf_5cca2891_text": "ORDER NOW",
+        "pf_87c5b9c1_value": "ORDER NOW",
+        "pf_8b0141ae_value": "ORDER NOW",
+        "pf_cd324661_value": "ORDER NOW",
+        "pf_58766bda_value": "Hit 'Go'",
+        "pf_4e88cc85_value": "Divider",
+        "pf_57dbaafe_value": "Divider",
+        "pf_7d278c17_value": "Divider",
+        "pf_aa33802d_value": "Divider",
+        "pf_fe3d4f03_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-800d1b92"
+  ],
+  "layout": "theme.pagefly"
+}

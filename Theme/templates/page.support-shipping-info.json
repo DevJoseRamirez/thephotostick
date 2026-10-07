@@ -1,0 +1,626 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "heading_size": "title-xl tracking-heading",
+        "heading_alignment": "text-left",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 72,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "images_with_text_overlay_Drgjg6": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "heading_nytEam": {
+          "type": "heading",
+          "settings": {
+            "heading": "Support Center",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_xVwCLA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Easily access all the information you need, from FAQs and user guides to video tutorials and expert tips.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nytEam",
+        "text_xVwCLA"
+      ],
+      "name": "t:sections.images-with-text-overlay.name",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "650px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/14_94160f78-4061-4fec-9bbd-44f9ac8871ec.png",
+        "image_2": "shopify://shop_images/TPSO_X_12.png",
+        "image_3": "shopify://shop_images/13_7e2953ee-072b-4de6-984a-8df1ebcfe16f.png",
+        "image_4": "shopify://shop_images/Pinterest_Posts_1.png",
+        "image_5": "shopify://shop_images/25_5521f082-134a-4c1c-96cd-286ab024672d.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "#ff9c27",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "rich_text_dhWtRq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UgFkfM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Shipping Information</em> for ThePhotoStick®",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "half_text",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_jUQygg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Delivery times may be extended due to volume and carrier availability, and we are currently experiencing longer than normal shipping times to international destinations. Thank you for your patience as we work through this together!</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_ge7JNr": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Standard Shipment Times Vary by Location:</strong></p><p><strong>US Destinations:</strong> 5-8 business days in transit<br/><br/><strong>Canada:</strong> 2-6 weeks in transit<br/><br/><strong>International Destinations:</strong> 2-8 weeks in transit<br/><em>*Please note that certain international destinations, such as Mexico and Israel, are experiencing longer shipping delays.</em></p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UgFkfM",
+        "text_jUQygg",
+        "text_ge7JNr"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 32,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_Xkc3Tk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7QVzbm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shipping Delays",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_C6ETac": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most International packages are delivered within 2-8 weeks, however, some packages have been delayed by an additional 2-6 weeks. To minimize delays, be sure to provide an accurate shipping address and telephone number.<br/><br/>Please also be aware that delays in customs are becoming increasingly common. Packages may take longer to get to international destinations, and unfortunately, we cannot control or prevent this type of delay. WE ARE NOT RESPONSIBLE for any packages lost, stolen or delayed by the shipping or postal service. </p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7QVzbm",
+        "text_C6ETac"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_ghtDgp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cawVTi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tracking Your Current Order:",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_i7Fzza": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>All shipments are sent by DHL Global Mail</strong></p><p>You can track your shipment via the DHL Global Mail tracking system by clicking the link below.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_BhFEQf": {
+          "type": "button",
+          "settings": {
+            "button_label": "TRACK YOUR ORDER NOW",
+            "button_link": "https://webtrack.dhlglobalmail.com/",
+            "button_style": "link",
+            "button_size": "md",
+            "button_external": true,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_cawVTi",
+        "text_i7Fzza",
+        "button_BhFEQf"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "",
+        "gradient_background": "linear-gradient(228deg, rgba(50, 189, 252, 1) 14%, rgba(0, 139, 216, 1) 83%)",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_Jx7hiA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ztgTkY": {
+          "type": "heading",
+          "settings": {
+            "heading": "International Customs Fees and Taxes",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_tYGnUW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Import duties, taxes, and charges are not included in the item price or shipping cost. These charges are the buyer's responsibility. Please check with your country's customs office to determine what these additional costs will be prior to purchasing.<br/><br/>We have no advance knowledge of such fees, cannot manipulate the values, and cannot pay potential fees for you. You are responsible for any importation costs that may arise.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ztgTkY",
+        "text_tYGnUW"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 32,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "faq_jDHwMK": {
+      "type": "faq",
+      "blocks": {
+        "question_TynDNH": {
+          "type": "question",
+          "settings": {
+            "title": "When will my order arrive?",
+            "text": "<p>All shipments are sent by DHL Global Mail, and you can track your shipment via the DHL Global Mail tracking system at <a href=\"https://webtrack.dhlglobalmail.com/\" target=\"_blank\">https://webtrack.dhlglobalmail.com/</a> </p><p>For more up-to-date information regarding shipping times and delays, we recommend visiting our <a href=\"https://www.thephotostick.com/pages/support-shipping-information\" target=\"_self\">Shipping Information page</a>.  </p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_GAkeUw": {
+          "type": "question",
+          "settings": {
+            "title": "Will I have to pay any additional customs, duties, or VAT fees when I receive my order?",
+            "text": "<p>Depending on your country, it is possible that you will be charged one or more of these fees when you receive your order.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_XVGCjt": {
+          "type": "question",
+          "settings": {
+            "title": "How does the 30-Day Money-Back Guarantee work?",
+            "text": "<p>We offer a no-hassle, 30-Day Money Back Guarantee. If you're not 100% satisfied with your purchase from ThePhotoStick®, our team is here to assist you with a return. We want you to be happy!<br/><br/>If you are not completely satisfied with your order, please contact us at returns@thephotostick.com, and we'd be happy to facilitate your return and issue a refund. For more information regarding our return process, check out our <a href=\"/pages/support-return-and-refund-process\" title=\"Support - Return and Refund Process\">Returns and Refunds page</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_7nYLPn": {
+          "type": "question",
+          "settings": {
+            "title": "I accidentally ordered the wrong version of ThePhotoStick. What should I do?",
+            "text": "<p>That's no problem! </p><p>To cancel or make changes to your current order, please email our Customer Support Team at <a href=\"mailto:support@thephotostick.com\" target=\"_blank\">support@thephotostick.com</a> or simply click the gray chat icon at the bottom of your screen to begin chatting with a live support agent.</p><p>To ensure a smooth and quick process, please have your order confirmation number, found in your confirmation email, ready. </p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_TynDNH",
+        "question_GAkeUw",
+        "question_XVGCjt",
+        "question_7nYLPn"
+      ],
+      "name": "t:sections.faq.name",
+      "settings": {
+        "style": "with-border",
+        "heading": "FAQs",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "highlight_text_bdxp9c": {
+      "type": "highlight-text",
+      "blocks": {
+        "heading_nK8Lny": {
+          "type": "heading",
+          "settings": {
+            "heading": "We're Here to <em>Help</em>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "scribble",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nK8Lny"
+      ],
+      "name": "t:sections.highlight-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 12,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "image_with_text_emXrib": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WMN7Ea": {
+          "type": "heading",
+          "settings": {
+            "heading": "Need Assistance?",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_FFMh9d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Click the gray circle near the bottom right corner of this page to begin chatting with a member of our Support Team.<br/><br/>Live Chat available Monday-Saturday, 8am-8pm PST</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WMN7Ea",
+        "text_FFMh9d"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "image": "shopify://shop_images/teamwork-makes-the-dream-work.jpg",
+        "image_height": "650px",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "contact_form_MRBYgM": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.name",
+      "settings": {
+        "heading": "Contact Us",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "#008bd8",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#008bd8",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "images_with_text_overlay_Drgjg6",
+    "rich_text_dhWtRq",
+    "rich_text_Xkc3Tk",
+    "rich_text_ghtDgp",
+    "rich_text_Jx7hiA",
+    "faq_jDHwMK",
+    "highlight_text_bdxp9c",
+    "image_with_text_emXrib",
+    "contact_form_MRBYgM"
+  ]
+}

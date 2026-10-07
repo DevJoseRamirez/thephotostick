@@ -1,0 +1,64 @@
+<!-- Button Logic for sales pages --> 
+{% if product.handle == 'get-thephotostick-omni-special-offer-now'
+  or product.handle == 'shop-thephotostick-omni-holiday-savings'
+  or product.handle == 'thephotostick-omni-3' 
+  or product.handle == 'get-thephotostick-omni-x-special-offer-now' %}
+  <style>
+    [id^="button-"],
+    [id^="button-"] * {
+      pointer-events: auto !important;
+      cursor: pointer !important;
+    }
+  </style>
+
+  <script>
+    (function () {
+      var scrollMap = {
+        "button-1": "howto-section",
+        "button-2": "reviews-section",
+        "button-3": "offer-section",
+        "button-4": "offer-section",
+        "button-5": "offer-section",
+        "button-6": "offer-section",
+        "button-7": "offer-section",
+        "button-8": "offer-section",
+        "button-9": "offer-section",
+        "button-10": "offer-section"
+      };
+
+      function clearHashOnLoad() {
+        if (window.location.hash) {
+          history.replaceState(null, "", window.location.pathname + window.location.search);
+        }
+      }
+
+      function getTriggerFromClick(target) {
+        if (!target) return null;
+        return target.closest('[id^="button-"]');
+      }
+
+      function handleClick(e) {
+        var trigger = getTriggerFromClick(e.target);
+        if (!trigger) return;
+
+        var triggerId = trigger.id;
+        var targetId = scrollMap[triggerId];
+        if (!targetId) return;
+
+        var targetEl = document.getElementById(targetId);
+        if (!targetEl) return;
+
+        e.preventDefault();
+        e.stopPropagation();
+
+        targetEl.scrollIntoView({
+          behavior: "smooth",
+          block: "start"
+        });
+      }
+
+      clearHashOnLoad();
+      document.addEventListener("click", handleClick, true);
+    })();
+  </script>
+{% endif %}

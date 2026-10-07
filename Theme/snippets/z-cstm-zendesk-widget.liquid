@@ -1,0 +1,22 @@
+<!-- ThePhotoStick Zendesk Widget script -->
+
+{% assign excluded_product_handles = 'get-thephotostick-omni-special-offer-now,shop-thephotostick-omni-holiday-savings,thephotostick-omni-photo-video-backup,get-thephotostick-omni-x-special-offer-now,get-thephotostick-omni-special-offer-now-b,get-thephotostick-omni-special-offer-g,thephotostick-omni-buy-with-prime,protect-your-memories-with-thephotostick-omni,shop-thephotostick-omni-32gb,shop-thephotostick-omni-64gb,shop-thephotostick-omni-128gb,shop-thephotostick-omni-256gb,shop-thephotostick-omni-512gb,get-thephotostick-omni-x-effortless-photo-protection-em
+,get-thephotostick-omni-x-effortless-photo-protection,back-up-your-precious-photos-with-thephotostick-omni-save10,back-up-your-precious-photos-with-thephotostick-omni,best-photo-backup-devices-of-the-year,get-thephotostick-omni-special-offer-x,get-thephotostick-omni-x-special-offer-b,shop-thephotostick-omni-x-special-offer-now-np,shop-thephotostick-omni-x-holiday-savings,get-thephotostick-omni-x-limited-time-offer' | split: ',' %}
+
+{% assign excluded_urls = '/pages/get-thephotostick-omni-special-offer-g,/blogs/news/thephotostick-omni-protects-your-photos-and-videos-g,/blogs/news/best-photo-backup-devices-of-the-year,/products/get-thephotostick-omni-x-special-offer-now,/pages/get-thephotostick-omni-special-offer-now-b,/products/shop-thephotostick-omni-holiday-savings,/pages/thephotostick-omni-buy-with-prime,/pages/protect-your-memories-with-thephotostick-omni,/news/best-photo-backup-devices-of-the-year-24,/pages/shop-thephotostick-omni-32gb,/pages/shop-thephotostick-omni-64gb,/pages/shop-thephotostick-omni-128gb,/pages/shop-thephotostick-omni-256gb,/pages/shop-thephotostick-omni-512gb,/pages/get-thephotostick-omni-x-effortless-photo-protection,/pages/get-thephotostick-omni-x-effortless-photo-protection-em,/pages/back-up-your-precious-photos-with-thephotostick-omni-save10,/pages/back-up-your-precious-photos-with-thephotostick-omni,/pages/best-photo-backup-devices-of-the-year,/blogs/news/best-photo-backup-devices-of-the-year-24,/blogs/news/find-photos-on-any-computer-phone-or-tablet-with-thephotostick-omni-x,/blogs/help-and-troubleshooting/what-to-do-if-thephotostick-omni-drive-is-not-detected-by-your-mobile-device,/blogs/news/keep-your-family-photos-safe-with-thephotostick-omni-x,/pages/get-thephotostick-omni-special-offer-x,/pages/get-thephotostick-omni-x-special-offer-b,/pages/shop-thephotostick-omni-x-special-offer-now-np,/pages/shop-thephotostick-omni-x-holiday-savings,/pages/shop-thephotostick-omni-x-holiday-savings,/blogs/news/protect-your-family-memories-with-thephotostick-omni-x,/pages/get-thephotostick-omni-limited-time-offer' | split: ',' %}
+
+{% assign hide_zendesk = false %}
+
+{% if product and excluded_product_handles contains product.handle %}
+  {% assign hide_zendesk = true %}
+{% endif %}
+
+{% if excluded_urls contains request.path %}
+  {% assign hide_zendesk = true %}
+{% endif %}
+
+{% unless hide_zendesk %}
+  <script id="ze-snippet"
+    src="https://static.zdassets.com/ekr/snippet.js?key=0d069847-64d1-4956-a729-0543b79d2c35">
+  </script>
+{% endunless %}

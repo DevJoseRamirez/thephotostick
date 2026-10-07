@@ -1,0 +1,153 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_629494476955452061": {
+      "settings": {
+        "checksum": "63bf3de60a5dc8f6681cd41183091abe29a549d3936e4d13d2c9df526b3bffd4_1_1_1_0__1",
+        "gg87EFfmTfU_text": "<p>⚡️ <strong>FREE</strong> Shipping On All U.S. Orders Over $50 ⚡️</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-629494476955452061"
+    },
+    "gp_section_629495740967682717": {
+      "settings": {
+        "checksum": "90fbcc2760b4c125dd1bb99c0585d7384955391449ee75a3fd0f329edad8b68f_1_1_1_0__1",
+        "gg5az4uS-UB_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "gg5az4uS-UB_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggGB1RwRcBl_text": "Shop | Most Popular",
+        "ggYX4BVTG98_label": "Learn More &gt;",
+        "ggsZVy9bv0e_text": "<p>Give their precious memories the home they deserve with our new gift-ready box that showcases their favorite photo.</p>",
+        "ggzO2YqcXy__text": "ThePhotoStick® Keepsake Frame Box"
+      },
+      "type": "gp-section-629495740967682717"
+    },
+    "gp_section_633419483133772778": {
+      "settings": {
+        "checksum": "508655ea45555f3f8dcdf38c39e4e06c6f98f99a553e97d34d230d6e035ba91e_1_1_1_0__1",
+        "ggDl0LlV61a_text": "Shop Summer Savings",
+        "ggPgF6A2Pci_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggPgF6A2Pci_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggrwz6DDeFd_displayContent": "{percent_discount} off"
+      },
+      "type": "gp-section-633419483133772778"
+    },
+    "gp_section_633421194762125909": {
+      "settings": {
+        "checksum": "f0bc6fcc60195011c7b17d0e2123e2be79f045c49b915ccec4d8eef40c0a69d2_1_1_1_0__1",
+        "gg-_wOZwU1D_text": "<p>Don't let your favorite moments disappear.&nbsp;</p><p>ThePhotoStick Omni makes it easy to back up and protect every photo and video.</p>",
+        "ggS0hifyQ2s_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggS0hifyQ2s_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggZseRQ5bP2_label": "<p>SHOP ALL PRODUCTS</p>",
+        "ggcBstoGMXp_text": "Never Worry About&nbsp;<br>Losing a Photo Again",
+        "ggk1caqMCfB_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggk1caqMCfB_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/LP_Assets_8_51853bc0-68ab-4cde-a26e-443742886e36.gif",
+        "ggk1caqMCfB_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/LP_Assets_8_51853bc0-68ab-4cde-a26e-443742886e36.gif"
+      },
+      "type": "gp-section-633421194762125909"
+    },
+    "gp_section_633538652084896630": {
+      "settings": {
+        "checksum": "f328ca39088b411b4e38b9d3c48badfdbd17b35acd727ba4c2eee10c7eaaaa89_1_1_1_0__1",
+        "gg1wDbm6toj_text": "<p>A thoughtful touch when gifting ThePhotoStick Omni to friends and family.</p>",
+        "ggEiclybeM5_label": "<p>SHOP NOW</p>",
+        "ggP9CR0pfuI_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/background_settings.jpg",
+        "ggP9CR0pfuI_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Featured_Image_10.png",
+        "ggP9CR0pfuI_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Featured_Image_10.png",
+        "ggS8ZQChO8q_text": "Protect Every<br>Precious Memory",
+        "ggj2jWgnE-y_text": "ThePhotoStick®&nbsp;<br>Keepsake Frame Box",
+        "ggoKOj2Qzh6_label": "<p>SHOP NOW</p>",
+        "ggxFNEiaSt-_text": "<p>ThePhotoStick Omni backs up photos, videos and more from all of your devices.</p>",
+        "ggz2SRkICA7_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/background_settings.jpg",
+        "ggz2SRkICA7_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Featured_Image_9.png",
+        "ggz2SRkICA7_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Featured_Image_9.png"
+      },
+      "type": "gp-section-633538652084896630"
+    },
+    "gp_section_633540558563836790": {
+      "settings": {
+        "checksum": "dd2328588d26e6d84e37a16464711bca0190a38413091a3a19e8f31d857107eb_1_1_1_0__1",
+        "ggQ5IdPoMLm_text": "Shop ThePhotoStick®"
+      },
+      "type": "gp-section-633540558563836790"
+    },
+    "gp_section_633542694320210938": {
+      "settings": {
+        "checksum": "f8f2c1cbb7f7ee23bdc074d03f182d2af65ebd8151c057f369d9f949220ba008_1_1_1_0__1",
+        "ggI00TW-5Mn_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggI00TW-5Mn_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggIJPSbHyrk_text": "10 Easy Mobile Photography Tips to Capture (and Preserve) Memories That Last",
+        "ggQauXXrEQ0_text": "<p>In today’s world, our phones are more than just devices—they’re memory keepers. Every candid smile, birthday candle, and family adventure gets captured with just a tap. But while snapping photos has never been easier, taking photos worth keeping and keeping them safe takes a little practice.</p><p>&nbsp;</p><p><a href=\"https://www.thephotostick.com/blogs/tips-and-tricks/10-easy-mobile-photography-tips-to-capture-memories-that-last\" target=\"_blank\"><span style=\"color:#038BD8;\"><u>READ MORE &gt;&gt;</u></span></a></p>",
+        "ggjv8VCMXWh_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggjv8VCMXWh_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Bloggle_39.png",
+        "ggjv8VCMXWh_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Bloggle_39.png",
+        "ggpe4kG6cZ4_text": "Looking For Some Inspiration?"
+      },
+      "type": "gp-section-633542694320210938"
+    },
+    "gp_section_633543982726513216": {
+      "settings": {
+        "checksum": "062cb8e9da1242e71ea4a7c043978b586c3393b8011f89dcb9edc7699aab86bd_1_1_1_0__1",
+        "gg1ALSkEKOV_placeholder": "First Name",
+        "gg1Dm7NHwx0_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "gg1Dm7NHwx0_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggMru3RefKf_text": "<p>Stay up to date on all things ThePhotoStick:&nbsp;</p><p>Special Offers, Coupon Codes, First Access to New Products, and More.</p>",
+        "ggTgRqttlSw_errorMessage": "Can’t send email. Please try again later.",
+        "ggTgRqttlSw_successMessage": "Thanks for subscribing",
+        "ggXVdyHxAhX_text": "Don't Miss Out!",
+        "ggZqoV7OcSJ_placeholder": "Email",
+        "ggrkNmNnxzI_label": "SUBMIT"
+      },
+      "type": "gp-section-633543982726513216"
+    },
+    "gp_section_633560027784807286": {
+      "settings": {
+        "checksum": "330a4ac7128d33e545238e6038147318174de9a90760a68c556a94b4a09984c1_1_1_1_0__1",
+        "gg7MWw0GRV4_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "gg7MWw0GRV4_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/c70746299143d5eb0024d097c5cf514b.jpg",
+        "gg7MWw0GRV4_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/c70746299143d5eb0024d097c5cf514b.jpg",
+        "gg8-pvJdZVP_text": "<p>@thephotostickbrand</p>",
+        "ggDAzb8ksXM_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggDAzb8ksXM_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/c3da8f41d3aa4577981388c233bf25e7.jpg",
+        "ggDAzb8ksXM_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/c3da8f41d3aa4577981388c233bf25e7.jpg",
+        "ggE6Xfjs3fa_text": "Give Us a Follow",
+        "ggHNhCttGje_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggHNhCttGje_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/18db4fcdffda247b88cc187c4b7c8b37.jpg",
+        "ggHNhCttGje_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/18db4fcdffda247b88cc187c4b7c8b37.jpg",
+        "ggKrji6mNGC_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggKrji6mNGC_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggm4Z-OmTpC_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggm4Z-OmTpC_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/67512d965735dc01c740dafea089ca34.jpg",
+        "ggm4Z-OmTpC_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/67512d965735dc01c740dafea089ca34.jpg"
+      },
+      "type": "gp-section-633560027784807286"
+    },
+    "gp_section_633560444748956666": {
+      "settings": {
+        "checksum": "b8ca8e1d7c487ed574f35c2f86a21c94b264790c998d495e348620036eeb021e_1_1_1_0__1",
+        "ggc_WFwqqmB_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">Copyright ©2026 - ThePhotoStick® | All Rights Reserved</span></p><p><a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\"> |&nbsp;</span><a href=\"https://www.thephotostick.com/pages/support-center\" target=\"_blank\">Contact Us</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">&nbsp;|&nbsp;</span><a href=\"https://www.thephotostick.com/pages/terms-of-service\" target=\"_blank\">Terms of Service</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\"> | </span><a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a></p><p><a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_blank\">Return&nbsp;Policy</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">&nbsp;| </span><a href=\"https://www.thephotostick.com/pages/support-shipping-information\" target=\"_blank\">Shipping Policy</a></p>"
+      },
+      "type": "gp-section-633560444748956666"
+    }
+  },
+  "order": [
+    "gp_section_629494476955452061",
+    "gp_section_633540558563836790",
+    "gp_section_633538652084896630",
+    "gp_section_629495740967682717",
+    "gp_section_633421194762125909",
+    "gp_section_633419483133772778",
+    "gp_section_633542694320210938",
+    "gp_section_633543982726513216",
+    "gp_section_633560027784807286",
+    "gp_section_633560444748956666"
+  ],
+  "layout": "theme.gempages.blank"
+}

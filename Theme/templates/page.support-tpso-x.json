@@ -1,0 +1,943 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "heading_size": "title-xl tracking-heading",
+        "heading_alignment": "text-left",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 72,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "images_with_text_overlay_Drgjg6": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "heading_nytEam": {
+          "type": "heading",
+          "settings": {
+            "heading": "Support Center",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_xVwCLA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Easily access all the information you need, from FAQs and user guides to video tutorials and expert tips.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nytEam",
+        "text_xVwCLA"
+      ],
+      "name": "t:sections.images-with-text-overlay.name",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "650px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/14_94160f78-4061-4fec-9bbd-44f9ac8871ec.png",
+        "image_2": "shopify://shop_images/TPSO_X_12.png",
+        "image_3": "shopify://shop_images/13_7e2953ee-072b-4de6-984a-8df1ebcfe16f.png",
+        "image_4": "shopify://shop_images/Pinterest_Posts_1.png",
+        "image_5": "shopify://shop_images/5_1d1d31c9-28ae-4400-80f1-9532ba45c373.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "#ff9c27",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "custom_section_wVCHQT": {
+      "type": "custom-section",
+      "blocks": {
+        "heading_HXhq8b": {
+          "type": "heading",
+          "name": "t:blocks.heading.name",
+          "settings": {
+            "heading": "Getting Started: ThePhotoStick® Omni X",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "width": "fill",
+            "custom_width": 100,
+            "alignment": "center",
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "alignment_mobile": "center",
+            "effects": "none",
+            "highlighted_text": "scribble",
+            "highlighted_scribble": "squiggle-underline-2",
+            "highlighted_reveal": false
+          },
+          "blocks": {}
+        },
+        "text_QAazeF": {
+          "type": "text",
+          "name": "t:blocks.text.name",
+          "settings": {
+            "text": "<p>Looking for more in-depth knowledge or help with <em>ThePhotoStick Omni X</em>? You've come to the right place!</p>",
+            "text_font": "body",
+            "text_size": "text-base lg:text-lg",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "width": "fit-content",
+            "custom_width": 100,
+            "alignment": "left",
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100,
+            "effects": "highlight",
+            "highlighted_text": "underline",
+            "highlighted_scribble": "basic-underline"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "heading_HXhq8b",
+        "text_QAazeF"
+      ],
+      "name": "t:sections.custom-section.name",
+      "settings": {
+        "content_direction": "col",
+        "vertical_on_mobile": true,
+        "content_wrap": false,
+        "horizontal_alignment": "start",
+        "vertical_alignment": "center",
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page",
+        "section_height": "auto",
+        "section_height_custom": 50,
+        "section_height_mobile": "auto",
+        "section_height_custom_mobile": 50,
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 48,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "image_with_text_UAPmaw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ifDhYV": {
+          "type": "heading",
+          "settings": {
+            "heading": "ThePhotoStick® Omni X <em>Quick Start Guide</em>",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "underline",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_L4tkjr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With our helpful Quick Start Guide, you'll be backing up your favorite files with ThePhotoStick Omni X in no time!</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_3PXGQa": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Now",
+            "button_link": "https://app.air.inc/a/cad4fca8f",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": true,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_ifDhYV",
+        "text_L4tkjr",
+        "button_3PXGQa"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "image": "shopify://shop_images/tpso-x_laptop-angle.jpg",
+        "image_height": "650px",
+        "image_width": "small",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "image_with_text_jQiaeq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wJiTVr": {
+          "type": "heading",
+          "settings": {
+            "heading": "ThePhotoStick® Omni X <em>Official User Guide</em>",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "underline",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_hNPFqq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our official user guide can answer all your questions and help troubleshoot any issues you may encounter.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_iRhbBX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Coming Soon",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": true,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_wJiTVr",
+        "text_hNPFqq",
+        "button_iRhbBX"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "image": "shopify://shop_images/TPSO_X_Desktop_Home_Blonde_Woman_OldHome.png",
+        "image_height": "650px",
+        "image_width": "small",
+        "layout": "text_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "multicolumn_aYYegg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_chkYPy": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify://shop_images/bloggle-60.png",
+            "image_ratio": "wide",
+            "heading": "Getting Started with ThePhotoStick® Omni on Android Devices",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Quickly and easily get started with your ThePhotoStick® Omni X on your Android smartphone and/or tablet.</p>",
+            "button_label": "Read Now",
+            "button_link": "https://www.thephotostick.com/blogs/help-and-troubleshooting/getting-started-with-thephotostick-omni-x-on-android-devices",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_GfqFtM": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify://shop_images/Articles_-_2026-06-10T100916.484.png",
+            "image_ratio": "wide",
+            "heading": "Getting Started with ThePhotoStick® Omni on iOS Devices",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Quickly and easily get started with your ThePhotoStick® Omni X on your iPhone and/or iPad.</p>",
+            "button_label": "Read Now",
+            "button_link": "https://www.thephotostick.com/blogs/help-and-troubleshooting/getting-started-with-thephotostick-omni-x-on-ios-devices",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_c6kRpN": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify://shop_images/bloggle-37_e5da143d-0f6f-40a9-9c1d-f674193c8900.png",
+            "image_ratio": "wide",
+            "heading": "Getting Started with ThePhotoStick® Omni on Windows Computers",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Quickly and easily get started with your ThePhotoStick® Omni X on your Windows desktop and/or laptop computer.</p>",
+            "button_label": "Read Now",
+            "button_link": "https://www.thephotostick.com/blogs/help-and-troubleshooting/getting-started-with-thephotostick-omni-on-windows-computers",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_KM9FiV": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify://shop_images/Articles_-_2026-06-04T143537.864.png",
+            "image_ratio": "adapt",
+            "heading": "Getting Started with ThePhotoStick® Omni on macOS Computers",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Quickly and easily get started with your ThePhotoStick® Omni X on your macOS desktop and/or laptop computer.</p>",
+            "button_label": "Read Now",
+            "button_link": "https://www.thephotostick.com/blogs/help-and-troubleshooting/getting-started-with-thephotostick-omni-on-macos-computers",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_chkYPy",
+        "column_GfqFtM",
+        "column_c6kRpN",
+        "column_KM9FiV"
+      ],
+      "name": "t:sections.multicolumn.name",
+      "settings": {
+        "gap": "large",
+        "columns": 4,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Troubleshooting Guides",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "multicolumn_with_icons_fwhXxA": {
+      "type": "multicolumn-with-icons",
+      "blocks": {
+        "column_hLLtKV": {
+          "type": "column",
+          "settings": {
+            "icon": "support",
+            "custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M15.778 8.20793C15.3053 8.1711 14.7974 8.28434 14.0197 8.58067C14.085 8.55577 13.2775 8.87173 13.0511 8.95077C12.5494 9.12593 12.1364 9.22198 11.6734 9.22198C11.2151 9.22198 10.7925 9.13042 10.3078 8.96683C10.1524 8.91441 9.99616 8.8564 9.80283 8.7809C9.71993 8.74852 9.41997 8.62947 9.3544 8.60379C8.70626 8.34996 8.34154 8.25434 8.03885 8.26181C6.88626 8.2765 5.79557 8.9421 5.16246 10.0442C3.87037 12.2875 4.58583 16.3428 6.47459 19.075C7.4802 20.5189 8.03062 21.035 8.25199 21.0279C8.4743 21.0183 8.63777 20.9713 9.03567 20.8026C9.11485 20.7689 9.11485 20.7689 9.202 20.7317C10.2077 20.3032 10.9118 20.114 11.9734 20.114C12.9944 20.114 13.6763 20.2997 14.6416 20.7159C14.7302 20.7542 14.7302 20.7542 14.8097 20.7884C15.2074 20.9588 15.3509 20.9962 15.6016 20.9902C15.9591 20.9846 16.4003 20.5726 17.3791 19.1362C17.6471 18.7447 17.884 18.3333 18.0895 17.9168C17.9573 17.8077 17.826 17.6917 17.6975 17.5693C16.4086 16.3408 15.6114 14.6845 15.5895 12.6391C15.5756 11.0186 16.1057 9.61487 16.999 8.45797C16.6293 8.3142 16.2216 8.23805 15.778 8.20793ZM15.9334 6.21398C16.6414 6.26198 18.6694 6.47798 19.9894 8.40998C19.8814 8.46998 17.5654 9.81397 17.5894 12.622C17.6254 15.982 20.5294 17.098 20.5654 17.11C20.5414 17.194 20.0974 18.706 19.0294 20.266C18.1054 21.622 17.1454 22.966 15.6334 22.99C14.1454 23.026 13.6654 22.114 11.9734 22.114C10.2694 22.114 9.74138 22.966 8.33738 23.026C6.87338 23.074 5.76938 21.562 4.83338 20.218C2.92538 17.458 1.47338 12.442 3.42938 9.04597C4.40138 7.35397 6.12938 6.28598 8.01338 6.26198C9.44138 6.22598 10.7974 7.22198 11.6734 7.22198C12.5374 7.22198 14.0854 6.06998 15.9334 6.21398ZM14.7934 4.38998C14.0134 5.32598 12.7414 6.05798 11.5054 5.96198C11.3374 4.68998 11.9614 3.35798 12.6814 2.52998C13.4854 1.59398 14.8294 0.897976 15.9454 0.849976C16.0894 2.14598 15.5734 3.45398 14.7934 4.38998Z\"></path></svg>",
+            "heading": "iOS",
+            "text": "<p>iOS and iPadOS 13.0 and Later</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_jFXhgE": {
+          "type": "column",
+          "settings": {
+            "icon": "box",
+            "custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M19 13H5V20H19V13ZM19 11C19 7.13401 15.866 4 12 4C8.13401 4 5 7.13401 5 11H19ZM6.38231 3.9681C7.92199 2.73647 9.87499 2 12 2C14.125 2 16.078 2.73647 17.6177 3.9681L19.0711 2.51472L20.4853 3.92893L19.0319 5.38231C20.2635 6.92199 21 8.87499 21 11V21C21 21.5523 20.5523 22 20 22H4C3.44772 22 3 21.5523 3 21V11C3 8.87499 3.73647 6.92199 4.9681 5.38231L3.51472 3.92893L4.92893 2.51472L6.38231 3.9681ZM9 9C8.44772 9 8 8.55228 8 8C8 7.44772 8.44772 7 9 7C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9ZM15 9C14.4477 9 14 8.55228 14 8C14 7.44772 14.4477 7 15 7C15.5523 7 16 7.44772 16 8C16 8.55228 15.5523 9 15 9Z\"></path></svg>",
+            "heading": "Android OS",
+            "text": "<p>Android OS 8.0 and Later</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_zzMT4K": {
+          "type": "column",
+          "settings": {
+            "icon": "shield",
+            "custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M15.778 8.20793C15.3053 8.1711 14.7974 8.28434 14.0197 8.58067C14.085 8.55577 13.2775 8.87173 13.0511 8.95077C12.5494 9.12593 12.1364 9.22198 11.6734 9.22198C11.2151 9.22198 10.7925 9.13042 10.3078 8.96683C10.1524 8.91441 9.99616 8.8564 9.80283 8.7809C9.71993 8.74852 9.41997 8.62947 9.3544 8.60379C8.70626 8.34996 8.34154 8.25434 8.03885 8.26181C6.88626 8.2765 5.79557 8.9421 5.16246 10.0442C3.87037 12.2875 4.58583 16.3428 6.47459 19.075C7.4802 20.5189 8.03062 21.035 8.25199 21.0279C8.4743 21.0183 8.63777 20.9713 9.03567 20.8026C9.11485 20.7689 9.11485 20.7689 9.202 20.7317C10.2077 20.3032 10.9118 20.114 11.9734 20.114C12.9944 20.114 13.6763 20.2997 14.6416 20.7159C14.7302 20.7542 14.7302 20.7542 14.8097 20.7884C15.2074 20.9588 15.3509 20.9962 15.6016 20.9902C15.9591 20.9846 16.4003 20.5726 17.3791 19.1362C17.6471 18.7447 17.884 18.3333 18.0895 17.9168C17.9573 17.8077 17.826 17.6917 17.6975 17.5693C16.4086 16.3408 15.6114 14.6845 15.5895 12.6391C15.5756 11.0186 16.1057 9.61487 16.999 8.45797C16.6293 8.3142 16.2216 8.23805 15.778 8.20793ZM15.9334 6.21398C16.6414 6.26198 18.6694 6.47798 19.9894 8.40998C19.8814 8.46998 17.5654 9.81397 17.5894 12.622C17.6254 15.982 20.5294 17.098 20.5654 17.11C20.5414 17.194 20.0974 18.706 19.0294 20.266C18.1054 21.622 17.1454 22.966 15.6334 22.99C14.1454 23.026 13.6654 22.114 11.9734 22.114C10.2694 22.114 9.74138 22.966 8.33738 23.026C6.87338 23.074 5.76938 21.562 4.83338 20.218C2.92538 17.458 1.47338 12.442 3.42938 9.04597C4.40138 7.35397 6.12938 6.28598 8.01338 6.26198C9.44138 6.22598 10.7974 7.22198 11.6734 7.22198C12.5374 7.22198 14.0854 6.06998 15.9334 6.21398ZM14.7934 4.38998C14.0134 5.32598 12.7414 6.05798 11.5054 5.96198C11.3374 4.68998 11.9614 3.35798 12.6814 2.52998C13.4854 1.59398 14.8294 0.897976 15.9454 0.849976C16.0894 2.14598 15.5734 3.45398 14.7934 4.38998Z\"></path></svg>",
+            "heading": "macOS",
+            "text": "<p>Mac OS X Version 10.13 and Later</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_gwBXzw": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M21.001 2.5V21.5L3.00098 19.5V4.5L21.001 2.5ZM19.001 12.999L12.001 13V18.487L19.001 19.2655V12.999ZM5.00098 17.7099L10.001 18.265V13L5.00098 12.999V17.7099ZM19.001 10.999V4.73453L12.001 5.512V11L19.001 10.999ZM10.001 5.734L5.00098 6.29009V10.999L10.001 11V5.734Z\"></path></svg>",
+            "heading": "Windows OS",
+            "text": "<p>Windows 7 SP1 and Later</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_hLLtKV",
+        "column_jFXhgE",
+        "column_zzMT4K",
+        "column_gwBXzw"
+      ],
+      "name": "t:sections.multicolumn-with-icons.name",
+      "settings": {
+        "style": "with-border",
+        "columns": 4,
+        "text_alignment": "left",
+        "heading": "System Requirements",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "",
+        "gradient_background": "linear-gradient(310deg, rgba(50, 189, 252, 1) 15%, rgba(0, 139, 216, 1) 85%)",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "multicolumn_c4txzk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PQxtk3": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image": "shopify://shop_images/google-1648766085551-1.png",
+            "image_ratio": "adapt",
+            "heading": "",
+            "heading_size": "text-lg-2xl",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://play.google.com/store/apps/details?id=com.prairieit.thephotostick&utm_source=na_Med",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_43RPH7": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify://shop_images/apple-1648766085545.png",
+            "image_ratio": "adapt",
+            "heading": "",
+            "heading_size": "text-lg-2xl",
+            "text": "",
+            "button_label": "",
+            "button_link": "https://apps.apple.com/us/app/thephotostick-omni/id1572323348",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_PQxtk3",
+        "column_43RPH7"
+      ],
+      "name": "t:sections.multicolumn.name",
+      "settings": {
+        "gap": "large",
+        "columns": 2,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "heading": "Download ThePhotoStick® Omni App",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "faq_jDHwMK": {
+      "type": "faq",
+      "blocks": {
+        "question_TynDNH": {
+          "type": "question",
+          "settings": {
+            "title": "Is ThePhotoStick® Omni X easy to use?",
+            "text": "<p>Yes, getting started with ThePhotoStick Omni X is incredibly easy!<strong> </strong>Please note, however, that it will take some time for ThePhotoStick Omni X to find each of your photos and safely back them up. This time can vary depending on how many photos you have, the size of your files, and the type of device you are using. But the great thing about ThePhotoStick Omni X is that anyone can use it, no matter how comfortable they are with technology!</p><p>Check out our <a href=\"https://app.air.inc/a/cad4fca8f\" target=\"_blank\" title=\"https://app.air.inc/a/cad4fca8f\"><strong>Quick Start Guide</strong></a> for more information on getting started with ThePhotoStick Omni X. We also offer 24/7 support if you have any questions or difficulties: <a href=\"mailto:support@thephotostick.com\" target=\"_blank\">support@thephotostick.com</a> </p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_XVGCjt": {
+          "type": "question",
+          "settings": {
+            "title": "Which devices work with ThePhotoStick® Omni X?",
+            "text": "<p>ThePhotoStick Omni X works with most modern computers, smartphones, tablets, and computers right out of the box! <br/><br/>It's compatible with Windows, Android, and Apple Devices:</p><p>- Windows 7 SP1 or Later</p><p>- macOS 10.13 or Later</p><p>- iOS and iPadOS 13.0 or Later</p><p>- Android 8.0 or Later and Pixel 8 or Later<br/></p><p>For more up to date information regarding ThePhotoStick Omni X compatibility, we recommend viewing our <a href=\"https://www.thephotostick.com/pages/support-system-requirements\"><strong>System Requirements</strong></a> page.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_GAkeUw": {
+          "type": "question",
+          "settings": {
+            "title": "Which version of ThePhotoStick® Omni X should I choose?",
+            "text": "<p>This depends on how many photos and videos you have.</p><p>- The 128GB version can hold up to 51,200 photos and videos, which will be plenty for most people.</p><p>- The 128GB version holds up to roughly 102,000 photos and videos, giving you all the storage you'll ever need, perfect for large families with lots of memories.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_83MjyW": {
+          "type": "question",
+          "settings": {
+            "title": "How many photos can I store on ThePhotoStick® Omni X?",
+            "text": "<p><strong>Approximate Number of Photos Stored on ThePhotoStick Omni X:</strong></p><ul><li>32 GB - 12,800 photos</li><li>64 GB - 25,600 photos</li><li>128 GB - 51,200 photos</li><li>256 GB - 102,400 photos</li><li>512GB - 204,800 photos</li></ul><p>*Please note that storage capacity per GB listed above is approximate, and exact storage amounts vary depending on file type and size. For more in-depth information regarding ThePhotoStick Omni, check out our <a href=\"https://www.manula.com/manuals/thephotostick/thephotostick-omni-official-user-guide/\" target=\"_blank\"><strong>Official User Guide</strong></a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_EMJw4V": {
+          "type": "question",
+          "settings": {
+            "title": "What photo file size is used when we say the 128GB version can store 51,200 photos?",
+            "text": "<p>We use an average photo file size of 2MB for our calculation. We picked this size for our calculation because it is the approximate size of an 8MP photo saved in a .JPEG format.</p><p>Some file sizes are much larger, such as camera RAW files, movie files such as .MOV and .MPEG4, and photos taken with cameras that can take photos greater than 8MP, so the number of files that can be stored on ThePhotoStick Omni X can vary.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_hH947r": {
+          "type": "question",
+          "settings": {
+            "title": "What photo and video file types can ThePhotoStick® Omni X find and save?",
+            "text": "<p>Nearly all of them! It saves your standard JPEG, HEIC, PNG, GIF, MOV, and MPEG4, but it also saves a vast array of file types, as listed below:</p><p>------------------<strong><br/>PHOTO EXTENSIONS:</strong></p><ul><li>JPEG (*.jpg;*.jpeg;*.jpe;*.jfif)</li><li>HEIC (*.heic, *.heics, *.heif, *.heifs, *.avci, *.avcs)</li><li>GIF (*.gif)</li><li>PNG (*.png)</li><li>BMP (*.bmp;*.rle;*.dib)</li><li>TIFF (*.tif,*.tiff)</li><li>ICO (*.ico)</li><li>Camera Raw (*.crw, *.nef, *.raf, *.orf, *.mrw, *.dcr, *.mos, *.raw, *.pef, *.srf, *.dng, *.x3f, *.cr2, *.erf, *.sr2, *.kdc, *.mfw, *.mef, *.arw, *.nrw, *.rw2, *.rwl, *.iiq, *.3fr, *.srw) </li><li>Photoshop (*.psd, *.pdd, *.pdp, *.pse, *.eps)</li><li>PICT File (*.PCT, *.PICT)</li></ul><p></p><p>-----------------<strong><br/>VIDEO EXTENSIONS:</strong></p><ul><li>MOV (*.mov, *.qt, *.hevc)</li><li>MPEG4 (*.mp4, *.mpeg4, *.m4v, *.h264)</li><li>AVI (*.avi)</li><li>WMV (*.wmv)</li></ul>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_hfNUEw": {
+          "type": "question",
+          "settings": {
+            "title": "Does ThePhotoStick® Omni X need to install anything on my computer?",
+            "text": "<p><strong>For computers (Mac or PC):</strong></p><p>- ThePhotoStick Omni X comes with everything it needs — you simply just plug it into an available USB slot, download the app from your device's app store, and follow the on-screen instructions</p><p><strong>For phones (Android or iOS):</strong></p><p>- ThePhotoStick Omni X offers a FREE app that allows you to back up, view, and organize your photos with ease.</p><p>- There are no monthly charges or download costs for using the app. Just download it from your device's app store, plug in ThePhotoStick Omni X, and tap the \"Back Up Files Now\" button to start your first backup.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_dtzPxV": {
+          "type": "question",
+          "settings": {
+            "title": "Will my images and videos remain on my computer/phone after backing up?",
+            "text": "<p>Yes. When you use ThePhotoStick Omni X to back up your images and videos, they remain on your computer or phone. </p><p>ThePhotoStick Omni software and mobile app are designed to be non-intrusive, ensuring that your files are safely backed up without ever deleting them from your device.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_7UBc9P": {
+          "type": "question",
+          "settings": {
+            "title": "How do I start ThePhotoStick® Omni X?",
+            "text": "<p><strong>To start on Windows:</strong></p><ol><li>Plug ThePhotoStick® into an open USB slot.</li><li>If it does not open on its own, find and open your File Explorer.</li><li>From File Explorer, double-click on ThePhotoStick.exe.</li><li>Once ThePhotoStick® Omni loads, follow the onscreen instructions.</li></ol><p><strong>To start on Mac:</strong></p><ol><li>Plug ThePhotoStick® into an open USB slot.</li><li>Double-click on the desktop shortcut labeled as PHOTOSTICK.</li><li>Inside the File Viewer, double-click on ThePhotoStick_Mac.</li><li>NOTE: If no icon appears on your desktop after plugging in ThePhotoStick, go to Finder and double-click PHOTOSTICK listed under devices. Then, double-click on ThePhotoStick_Mac.</li><li>Once ThePhotoStick® Omni loads, follow the onscreen instructions.</li></ol><p><strong>To start on Android:</strong></p><ol><li>Install “ThePhotoStick Omni” app from the Google Play store.</li><li>If prompted, allow ThePhotoStick Omni app to access your photos, videos, and audio files.</li><li>Plug in ThePhotoStick Omni device into your Android device.</li><li>Tap “Get Started” when ThePhotoStick Omni app loads.</li></ol><p><strong>To Start on iOS:</strong></p><ol><li>Install the “ThePhotoStick Omni” app from the App Store.</li><li>If prompted, allow ThePhotoStick Omni app to access your photos, videos, and audio files.</li><li>Plug in ThePhotoStick Omni device into your iOS device.</li><li>Tap \"Settings\" when prompted, then tap on “PHOTOSTICK” and then “Done”.</li><li>Confirm ThePhotoStick Omni device is detected. Then, tap “Main Menu”.</li><li>Tap “Backup Files Now!”</li></ol><p>Please note that it will take some time for ThePhotoStick Omni to find each of your photos and safely back them up. This time can vary depending on how many photos you have, the size of your files, and the type of device you are using. But the great thing about ThePhotoStick Omni is that anyone can use it, no matter how comfortable they are with technology!</p><p>For more tips on getting started with ThePhotoStick® Omni, check out our <a href=\"https://drive.google.com/file/d/1ZimeD-_G5m61hiVgmnlrhE5kw6c5Kyci/view?usp=sharing\" target=\"_blank\"><strong>Quick Start Guide</strong></a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_r8e8Gt": {
+          "type": "question",
+          "settings": {
+            "title": "Why is ThePhotoStick® Omni X not detected by my computer?",
+            "text": "<p>Due to recent Anti-Virus Software (McAfee, Norton, etc.) updates, your computer may not detect ThePhotoStick Omni X. To resolve this issue, please temporarily turn off your AV software, or open your AV software settings and allow the ThePhotoStick.exe to run.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_RUGXL4": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use ThePhotoStick® Omni X as an ongoing backup solution?",
+            "text": "<p>Yes, it’s a great backup solution! Many people plug ThePhotoStick Omni X in each night for a quick, easy backup to ensure they are continually protecting their memories.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_TynDNH",
+        "question_XVGCjt",
+        "question_GAkeUw",
+        "question_83MjyW",
+        "question_EMJw4V",
+        "question_hH947r",
+        "question_hfNUEw",
+        "question_dtzPxV",
+        "question_7UBc9P",
+        "question_r8e8Gt",
+        "question_RUGXL4"
+      ],
+      "name": "t:sections.faq.name",
+      "settings": {
+        "style": "with-border",
+        "heading": "FAQs",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 48,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "highlight_text_WnFztm": {
+      "type": "highlight-text",
+      "blocks": {
+        "heading_P8biiA": {
+          "type": "heading",
+          "settings": {
+            "heading": "We're Here to <em>Help</em>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "scribble",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "image_VcBrVf": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_width": 150,
+            "image_height": 90,
+            "link": "",
+            "accessibility_info": "",
+            "image_width_mobile": 90,
+            "image_height_mobile": 50
+          }
+        }
+      },
+      "block_order": [
+        "heading_P8biiA",
+        "image_VcBrVf"
+      ],
+      "name": "t:sections.highlight-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 12,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "image_with_text_YcUmkG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pWT8BK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Need Assistance?",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_tzVeP3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Click the gray circle near the bottom right corner of this page to begin chatting with a member of our Support Team.</p><p>Live Chat available Monday-Saturday, 8am-8pm PST<br/></p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pWT8BK",
+        "text_tzVeP3"
+      ],
+      "name": "t:sections.image-with-text.name",
+      "settings": {
+        "image": "shopify://shop_images/teamwork-makes-the-dream-work.jpg",
+        "image_height": "650px",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "contact_form_wrKWHV": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.name",
+      "settings": {
+        "heading": "Contact Us",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "#008bd8",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#008bd8",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "images_with_text_overlay_Drgjg6",
+    "custom_section_wVCHQT",
+    "image_with_text_UAPmaw",
+    "image_with_text_jQiaeq",
+    "multicolumn_aYYegg",
+    "multicolumn_with_icons_fwhXxA",
+    "multicolumn_c4txzk",
+    "faq_jDHwMK",
+    "highlight_text_WnFztm",
+    "image_with_text_YcUmkG",
+    "contact_form_wrKWHV"
+  ]
+}

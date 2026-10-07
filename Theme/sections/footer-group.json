@@ -1,0 +1,135 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "logo_social": {
+          "type": "logo_social",
+          "settings": {
+            "logo": "{{ shop.brand.logo }}",
+            "logo_height": 50,
+            "show_social": false,
+            "enable_follow_on_shop": false
+          }
+        },
+        "link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "main-menu",
+            "container_width": 50,
+            "opened": false
+          }
+        },
+        "link_list-2": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "footer",
+            "container_width": 50,
+            "opened": false
+          }
+        },
+        "brand_information": {
+          "type": "brand_information",
+          "settings": {
+            "heading": "",
+            "button_label_1": "",
+            "button_link_1": "tel:+21(0)987654321",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_label_3": "",
+            "button_link_3": "",
+            "button_label_4": "",
+            "button_link_4": "",
+            "container_width": 95,
+            "opened": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_social",
+        "link_list-1",
+        "link_list-2",
+        "brand_information"
+      ],
+      "settings": {
+        "invert_newsletter_others": false,
+        "enable_newsletter": true,
+        "newsletter_heading": "Join ThePhotoStick® Community",
+        "newsletter_heading_size": "md:title-md",
+        "newsletter_text": "",
+        "newsletter_logo": "shopify://shop_images/TPS_Logo_White_Transparent.png",
+        "newsletter_logo_height": 50,
+        "show_social": true,
+        "enable_follow_on_shop": true,
+        "color_text": "#ffffff",
+        "color_background": "#2f68b3",
+        "gradient_background": "",
+        "color_button_text": "#2f68b3",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": true,
+        "enable_parallax": true
+      }
+    },
+    "custom_liquid_n3L7fw": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.name",
+      "settings": {
+        "liquid": "{% raw %}\n<div style=\"max-width: 600px; margin: 0 auto; background-color: #eef6fb; border: 1px solid #cce2f0; border-radius: 6px; padding: 20px; text-align: center;\">\n  <a href=\"#\" class=\"termly-display-preferences\" style=\"background-color: #1990C6; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-bottom: 2px;\">Consent Settings</a>\n</div>\n\n<div style=\"text-align: left; padding-top: 25px;\">\n  <div style=\"max-width: 600px; margin: 0 auto; background-color: #eef6fb; border: 1px solid #cce2f0; border-radius: 6px; padding: 20px; font-size: 0.9em; color: #000; font-style: italic;\">\n    \n    <div style=\"margin-bottom: 15px;\">\n      <a href=\"https://www.thephotostick.com/pages/dsar\" style=\"display: block; margin: 8px 0; color: #0000EE;\">Do Not Sell or Share My Personal Information</a>\n      <a href=\"https://www.thephotostick.com/pages/dsar\" style=\"display: block; margin: 8px 0; color: #0000EE;\">Limit the Use Of My Sensitive Personal Information</a>\n    </div>\n\n    <p><strong>IMPORTANT:</strong></p>\n    <p><strong>These forms are for submitting Data Subject Access Requests (DSARs) related to privacy rights, such as accessing, deleting, or managing personal information.</strong></p>\n    <p><u>It is not for order inquiries, cancellations, refunds, or technical support.</u></p>\n\n    <p style=\"margin-top: 10px;\">\n      For assistance with your order or product, please contact our support team by using the chat feature or visiting our \n      <a href=\"https://www.thephotostick.com/pages/support-center\" style=\"color: #0000EE;\">Support Center</a>.\n    </p>\n    \n  </div>\n</div>\n{% endraw %}",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "footer-copyright": {
+      "type": "footer-copyright",
+      "disabled": true,
+      "settings": {
+        "enable_language_selector": true,
+        "enable_country_selector": true,
+        "show_policy": true,
+        "show_payment_icons": true,
+        "monochrome_payment_icons": false,
+        "show_copyright": true,
+        "copyright_text": "",
+        "color_text": "#ffffff",
+        "color_background": "#171717",
+        "gradient_background": "",
+        "divider": false,
+        "full_width": true,
+        "rounded": true,
+        "enable_parallax": true
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "custom_liquid_n3L7fw",
+    "footer-copyright"
+  ]
+}

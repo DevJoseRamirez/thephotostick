@@ -1,0 +1,779 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "product-title-md",
+            "title_size_mobile": "product-title-md",
+            "title_tag": "h2",
+            "show_price": true,
+            "show_rating": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "text_size": "text-base"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up!",
+            "subheading": "Sale end in:",
+            "color_text": "#e11d48",
+            "color_background": "#fff1f2",
+            "gradient_background": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "enable_dynamic_variants": true,
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "variant",
+            "size_chart": ""
+          }
+        },
+        "inventory": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 15,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_price": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "enable_back_in_stock": true,
+            "show_back_in_stock_name": true,
+            "show_back_in_stock_phone": true
+          }
+        },
+        "product_bundle_m63TTi": {
+          "type": "product_bundle",
+          "settings": {
+            "opened": true,
+            "clickable": false,
+            "variant_selection": false,
+            "icon": "lightning",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "heading": "Popular Pairing",
+            "products": [
+              "thephotostick-quick-click-remote"
+            ],
+            "metafield": ""
+          }
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share",
+            "show_help_desk": true,
+            "help_label": "Need help?",
+            "help_type": "drawer",
+            "help_page": "",
+            "help_page_external": false
+          }
+        },
+        "complementary": {
+          "type": "complementary",
+          "settings": {
+            "heading": "Pairs well with",
+            "product_limit": 4,
+            "show_vendor": false,
+            "show_price": true
+          }
+        },
+        "text-1": {
+          "type": "text",
+          "settings": {
+            "icon": "box",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "In Stock! Ships Within 1-2 Business Days",
+            "text_size": "text-sm"
+          }
+        },
+        "text-2": {
+          "type": "text",
+          "settings": {
+            "icon": "return",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "30-Day Money-Back Guarantee",
+            "text_size": "text-sm"
+          }
+        },
+        "text-3": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "FREE U.S. Shipping on Orders $50+",
+            "text_size": "text-sm"
+          }
+        },
+        "text-4": {
+          "type": "text",
+          "settings": {
+            "icon": "shield",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "Safe & Secure Checkout Experience",
+            "text_size": "text-sm"
+          }
+        },
+        "sticky_buy_button": {
+          "type": "sticky_buy_button",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "description",
+        "countdown",
+        "variant_picker",
+        "inventory",
+        "buy_buttons",
+        "product_bundle_m63TTi",
+        "pickup_availability",
+        "share",
+        "complementary",
+        "text-1",
+        "text-2",
+        "text-3",
+        "text-4",
+        "sticky_buy_button"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": 70,
+        "gallery_layout": "scroll",
+        "thumbnail_position": "beside",
+        "image_ratio": "adapt_first",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "mobile_layout": "full_width",
+        "image_ratio_mobile": "adapt_first",
+        "mobile_thumbnail": false,
+        "padding_top": 52,
+        "padding_bottom": 84,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>30-DAY MONEY-BACK GUARANTEE</strong></em>",
+            "text_size": 160,
+            "text_font": "body",
+            "highlighted_text": "marker",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 20,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "help-drawer": {
+      "type": "help-drawer",
+      "blocks": {
+        "content-1": {
+          "type": "content",
+          "settings": {
+            "icon": "rocket",
+            "heading": "Shipping Information",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#b45309",
+            "color_background": "#fffbeb",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-2": {
+          "type": "content",
+          "settings": {
+            "icon": "headphone",
+            "heading": "Customer Support",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#0369a1",
+            "color_background": "#f0f9ff",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-3": {
+          "type": "content",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "FAQ’s",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#be123c",
+            "color_background": "#fff1f2",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-4": {
+          "type": "content",
+          "settings": {
+            "icon": "phone",
+            "heading": "Contact Us",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#4d7c0f",
+            "color_background": "#f7fee7",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        }
+      },
+      "block_order": [
+        "content-1",
+        "content-2",
+        "content-3",
+        "content-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Need help?",
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
+      }
+    },
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image_width": "custom",
+            "image_max_width": 50,
+            "image_max_width_mobile": 50
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Back Up Your Memories Anywhere, Anytime",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From romantic getaways and family vacations to cozy weekends or special ocassions... while you’re making new memories, ThePhotoStick Omni makes sure you never lose the old ones. No wi-fi needed.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Articles_-_2025-06-13T104558.046.png",
+        "image_height": "600px",
+        "image_width": "medium",
+        "layout": "text_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "400px",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "#fafafa",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image_width": "custom",
+            "image_max_width": 50,
+            "image_max_width_mobile": 50
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make It the Ultimate Gift",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Add an extra special touch with ThePhotoStick® Keepsake Frame Box. The perfect gift for birthdays, weddings, graduations, and other special occasions. Whether you’re gifting ThePhotoStick Omni to parents, grandparents, or a memory-loving friend, you'll give them a truly one-of-a-kind keepsake they’ll cherish for years.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_cqU9nR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/thephotostick-keepsake-frame-box",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "heading",
+        "text",
+        "button_cqU9nR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/KFB_Halloween_Image.jpg",
+        "image_height": "600px",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "400px",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "#fafafa",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "ThePhotoStick® Omni 64GB + Protective Case",
+            "link": "shopify://products/thephotostick-omni-64gb-case",
+            "invert_subheading_heading": false,
+            "image": "shopify://shop_images/13_7e2953ee-072b-4de6-984a-8df1ebcfe16f.png",
+            "image_ratio": "square",
+            "content_position": "md:items-end md:justify-center",
+            "text_alignment": "center",
+            "image_ratio_mobile": "landscape",
+            "content_position_mobile": "items-end justify-center",
+            "text_alignment_mobile": "center",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 30
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "ThePhotoStick® Omni 256GB + Protective Case",
+            "link": "shopify://products/thephotostick-omni-256gb-case",
+            "invert_subheading_heading": false,
+            "image": "shopify://shop_images/15_5ad05704-f7ab-4b4f-be29-829dce0ae44b.png",
+            "image_ratio": "square",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 30
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "ThePhotoStick® Omni 128GB + Protective Case",
+            "link": "shopify://products/thephotostick-omni-128gb-case",
+            "invert_subheading_heading": false,
+            "image": "shopify://shop_images/14_94160f78-4061-4fec-9bbd-44f9ac8871ec.png",
+            "image_ratio": "square",
+            "content_position": "md:items-start md:justify-end",
+            "text_alignment": "right",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-start justify-end",
+            "text_alignment_mobile": "right",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 30
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "ThePhotoStick® Omni 512GB + Protective Case",
+            "link": "shopify://products/thephotostick-omni-512gb-case",
+            "invert_subheading_heading": true,
+            "image": "shopify://shop_images/16_f0b9acf1-4c0a-4242-8692-cb228997467b.png",
+            "image_ratio": "square",
+            "content_position": "md:items-end md:justify-end",
+            "text_alignment": "right",
+            "image_ratio_mobile": "landscape",
+            "content_position_mobile": "items-end justify-end",
+            "text_alignment_mobile": "right",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2",
+        "image-3",
+        "image-4"
+      ],
+      "settings": {
+        "heading": "Bundle & Save",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "button_label": "View more",
+        "button_link": "shopify://products/thephotostick-omni-128gb-case",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Is ThePhotoStick® Omni easy to use?",
+            "text": "<p>Yes, getting started with ThePhotoStick Omni is incredibly easy!<strong> </strong>Please note, however, that it will take some time for ThePhotoStick Omni to find each of your photos and safely back them up. This time can vary depending on how many photos you have, the size of your files, and the type of device you are using. But the great thing about ThePhotoStick Omni is that anyone can use it, no matter how comfortable they are with technology!</p><p>Check out our <a href=\"https://drive.google.com/file/d/1ZimeD-_G5m61hiVgmnlrhE5kw6c5Kyci/view?usp=sharing\" target=\"_blank\">Quick Start Guide</a> for more information on getting started with ThePhotoStick® Omni. We also offer 24/7 support if you have any questions or difficulties: <a href=\"mailto:support@thephotostick.com\" target=\"_blank\">support@thephotostick.com</a> </p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Which devices work with ThePhotoStick® Omni?",
+            "text": "<p>ThePhotoStick® Omni works with most modern computers, smartphones, tablets, and computers right out of the box! <br/><br/>It's compatible with Windows, Android, and Apple Devices:</p><p>- Windows 7 SP1 or Later</p><p>- macOS 10.13 or Later</p><p>- iOS and iPadOS 13.0 or Later</p><p>- Android 8.0 or Later and Pixel 8 or Later</p><p>For more up to date information regarding ThePhotoStick Omni compatibility, we recommend viewing our <a href=\"https://www.thephotostick.com/pages/support-system-requirements\">System Requirements</a> page.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Which version of ThePhotoStick® Omni should I choose?",
+            "text": "<p>This depends on how many photos and videos you have.</p><p>- The 128GB version can hold up to 51,200 photos and videos, which will be plenty for most people.</p><p>- The 256GB version holds up to roughly 102,400 photos and videos giving you all the storage you'll ever need, perfect for large families with lots of memories.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "How many photos can I store on ThePhotoStick® Omni?",
+            "text": "<p><strong>Approximate Number of Photos Stored on ThePhotoStick USB:</strong></p><ul><li>32 GB - 12,800 photos</li><li>64 GB - 25,600 photos</li><li>128 GB - 51,200 photos</li><li>256 GB - 102,400 photos</li><li>512GB - 204,800 photos</li></ul><p>*Please note that storage capacity per GB listed above is approximate, and exact storage amounts vary depending on file type and size. For more in-depth information regarding ThePhotoStick Omni, check out our <a href=\"https://www.manula.com/manuals/thephotostick/thephotostick-omni-official-user-guide/\" target=\"_blank\"><strong>Official User Guide</strong></a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "What photo and video file types can ThePhotoStick® Omni find and save?",
+            "text": "<p>Nearly all of them! It saves your standard JPEG, HEIC, PNG, GIF, MOV, and MPEG4, but it also saves a vast array of file types as listed below:</p><p><strong>PHOTO EXTENSIONS:</strong></p><p>------------------</p><ul><li>JPEG (*.jpg;*.jpeg;*.jpe;*.jfif)</li><li>HEIC (*.heic, *.heics, *.heif, *.heifs, *.avci, *.avcs)</li><li>GIF (*.gif)</li><li>PNG (*.png)</li><li>BMP (*.bmp;*.rle;*.dib)</li><li>TIFF (*.tif,*.tiff)</li><li>ICO (*.ico)</li><li>Camera Raw (*.crw, *.nef, *.raf, *.orf, *.mrw, *.dcr, *.mos, *.raw, *.pef, *.srf, *.dng, *.x3f, *.cr2, *.erf, *.sr2, *.kdc, *.mfw, *.mef, *.arw, *.nrw, *.rw2, *.rwl, *.iiq, *.3fr, *.srw) </li><li>Photoshop (*.psd, *.pdd, *.pdp, *.pse, *.eps)</li><li>PICT File (*.PCT, *.PICT)</li></ul><p><strong>VIDEO EXTENSIONS:</strong></p><p>-----------------</p><ul><li>MOV (*.mov, *.qt, *.hevc)</li><li>MPEG4 (*.mp4, *.mpeg4, *.m4v, *.h264)</li><li>AVI (*.avi)</li><li>WMV (*.wmv)</li></ul>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_X7CHbf": {
+          "type": "question",
+          "settings": {
+            "title": "How does the 30 Day Money Back Guarantee work?",
+            "text": "<p>We offer a no-hassle, 30-Day Money Back Guarantee. If you’re not 100% satisfied with your purchase from ThePhotoStick®, we will gladly help you with a return. <strong>We want you to be happy!</strong></p><p>You can return ThePhotoStick, ThePhotoStick Mobile, or ThePhotoStick Omni for any reason within 30 days, beginning the date of delivery, for a full refund of your purchase amount. Please note that shipping and handling charges and taxes paid (e.g. state, customs, VAT) are non-refundable.</p><p>Please contact us at <a href=\"mailto:returns@thephotostick.com\" target=\"_blank\">returns@thephotostick.com</a> and we'd be happy to facilitate your return and refund. For more information regarding our return process, check out our <a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_self\"><strong>Returns and Refunds</strong></a> page.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "heading": "Didn’t find your answer?",
+            "text": "<p>Don't hestitate to contact us</p>",
+            "show_phone": false,
+            "avatar_height": 60,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question_X7CHbf",
+        "contact"
+      ],
+      "settings": {
+        "style": "with-background",
+        "heading": "FAQs",
+        "heading_size": "title-lg tracking-heading",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "#2f68b3",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#2f68b3",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "You may also like",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Recently Viewed",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main-product",
+    "scrolling-text",
+    "help-drawer",
+    "image-with-text-2",
+    "image-with-text-1",
+    "collage",
+    "faq",
+    "product-recommendations",
+    "recently-viewed"
+  ]
+}

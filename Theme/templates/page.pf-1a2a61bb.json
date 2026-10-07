@@ -1,0 +1,54 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-1a2a61bb": {
+      "type": "pf-1a2a61bb",
+      "settings": {
+        "pf_6244e90d_value": "Don’t let your favorite moments disappear. ThePhotoStick® Omni makes it easy to back up and protect every photo and video.",
+        "pf_b878aa91_value": "Give their precious memories the home they deserve with our new&nbsp;gift-ready box that showcases their favorite photo.",
+        "pf_cf4b00a4_value": "Stay up to date on all things ThePhotoStick: Special Offers, Coupon Codes, First Access to New Products, and More.",
+        "pf_46ad5aa4_value": "A thoughtful, personalized touch when gifting ThePhotoStick® Omni to friends and loved ones.",
+        "pf_f9bcde76_value": "ThePhotoStick® Omni saves every photo and video across all your devices.",
+        "pf_0477f274_value": "⚡️ <b>FREE</b> U.S. Shipping on Orders $50 or More! ⚡️",
+        "pf_215e86f9_value": "Shop ThePhotoStick® Omni X&nbsp;and get 50% OFF!",
+        "pf_62f346ad_value": "ThePhotoStick&nbsp;<br>Keepsake Frame Box",
+        "pf_13990abc_value": "ThePhotoStick® Keepsake Frame Box",
+        "pf_c1e76244_value": "Keep Your Precious Memories Safe",
+        "pf_7c5df9bc_value": "Protect Every Precious Memory",
+        "pf_17435800_value": "Looking for Some Inspiration?",
+        "pf_0cf5215e_value": "SUMMERTIME<br>SUPER SALE",
+        "pf_ddb52e3c_placeholder": "Enter your first name",
+        "pf_fd12262c_value": "Shop ThePhotoStick®",
+        "pf_4b2596c2_value": "Shop | Most Popular",
+        "pf_17c14376_value": "Shop Summer Savings",
+        "pf_45c33938_value": "@thephotostickbrand",
+        "pf_e90de02e_value": "Shop All Products",
+        "pf_95bf7ffe_value": "Give Us a Follow",
+        "pf_f6f1cf4b_value": "Don't miss out!",
+        "pf_4d2424d4_placeholder": "Enter your mail",
+        "pf_9fa77835_value": "Learn More",
+        "pf_40966580_value": "Learn More",
+        "pf_d895ddb5_label_text": "First Name",
+        "pf_36235449_value": "Read More",
+        "pf_f91d296c_value": "SHOP NOW",
+        "pf_76854daf_value": "SHOP NOW",
+        "pf_a4bded04_value": "SHOP NOW",
+        "pf_de01440c_value": "BUY NOW",
+        "pf_a3638cf8_value": "Submit",
+        "pf_123a4d24_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-1a2a61bb"
+  ],
+  "layout": "theme.pagefly"
+}

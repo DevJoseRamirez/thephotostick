@@ -1,0 +1,1158 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "product-title-md",
+            "title_size_mobile": "product-title-md",
+            "title_tag": "h2",
+            "show_price": false,
+            "show_rating": true
+          }
+        },
+        "price_hbFCdt": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "text_size": "text-base"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "enable_dynamic_variants": true,
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "variant",
+            "size_chart": ""
+          }
+        },
+        "inventory": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 15,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_price": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "enable_back_in_stock": true,
+            "show_back_in_stock_name": true,
+            "show_back_in_stock_phone": true
+          }
+        },
+        "product_bundle_ACdh6d": {
+          "type": "product_bundle",
+          "settings": {
+            "opened": true,
+            "clickable": false,
+            "variant_selection": false,
+            "icon": "lightning",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "heading": "Popular Pairing",
+            "products": [
+              "thephotostick-travel-tech-case"
+            ],
+            "metafield": ""
+          }
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "text-1": {
+          "type": "text",
+          "settings": {
+            "icon": "box",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "In Stock! Ships Within 1-2 Business Days",
+            "text_size": "text-sm"
+          }
+        },
+        "text-2": {
+          "type": "text",
+          "settings": {
+            "icon": "return",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "30-Day Money-Back Guarantee",
+            "text_size": "text-sm"
+          }
+        },
+        "text-3": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "FREE U.S. Shipping on Orders $50+",
+            "text_size": "text-sm"
+          }
+        },
+        "text-4": {
+          "type": "text",
+          "settings": {
+            "icon": "shield",
+            "iwidth": "custom",
+            "icon_width": 20,
+            "text": "Safe & Secure Checkout Experience",
+            "text_size": "text-sm"
+          }
+        },
+        "sticky_buy_button": {
+          "type": "sticky_buy_button",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share",
+            "show_help_desk": true,
+            "help_label": "Need help?",
+            "help_type": "drawer",
+            "help_page": "",
+            "help_page_external": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price_hbFCdt",
+        "description",
+        "variant_picker",
+        "inventory",
+        "buy_buttons",
+        "product_bundle_ACdh6d",
+        "pickup_availability",
+        "text-1",
+        "text-2",
+        "text-3",
+        "text-4",
+        "sticky_buy_button",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": 65,
+        "gallery_layout": "scroll",
+        "thumbnail_position": "beside",
+        "image_ratio": "adapt_first",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "mobile_layout": "full_width",
+        "image_ratio_mobile": "adapt_first",
+        "mobile_thumbnail": false,
+        "padding_top": 52,
+        "padding_bottom": 84,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>30-DAY MONEY-BACK GUARANTEE</strong></em>",
+            "text_size": 160,
+            "text_font": "body",
+            "highlighted_text": "marker",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 20,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "help-drawer": {
+      "type": "help-drawer",
+      "blocks": {
+        "content-1": {
+          "type": "content",
+          "settings": {
+            "icon": "rocket",
+            "heading": "Shipping Information",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#b45309",
+            "color_background": "#fffbeb",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-2": {
+          "type": "content",
+          "settings": {
+            "icon": "headphone",
+            "heading": "Customer Support",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#0369a1",
+            "color_background": "#f0f9ff",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-3": {
+          "type": "content",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "FAQ’s",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#be123c",
+            "color_background": "#fff1f2",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-4": {
+          "type": "content",
+          "settings": {
+            "icon": "phone",
+            "heading": "Contact Us",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#4d7c0f",
+            "color_background": "#f7fee7",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        }
+      },
+      "block_order": [
+        "content-1",
+        "content-2",
+        "content-3",
+        "content-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Need help?",
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
+      }
+    },
+    "multicolumn_with_icons_4BM3tz": {
+      "type": "multicolumn-with-icons",
+      "blocks": {
+        "column_iBiVHe": {
+          "type": "column",
+          "settings": {
+            "icon": "lightning",
+            "custom_icon": "",
+            "heading": "<strong>Super Easy to Use</strong>",
+            "text": "<p>Download the app, plug into your device and let it get to work.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_3cfDCt": {
+          "type": "column",
+          "settings": {
+            "icon": "file_text",
+            "custom_icon": "",
+            "heading": "<strong>Massive Storage</strong>",
+            "text": "<p>Find, sort, and protect 100,000+ photos and videos!</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_Xb44je": {
+          "type": "column",
+          "settings": {
+            "icon": "devices",
+            "custom_icon": "",
+            "heading": "<strong>Works with Every Device</strong>",
+            "text": "<p>Back up files from your smartphone, tablet, or computer.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_jpiUTL": {
+          "type": "column",
+          "settings": {
+            "icon": "lock",
+            "custom_icon": "",
+            "heading": "<strong>Portable, Secure Design</strong>",
+            "text": "<p>Clip it to your keychain and take your memories with you</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_iBiVHe",
+        "column_3cfDCt",
+        "column_Xb44je",
+        "column_jpiUTL"
+      ],
+      "name": "t:sections.multicolumn-with-icons.name",
+      "settings": {
+        "style": "with-border",
+        "columns": 4,
+        "text_alignment": "center",
+        "heading": "Why Choose ThePhotoStick® Omni X?",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "image_with_text_dtxiDB": {
+      "type": "image-with-text",
+      "blocks": {
+        "image_RXDzWF": {
+          "type": "image",
+          "settings": {
+            "image_width": "custom",
+            "image_max_width": 50,
+            "image_max_width_mobile": 50
+          }
+        },
+        "heading_DUkKEa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Easy Backups for iPhone, Android, PC & Mac",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_bNb9yB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ThePhotoStick® Omni X features built-in USB, USB-C, Lightning, and Micro-USB connectors in one compact device. Easily switch between iPhone®, Android™, Windows PC, and macOS computers without separate adapter heads or extra cables.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "image_RXDzWF",
+        "heading_DUkKEa",
+        "text_bNb9yB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TPSO_X_Woman_Viewing_Files.png",
+        "image_height": "600px",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "400px",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "#fafafa",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image_width": "custom",
+            "image_max_width": 50,
+            "image_max_width_mobile": 50
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Back Up Your Memories Anywhere, Anytime",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use the FREE companion app to quickly locate and save photos and videos from any of your devices. ThePhotoStick® Omni X is designed to simplify organizing and protecting your most important files.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TPSO_X_iPad_Desk.png",
+        "image_height": "600px",
+        "image_width": "medium",
+        "layout": "text_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "400px",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "#fafafa",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image_width": "custom",
+            "image_max_width": 50,
+            "image_max_width_mobile": 50
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Peace of Mind in the Palm of Your Hand",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unlike cloud-only backup services, ThePhotoStick® Omni X stores your photos and videos directly on the device. No data usage. No ongoing subscription required. It’s a practical, secure way to keep control of your memories.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/TPSO_X_Couple_Hands.png",
+        "image_height": "600px",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "400px",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "#fafafa",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "multicolumn_yhFJDz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6GcHUM": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image_ratio": "adapt",
+            "video": "shopify://files/videos/TPSO X_UGC Review_Calla_v1_9x16.mov",
+            "heading": "<strong>Stop paying for extra storage</strong>",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>This is my second one. The greatest thing about these is that it can fit any phone, iPad, computer.... it has multiple different ends. You install the app on your phone, connect the stick and then download all your pictures and videos and clear up your phone storage.</p><p><strong>⭐️ ⭐️ ⭐️ ⭐️ ⭐️<br/>Ginger D. | ✓ Verified Buyer</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_fxkQUN": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image_ratio": "adapt",
+            "video": "shopify://files/videos/TPSO_X_MD_26_Emily_v1_9x16_V1.mp4",
+            "heading": "<strong>A great gift idea for moms</strong>",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>So, I tried ThePhotoStick Omni X, and it's actually so easy. You plug it in, tap the app, and it finds and saves everything for you. Now I've got all our family memories in one place, and I cleared up so much space on my phone too.</p><p><strong>⭐️ ⭐️ ⭐️ ⭐️ ⭐️<br/>Emily H. | ✓ Verified Buyer</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_Kq8ax8": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image_ratio": "adapt",
+            "video": "shopify://files/videos/TPSO X_Kristina Unboxing_9x16.mov",
+            "heading": "<strong>Easy to use & works great!</strong>",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>This device connects, and transfers files, quickly, and easily. It's compatible with both Android and Apple too. It frees up needed storage on my phone. Overall, I think it's very well made, well designed, and high quality - worth the price. I'd definitely recommend it!</p><p><strong>⭐️ ⭐️ ⭐️ ⭐️ ⭐️<br/>Nicole B. | ✓ Verified Buyer</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_KYGVb4": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image_ratio": "adapt",
+            "video": "shopify://files/videos/TPSO_X_Out_of_Space_Chris_A_9x16_V1.mp4",
+            "heading": "<strong>Makes photo backups easy</strong>",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Easy to use. Just install the app, plug it and and click backup. It does not tell you how fast it's going ot estimated time to complete, but it transfered over 3000 files from my phone (Samsung Galaxy Z Fold7) in about 15 minutes. Which seems pretty good to me</p><p><strong>⭐️ ⭐️ ⭐️ ⭐️ ⭐️<br/>Matthew A. | ✓ Verified Buyer</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_6GcHUM",
+        "column_fxkQUN",
+        "column_Kq8ax8",
+        "column_KYGVb4"
+      ],
+      "name": "t:sections.multicolumn.name",
+      "settings": {
+        "gap": "large",
+        "columns": 4,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Join 2 Million+ ThePhotoStick® Customers",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "logo_list_WHHxBD": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_diF3g3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/CBS_White_1.png",
+            "height": 80,
+            "link": ""
+          }
+        },
+        "logo_6Anerf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Associated_Press_White_10416887-c2e8-4afb-8e8d-77c3f2c8c2bf.png",
+            "height": 80,
+            "link": ""
+          }
+        },
+        "logo_UwMhEc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Business_Insider_White_a55f587e-f832-4c29-9596-ccff61f032a9.png",
+            "height": 80,
+            "link": ""
+          }
+        },
+        "logo_FUbMpj": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Star_Tribune_White_1.png",
+            "height": 72,
+            "link": ""
+          }
+        },
+        "logo_wCQWTG": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/NBC_White_1.png",
+            "height": 80,
+            "link": ""
+          }
+        },
+        "logo_YABrUJ": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/FOX_1.png",
+            "height": 80,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_diF3g3",
+        "logo_6Anerf",
+        "logo_UwMhEc",
+        "logo_FUbMpj",
+        "logo_wCQWTG",
+        "logo_YABrUJ"
+      ],
+      "name": "t:sections.logo-list.name",
+      "settings": {
+        "layout": "default",
+        "grid_horizontal": 70,
+        "direction": "left",
+        "speed": 5,
+        "heading": "As Seen In",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "",
+        "gradient_background": "linear-gradient(310deg, rgba(50, 189, 252, 1) 15%, rgba(0, 139, 216, 1) 85%)",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "rich_text_FNdFGR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dniaPM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Others Love ThePhotoStick® Omni X",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        },
+        "text_iV9Www": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Find out why our customers trust ThePhotoStick® to protect their precious memories.</p>",
+            "text_font": "body",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_line_height": 1.6,
+            "text_letter_spacing": 0,
+            "text_capitalize": false,
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dniaPM",
+        "text_iV9Www"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 16,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "177686702301b47254": {
+      "type": "apps",
+      "blocks": {
+        "okendo_reviews_widget_ndM7hD": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "okendo_reviews_widget_ndM7hD"
+      ],
+      "settings": {
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "compact_product_bundle_MR8aJa": {
+      "type": "compact-product-bundle",
+      "blocks": {
+        "heading_TANReM": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Ultimate Memory Saving Bundle",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "highlighted_reveal": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TANReM"
+      ],
+      "name": "t:sections.compact-product-bundle.name",
+      "settings": {
+        "collection": "",
+        "products": [
+          "thephotostick-omni-x",
+          "thephotostick-travel-tech-case",
+          "thephotostick-quick-click-remote"
+        ],
+        "product_limit": 3,
+        "image": "shopify://shop_images/two-women-lean-into-each-other-and-take-a-selfie.jpg",
+        "layout": "image_first",
+        "content_position": "md:items-center",
+        "text_alignment": "center",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-center",
+        "text_alignment_mobile": "center",
+        "swipe_on_mobile": true,
+        "show_variant_labels": true,
+        "picker_type": "button",
+        "enable_color_swatches": true,
+        "color_swatch_type": "color",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 40,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Is ThePhotoStick® Omni X easy to use?",
+            "text": "<p>Yes, getting started with ThePhotoStick Omni X is incredibly easy!<strong> </strong>Please note, however, that it will take some time for ThePhotoStick Omni X to find each of your photos and safely back them up. This time can vary depending on how many photos you have, the size of your files, and the type of device you are using. But the great thing about ThePhotoStick Omni X is that anyone can use it, no matter how comfortable they are with technology!</p><p>Check out our <a href=\"https://drive.google.com/file/d/1ZimeD-_G5m61hiVgmnlrhE5kw6c5Kyci/view?usp=sharing\" target=\"_blank\">Quick Start Guide</a> for more information on getting started with ThePhotoStick® Omni X. We also offer 24/7 support if you have any questions or difficulties: <a href=\"mailto:support@thephotostick.com\" target=\"_blank\">support@thephotostick.com</a> </p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Which devices work with ThePhotoStick® Omni X?",
+            "text": "<p>ThePhotoStick® Omni X works with most modern computers, smartphones, tablets, and computers right out of the box! <br/><br/>It's compatible with Windows, Android, and Apple Devices:</p><p>- Windows 7 SP1 or Later</p><p>- macOS 10.13 or Later</p><p>- iOS and iPadOS 13.0 or Later</p><p>- Android 8.0 or Later and Pixel 8 or Later</p><p>For more up to date information regarding ThePhotoStick Omni compatibility, we recommend viewing our <a href=\"https://www.thephotostick.com/pages/support-system-requirements\">System Requirements</a> page.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Which version of ThePhotoStick® Omni X should I choose?",
+            "text": "<p>This depends on how many photos and videos you have.</p><p>- The 128GB version can hold up to 51,200 photos and videos, which will be plenty for most people.</p><p>- The 256GB version holds up to roughly 102,400 photos and videos giving you all the storage you'll ever need, perfect for large families with lots of memories.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "How many photos can I store on ThePhotoStick® Omni X?",
+            "text": "<p><strong>Approximate Number of Photos Stored on ThePhotoStick Omni X:</strong></p><ul><li>32 GB - 12,800 photos</li><li>64 GB - 25,600 photos</li><li>128 GB - 51,200 photos</li><li>256 GB - 102,400 photos</li><li>512GB - 204,800 photos</li></ul><p>*Please note that storage capacity per GB listed above is approximate, and exact storage amounts vary depending on file type and size. For more in-depth information regarding ThePhotoStick Omni, check out our <a href=\"https://www.manula.com/manuals/thephotostick/thephotostick-omni-official-user-guide/\" target=\"_blank\"><strong>Official User Guide</strong></a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "What photo and video file types can ThePhotoStick® Omni X find and save?",
+            "text": "<p>Nearly all of them! It saves your standard JPEG, HEIC, PNG, GIF, MOV, and MPEG4, but it also saves a vast array of file types as listed below:</p><p><strong>PHOTO EXTENSIONS:</strong></p><p>------------------</p><ul><li>JPEG (*.jpg;*.jpeg;*.jpe;*.jfif)</li><li>HEIC (*.heic, *.heics, *.heif, *.heifs, *.avci, *.avcs)</li><li>GIF (*.gif)</li><li>PNG (*.png)</li><li>BMP (*.bmp;*.rle;*.dib)</li><li>TIFF (*.tif,*.tiff)</li><li>ICO (*.ico)</li><li>Camera Raw (*.crw, *.nef, *.raf, *.orf, *.mrw, *.dcr, *.mos, *.raw, *.pef, *.srf, *.dng, *.x3f, *.cr2, *.erf, *.sr2, *.kdc, *.mfw, *.mef, *.arw, *.nrw, *.rw2, *.rwl, *.iiq, *.3fr, *.srw) </li><li>Photoshop (*.psd, *.pdd, *.pdp, *.pse, *.eps)</li><li>PICT File (*.PCT, *.PICT)</li></ul><p><strong>VIDEO EXTENSIONS:</strong></p><p>-----------------</p><ul><li>MOV (*.mov, *.qt, *.hevc)</li><li>MPEG4 (*.mp4, *.mpeg4, *.m4v, *.h264)</li><li>AVI (*.avi)</li><li>WMV (*.wmv)</li></ul>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_X7CHbf": {
+          "type": "question",
+          "settings": {
+            "title": "How does the 30 Day Money Back Guarantee work?",
+            "text": "<p>We offer a no-hassle, 30-Day Money Back Guarantee. If you’re not 100% satisfied with your purchase from ThePhotoStick®, we will gladly help you with a return. <strong>We want you to be happy!</strong></p><p>You can return ThePhotoStick, ThePhotoStick Mobile, or ThePhotoStick Omni for any reason within 30 days, beginning the date of delivery, for a full refund of your purchase amount. Please note that shipping and handling charges and taxes paid (e.g. state, customs, VAT) are non-refundable.</p><p>Please contact us at <a href=\"mailto:returns@thephotostick.com\" target=\"_blank\">returns@thephotostick.com</a> and we'd be happy to facilitate your return and refund. For more information regarding our return process, check out our <a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_self\"><strong>Returns and Refunds</strong></a> page.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "heading": "Didn’t find your answer?",
+            "text": "<p>Don't hestitate to contact us</p>",
+            "show_phone": false,
+            "avatar_height": 60,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "question_X7CHbf",
+        "contact"
+      ],
+      "settings": {
+        "style": "with-background",
+        "heading": "FAQs",
+        "heading_size": "title-lg tracking-heading",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>Please read our <a href=\"https://www.thephotostick.com/a/faq\" title=\"https://www.thephotostick.com/a/faq\">FAQs</a> page to find out more.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "#ffffff",
+        "color_background": "#2f68b3",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#2f68b3",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "You may also like",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Recently Viewed",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "highlighted_reveal": false,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main-product",
+    "scrolling-text",
+    "help-drawer",
+    "multicolumn_with_icons_4BM3tz",
+    "image_with_text_dtxiDB",
+    "image-with-text-2",
+    "image-with-text-1",
+    "multicolumn_yhFJDz",
+    "logo_list_WHHxBD",
+    "rich_text_FNdFGR",
+    "177686702301b47254",
+    "compact_product_bundle_MR8aJa",
+    "faq",
+    "product-recommendations",
+    "recently-viewed"
+  ]
+}

@@ -1,0 +1,30 @@
+<!-- Hide header for sales pages -->
+{% if product.handle == 'get-thephotostick-omni-special-offer-now'
+   or product.handle == 'shop-thephotostick-omni-holiday-savings' 
+   or product.handle == 'thephotostick-omni-3'
+   or product.handle == 'thephotostick-omni-photo-video-backup'
+   or product.handle == 'get-thephotostick-omni-x-special-offer-now'
+   or product.handle == 'get-thephotostick-omni-x-effortless-photo-protection'
+   or product.handle == 'get-thephotostick-omni-x-effortless-photo-protection-em' %}
+  <style>
+    header, 
+    .header, 
+    #header,
+    #shopify-section-sections--19825382654088__header {
+      display: none !important;
+    }
+  </style>
+{% endif %}
+
+<!-- Hide header for sales pages by URL -->
+{% if request.path == '/blogs/help-and-troubleshooting/what-to-do-if-thephotostick-omni-drive-is-not-detected-by-your-mobile-device'
+   or request.path == 'example-1' %}
+  <style>
+    header, 
+    .header, 
+    #header,
+    #shopify-section-sections--19825382654088__header {
+      display: none !important;
+    }
+  </style>
+{% endif %}

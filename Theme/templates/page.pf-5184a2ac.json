@@ -1,0 +1,50 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-5184a2ac": {
+      "type": "pf-5184a2ac",
+      "settings": {
+        "pf_d01c1170_value": "We are committed to delighting each customer of ThePhotoStick. We are so confident you will love it, that we offer a no-risk 60-Day Money Back Guarantee, starting at the day of delivery.<br><br>Try out ThePhotoStick for PC and Mac computers, or ThePhotoStick Mobile for iPhone or Android smartphones, with no risk! If you have any issues and are not completely satisfied with your purchase for whatever reason, simply contact returns@thephotostick.com or visit our Live Chat support at thephotostick.com.",
+        "pf_512e5945_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_9d4c87fc_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_24c9b335_value": "Save hours of time searching – back up 1,000s of photos and videos in minutes!<br>",
+        "pf_cab805da_value": "Searches your ENTIRE phone to ensure no picture or video is ever missed!<br>",
+        "pf_db702c98_value": "Quickly back up new files weekly and ensure you never lose any memories!<br>",
+        "pf_5e280bc4_value": "Up to 128GB storage capacity – easily back up 60,000 photos and videos!<br>",
+        "pf_41c40579_value": "Never worry about losing files in the cloud or to water damage again!<br>",
+        "pf_c8c6a413_value": "Simply plug it in to your phone and hit ‘Backup Now’ on the FREE App!<br>",
+        "pf_a773b618_value": "Easily Backup ALL Your Photos &amp; Videos in ONE Click!",
+        "pf_24847d80_value": "Available in 128 GB, 256GB, &amp; 1 TB Models",
+        "pf_80cf4299_value": "Available in 32 GB, 64GB, &amp; 128 GB Models",
+        "pf_97cf64f8_value": "60-Day Money Back Guarantee",
+        "pf_48cfef13_value": "Safekeep Your Memories!",
+        "pf_b2aca141_value": "Keeps Your Files Safe",
+        "pf_f5553c9a_value": "For iOS &amp; Android",
+        "pf_ea7f5e24_value": "Backs Up Files Fast",
+        "pf_01e0ef21_alt": "ThePhotoStick Logo",
+        "pf_13d956ca_value": "Finds ALL Memories",
+        "pf_bbc19d4c_value": "Payments accepted:",
+        "pf_169da8c8_value": "Super Easy To Use",
+        "pf_9d4c87fc_title": "Payments Accepted",
+        "pf_c17b99db_value": "On-Going Backups",
+        "pf_8cf9da5e_value": "Massive Storage",
+        "pf_a738b4f5_value": "For Computers",
+        "pf_47c39e2c_value": "ORDER NOW",
+        "pf_9b977cb7_value": "ORDER NOW",
+        "pf_f8fdbeec_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-5184a2ac"
+  ],
+  "layout": "theme.pagefly"
+}

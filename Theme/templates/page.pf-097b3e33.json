@@ -1,0 +1,57 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-097b3e33": {
+      "type": "pf-097b3e33",
+      "settings": {
+        "pf_0730e0fd_value": "What would you do if your computer crashed? Got lost or stolen? Thousands upon thousands of incredible family memories wiped out just like that. <span style=\"font-weight: normal;\">Everything gone simply because your computer had a little glitch! And having them professionally retrieved can cost serious $$$ – YIKES!</span><br><br><span style=\"font-weight: normal;\">But now, there’s an amazing new device that gives you</span> the power to download and protect all your memories with the single click of a button. <span style=\"font-weight: normal;\">You can easily save up to 60,000 photos and videos automatically without the headache of manually backing up each file individually! Just ONE click and you’re done – seriously!</span><br>",
+        "pf_4b384406_value": "We are committed to delighting each customer of ThePhotoStick. We are so confident you will love it, that we offer a no-risk 60-Day Money Back Guarantee, starting at the day of delivery.<br><br>Try out ThePhotoStick for PC and Mac computers, or ThePhotoStick Mobile for iPhone or Android smartphones, with no risk! If you have any issues and are not completely satisfied with your purchase for whatever reason, simply contact returns@thephotostick.com or visit our Live Chat support at thephotostick.com.",
+        "pf_baa12b85_value": "ThePhotoStick® is compatible with nearly all modern computers using Windows and Mac Operating Systems:<br><br><span style=\"font-weight: bold;\">Windows</span>: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10.<br><br><span style=\"font-weight: bold;\">Mac</span>: Mac OS X Version 10.7 and later.<br>",
+        "pf_cabc03df_value": "No, that’s what makes it so great! ThePhotoStick® does not need to install anything on your computer, nor does it require anything to be already installed on your computer.<br><br>ThePhotoStick® comes with everything it needs — you simply need to plug it into an available USB slot and it’s ready to run.",
+        "pf_e9addbf7_value": "ThePhotoStick® is a small USB flash drive that instantly backs up your priceless memories WITHOUT the frustration of searching and organizing them yourself!<br><br>✅ Easy to Use<br>✅ No Software to Install<br>✅ Removes Duplicates<br>",
+        "pf_e933ab59_value": "Yes, it’s a great backup solution! Many people leave the ThePhotoStick® plugged in and do a quick and easy weekly backup to make sure they are continually protecting their memories.",
+        "pf_bfafd042_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_907756fd_value": "Never Lose a Precious Memory Again With This Revolutionary Device",
+        "pf_f73905e2_label": "What photo and video file types can ThePhotoStick® find and save?",
+        "pf_7207cabc_label": "Does ThePhotoStick® need to install anything on my computer?",
+        "pf_6e003ae0_value": "<span style=\"font-weight: bold;\">Save Up To 50%</span><br>",
+        "pf_b388e933_label": "Can I use ThePhotoStick® as an ongoing backup solution?",
+        "pf_d6bfe695_value": "When the file backup program pops up, simply hit 'GO'",
+        "pf_18cb66f8_value": "Easily plugs into an empty USB slot on your computer",
+        "pf_bec15641_value": "Your photos and videos are safely stored in minutes!",
+        "pf_8351baa1_label": "Which computers can I use ThePhotoStick® on?",
+        "pf_c20f126c_value": "Keep Your Memories Safe With ThePhotoStick®!",
+        "pf_167763c0_value": "Using ThePhotoStick Is As Easy As 1, 2, 3!",
+        "pf_4bea393c_value": "Here's Why Customers Love ThePhotoStick",
+        "pf_fedf0487_value": "Choose Size At Checkout.<br>",
+        "pf_c40068b2_value": "60-Day Money Back Guarantee",
+        "pf_7cde1f7e_value": "Frequently Asked Questions",
+        "pf_7ebe43c2_value": "Now Available in 3 Sizes!",
+        "pf_83a5536f_value": "Everything Is Backed Up!",
+        "pf_33330cdd_alt": "ThePhotoStick Logo",
+        "pf_7518bfaf_value": "Payments accepted:",
+        "pf_bfafd042_title": "Payments Accepted",
+        "pf_23aa6cb4_value": "Plug It In",
+        "pf_8e8a7f76_value": "ORDER NOW",
+        "pf_a7959e70_value": "ORDER NOW",
+        "pf_a9e58a0c_value": "ORDER NOW",
+        "pf_e1db1138_value": "ORDER NOW",
+        "pf_69a41e99_value": "Hit 'Go'",
+        "pf_14226a1a_value": "Divider",
+        "pf_285973e9_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-097b3e33"
+  ],
+  "layout": "theme.pagefly"
+}

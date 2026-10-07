@@ -1,0 +1,10 @@
+# --- Section build pipeline (local tooling) ---
+CLAUDE.md
+_conventions/
+_sections-queue/
+_reference-components/
+.claude/
+shopify.theme.toml
+.shopify/
+_captures/
+.env

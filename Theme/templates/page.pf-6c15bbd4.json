@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-6c15bbd4": {
+      "type": "pf-6c15bbd4",
+      "settings": {
+        "pf_72d816c0_code": "<!-- Facebook Pixel Code TPS & XPC Ad Account -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '888738925033509');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=888738925033509&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
+        "pf_468c5a51_value": "<span style=\"font-weight: bold;\"> Independent Storage.<br></span><br>I had a grand total of about 60,000 images, with many duplicates. This little \"stick\" managed to eliminate the duplicates so that I now have about 24,00 originals preserved forever in a fire-proof vault, a cost-free and independent method of safekeeping. -&nbsp;<a href=\"https://www.amazon.com/gp/customer-reviews/R3PYHB5JB7KT90/ref=cm_cr_getr_d_rvw_ttl?ASIN=B01N5XPZ49&amp;ie=UTF8&amp;guu=44023200-a4ea-412a-93e2-1a615deeedfb&amp;gucurrency=usd&amp;gucountry=us&amp;gulanguage=en&amp;imor=0&amp;br=ThePhotoStick\" target=\"_self\">C. Reshetiloff</a>",
+        "pf_be7a4db4_value": "<span style=\"font-weight: bold;\"> Works just the way it says it does.<br></span><br>The Photo Stick works just the way it says it does; very easy to use. I checked it when done, and there were my pictures. There is so much room on the stick that I should be able to use it for years to backup pictures. - <a href=\"https://www.amazon.com/gp/customer-reviews/REZWYGM981EDR/ref=cm_cr_getr_d_rvw_ttl?ASIN=B01N5XPZ49&amp;ie=UTF8&amp;guu=44023200-a4ea-412a-93e2-1a615deeedfb&amp;gucurrency=usd&amp;gucountry=us&amp;gulanguage=en&amp;imor=0&amp;br=ThePhotoStick\" target=\"_self\">L. Wilson</a>",
+        "pf_9bf761f8_value": "Almost all major Android, iPhone, and iPad devices!\n\nSupported Android devices:\n\nCompatible with all Samsung, LG, Motorola, and HTC phones running Android OS 4.4 or newer made in the last 3 years. Phones must be OTG compatible. A FREE adapter is included that ensures compatibility with Micro-USB and USB-C devices.\n\nSupported iOS devices:\n\nCompatible with all iPhones, iPads, and iPod Touches that have a Lightning Port. Requires iOS 9.0 or later.",
+        "pf_1fee8304_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_8ff5a92a_value": "<span style=\"font-weight: bold;\">Wow this is wonderful!<br></span><br>Wow this is wonderful. I was very surprised. I had over 3500 photos on my phone and was very worried about loosing them. So many memories.... the Photostick mobile was so easy to use and I plan on purchasing for my family for gifts. - <a href=\"https://www.trustpilot.com/reviews/6046a3dff85d750394249ad1\" target=\"_blank\">Alice</a><br>",
+        "pf_b0cdf5d0_value": "✅ Easy To Use – Custom designed file-backup App is easy to understand regardless of your smartphone knowledge.<br><br>✅ Works on Android, iPhone, iPad, and iPod Touch<br><br>✅ Easily Transfer To Your Computer –<br>Keep your files stored on ThePhotoStick® Mobile or easily plug it into a USB port to transfer everything to your computer.<br><br>Don’t Risk Losing Your Memories In The Cloud!<br>",
+        "pf_e74395a7_value": "By simply plugging in ThePhotoStick® Mobile to your computer, you can easily transfer all the photos and videos off the device. It’s compatible with nearly all modern computers using Windows and Mac Operating Systems:<br><br>Windows:<br>Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10.<br><br>Mac:<br>Mac OS X Version 10.6 and later.",
+        "pf_2d015326_value": "It’s as easy as 1,2,3!<br><br>1. Download and Launch the FREE “ThePhotoStick® Mobile” App<br>2. Plug in the device<br>3. Click “Backup Now”<br><br>(optional) Plug into your computer to get the photos and videos off your device!",
+        "pf_0334298a_value": "Yes, it’s a great backup solution! Many people plug ThePhotoStick® Mobile in weekly and do a quick and easy backup to make sure they are continually protecting their memories.",
+        "pf_5ec0e85c_value": "We ship orders out FAST, but we can’t control carrier transit times. Due to COVID-19, orders are taking up to 10-20 days to be delivered depending on the country.<br><br>",
+        "pf_00441f7d_value": "ThePhotoStick® Mobile is a small device that instantly backs up your priceless memories WITHOUT the frustration of searching and organizing them yourself!",
+        "pf_750cb7cc_value": "Depending on your country, it is possible that you will be charged one or more of these fees when you receive your order.<br><br>",
+        "pf_5eaf3524_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_0e8948f1_value": "All products are backed by our 30 Day Money Back Guarantee, starting on the day of shipping.",
+        "pf_10fc35fb_label": "Will I have to pay any additional customs, duties or VAT fees when I receive my order?",
+        "pf_4db0712f_label": "What photo file size is used when we say the 128GB version can store 60,000 photos?",
+        "pf_bce22957_value": "Save hours of time searching – back up 1,000s of photos and videos in minutes!<br>",
+        "pf_9c4f05d9_value": "Searches your ENTIRE phone to ensure no picture or video is ever missed!<br>",
+        "pf_d9e3651d_value": "Quickly back up new files weekly and ensure you never lose any memories!<br>",
+        "pf_59101bc8_value": "Up to 128GB storage capacity – easily back up 60,000 photos and videos!<br>",
+        "pf_a85c0815_value": "ThePhotoStick® Mobile Backs Up Your Precious Memories – Automatically!<br>",
+        "pf_205aafc3_value": "Never worry about losing files in the cloud or to water damage again!<br>",
+        "pf_75bda73d_value": "Simply plug it in to your phone and hit ‘Backup Now’ on the FREE App!<br>",
+        "pf_f3e4e743_label": "Which computers can I use to transfer photos and videos off the device?",
+        "pf_acc921a2_label": "Can I use ThePhotoStick® Mobile as an ongoing backup solution?",
+        "pf_9590c7b2_label": "How long does delivery take to countries outside of the U.S.?",
+        "pf_95049bf7_label": "Which smartphones are compatible with ThePhotoStick® Mobile?",
+        "pf_1578db17_value": "Here's Why Customers Love ThePhotoStick® Mobile",
+        "pf_82b17f12_label": "How does the 30 Day Money Back Guarantee work?",
+        "pf_f442bbfd_value": "Say Goodbye To “Storage Full” Errors FOREVER!",
+        "pf_b351a792_value": "Available in 3 Sizes for iPhone and Android",
+        "pf_20302d01_label": "How do I start ThePhotoStick® Mobile?",
+        "pf_1b5aac1f_value": "All iOS Devices with Lightning Port",
+        "pf_1d6eefce_value": "See ThePhotoStick Mobile In Action!",
+        "pf_e3b894b0_value": "Safekeep Your Memories Forever!",
+        "pf_eec4acba_value": "Micro-USC and USB-C Compatible",
+        "pf_78bca56a_value": "Android Phones &amp; Tablets",
+        "pf_edfdf9b5_value": "Frequently Asked Questions",
+        "pf_3cdb0f7f_title": "32GB iPhone PhotoStick®",
+        "pf_0d8e1315_value": "Keeps Your Files Safe",
+        "pf_9a44c039_value": "Backs Up Files Fast",
+        "pf_2591efd7_value": "Finds ALL Memories",
+        "pf_754f5eaf_value": "Payments accepted:",
+        "pf_d40b2398_alt": "ThePhotoStick Logo",
+        "pf_4bac2df5_value": "Super Easy To Use",
+        "pf_5eaf3524_title": "Payments Accepted",
+        "pf_c1861d0d_value": "iPhone &amp; iPad",
+        "pf_d15778f6_value": "On-Going Backups",
+        "pf_1dd3a1f7_value": "Massive Storage",
+        "pf_1eb0f46f_value": "Add to Cart",
+        "pf_63465609_value": "Add to Cart",
+        "pf_9132db18_value": "Add to Cart",
+        "pf_bd2482fe_value": "Add to Cart",
+        "pf_cee808cb_value": "Add to Cart",
+        "pf_d946e8a8_value": "Add to Cart",
+        "pf_2ed03ce2_value": "ORDER NOW",
+        "pf_5300576a_value": "ORDER NOW",
+        "pf_dd2c6368_value": "ORDER NOW",
+        "pf_3185b554_value": "Divider",
+        "pf_bb4d4234_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-6c15bbd4"
+  ],
+  "layout": "theme.pagefly"
+}

@@ -1,0 +1,47 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-2b1abb36": {
+      "type": "pf-2b1abb36",
+      "settings": {
+        "pf_e5987458_value": "Most International packages are delivered within 2-8 weeks, however, some packages have been delayed by an additional 2-6 weeks. To minimize delays, be sure to provide an accurate shipping address and telephone number.<br><br>Please also be aware that delays in customs are becoming increasingly common. Packages may take longer to get to international destinations, and unfortunately, we cannot control or prevent this type of delay. WE ARE NOT RESPONSIBLE for any packages lost, stolen or delayed by the shipping or postal service.&nbsp;",
+        "pf_10f41cf1_value": "Import duties, taxes, and charges are not included in the item price or shipping cost. These charges are the buyer's responsibility. Please check with your country's customs office to determine what these additional costs will be prior to purchasing. <br><br>We have no advance knowledge of such fees, cannot manipulate the values, and cannot pay potential fees for you. You are responsible for any importation costs that may arise.&nbsp;",
+        "pf_368b78be_value": "Delivery times may be extended due to volume and carrier availability, and we are currently experiencing longer than normal shipping times to international destinations. Thank you for your patience as we work through this together!",
+        "pf_00c3b6d1_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the blue chat circle at the bottom right of this page or send them a message using the form below.",
+        "pf_42bde5f7_value": "<b>US Destinations:</b> 5-8 business days in transit<br><br><b>Canada:</b> 2-6 weeks in transit<br><br><b>International Destinations:</b> 2-8 weeks in transit",
+        "pf_ef8c93d0_value": "<b>All shipments are sent by DHL Global Mail</b><br><br>You can track your shipment via the DHL Global Mail tracking system by clicking the button below.",
+        "pf_6debeb42_value": "*Please note that certain international destinations, such as Mexico and Israel, are experiencing longer shipping delays.",
+        "pf_4838b2fc_value": "<a href=\"/pages/support-center\" target=\"_self\">Go Back to Support Center&nbsp; &gt;&gt;</a>",
+        "pf_be9adb4f_value": "<span style=\"font-weight: 700;\">Standard Shipment Times Vary by Location:</span>",
+        "pf_36044c00_value": "Still Can't Find What You're Looking For?",
+        "pf_3697a236_value": "Shipping Information for ThePhotoStick®",
+        "pf_85621b10_value": "International Customs Fees and Taxes",
+        "pf_7b0fa1e2_placeholder": "What can we help you with today?",
+        "pf_e64d05e5_value": "Tracking Your Current Order:",
+        "pf_4047a5e5_value": "Shipping and Tracking FAQs",
+        "pf_bc517d8a_value": "Track Your Order Now",
+        "pf_8efd0596_value": "Shipping Delays",
+        "pf_549444cd_text": "Submit Form",
+        "pf_49fb6787_placeholder": "First Name",
+        "pf_748b847a_label_text": "First Name",
+        "pf_04957bf7_label_text": "Last Name",
+        "pf_6d04957b_placeholder": "Last Name",
+        "pf_0fa1e2dd_label_text": "Message",
+        "pf_543d62bc_value": "Divider",
+        "pf_f92dd27d_value": "Divider",
+        "pf_49fb6787_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-2b1abb36"
+  ]
+}

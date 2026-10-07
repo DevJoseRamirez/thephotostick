@@ -1,0 +1,17 @@
+<!-- Hide footer for sales pages -->
+{% if product.handle == 'get-thephotostick-omni-special-offer-now'
+   or product.handle == 'shop-thephotostick-omni-holiday-savings' 
+   or product.handle == 'thephotostick-omni-3'
+   or product.handle == 'thephotostick-omni-photo-video-backup' 
+   or product.handle == 'get-thephotostick-omni-x-special-offer-now'
+   or product.handle == 'get-thephotostick-omni-x-effortless-photo-protection'
+   or product.handle == 'get-thephotostick-omni-x-effortless-photo-protection-em' %}
+  <style>
+    #shopify-section-sections--19825382621320__footer,
+    footer,
+    .footer,
+    #footer {
+      display: none !important;
+    }
+  </style>
+{% endif %}

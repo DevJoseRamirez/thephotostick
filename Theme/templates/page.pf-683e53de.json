@@ -1,0 +1,22 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-683e53de": {
+      "type": "pf-683e53de",
+      "settings": {
+        "pf_a95264bb_code": "<div name=\"termly-embed\" data-id=\"1ce4be18-f477-411f-8070-440e31130b29\"></div>\r\n<script type=\"text/javascript\">\r\n  (function(d, s, id) {\r\n  var js, tjs = d.getElementsByTagName(s)[0];\r\n  if (d.getElementById(id)) return;\r\n  js = d.createElement(s); js.id = id;\r\n  js.src = \"https://app.termly.io/embed-policy.min.js\";\r\n  tjs.parentNode.insertBefore(js, tjs);\r\n}(document, 'script', 'termly-jssdk'));\r\n</script>"
+      }
+    }
+  },
+  "order": [
+    "pf-683e53de"
+  ]
+}

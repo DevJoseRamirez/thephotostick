@@ -1,0 +1,85 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-4eb1e2e8": {
+      "type": "pf-4eb1e2e8",
+      "settings": {
+        "pf_e596f9a3_code": "<!-- Facebook Pixel Code TPS & XPC Ad Account -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '888738925033509');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=888738925033509&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
+        "pf_75b5135f_value": "<span style=\"font-weight: bold;\"> Almacenamiento independiente<br></span><br>Tenía un total de unas 60,000 imágenes, con muchos duplicados. Este pequeño \"USB\" consiguió eliminar los duplicados, de tal manera que ahora tengo unas 24,000 archivos originales conservados para siempre en una caja fuerta a prueba de incendios, lo cual es una manera de tenerlos seguro y sin costo. -&nbsp;<a href=\"https://www.amazon.com/gp/customer-reviews/R3PYHB5JB7KT90/ref=cm_cr_getr_d_rvw_ttl?ASIN=B01N5XPZ49&amp;ie=UTF8&amp;guu=44023200-a4ea-412a-93e2-1a615deeedfb&amp;gucurrency=usd&amp;gucountry=us&amp;gulanguage=en&amp;imor=0&amp;br=ThePhotoStick\" target=\"_self\">C. Reshetiloff</a>",
+        "pf_072d9364_value": "<span style=\"font-weight: bold;\"> Funciona tal y como dice.<br></span><br>The Photo Stick Mobile funciona tal y como dice; es muy fácil de usar. Revisé los archivos cuando terminó y ahí estaban todas mis fotos. Hay tanto espacio en la memoria que debo de poder utilizarlo durante muchos años para hacer copias de seguridad de mis fotos. - <a href=\"https://www.amazon.com/gp/customer-reviews/REZWYGM981EDR/ref=cm_cr_getr_d_rvw_ttl?ASIN=B01N5XPZ49&amp;ie=UTF8&amp;guu=44023200-a4ea-412a-93e2-1a615deeedfb&amp;gucurrency=usd&amp;gucountry=us&amp;gulanguage=en&amp;imor=0&amp;br=ThePhotoStick\" target=\"_self\">L. Wilson</a>",
+        "pf_726652e4_value": "Estamos comprometidos con la satisfacción de cada cliente de ThePhotoStick. Estamos tan seguros de que le encantará el producto, que ofrecemos una garantía de devolución del dinero de 60 días sin riesgo, a partir del día de la entrega.<br><br>&nbsp;Pruebe ThePhotoStick para computadoras PC y Mac, o ThePhotoStick Mobile para teléfonos inteligentes iPhone o Android, sin riesgo alguno. Si tiene algún problema y no está completamente satisfecho con su compra por cualquier motivo, simplemente póngase en contacto con returns@thephotostick.com o visite nuestro soporte de chat en vivo en thephotostick.com.",
+        "pf_5cf9109c_value": "Casi todos los principales dispositivos Android, iPhone y iPad. Dispositivos Android compatibles: Compatible con todos los teléfonos Samsung, LG, Motorola y HTC con sistema operativo Android 4.4 o más recientes fabricados en los últimos 3 años. Los teléfonos deben ser compatibles con conectores micro USB. Se incluye un adaptador GRATUITO que garantiza la compatibilidad con dispositivos Micro-USB y USB-C. Dispositivos iOS compatibles: Compatible con todos los iPhones, iPads y iPod Touch que tengan un puerto Lightning. Requiere iOS 9.0 o posterior.",
+        "pf_73b1b060_value": "✅ Fácil de usar: La aplicación de respaldo de archivos es fácil de entender, independientemente de sus conocimientos sobre teléfonos inteligentes.<br><br>✅ Funciona en Android, iPhone, iPad y iPod Touch<br><br>✅ Transfiere fácilmente a su computadora - Mantenga sus archivos almacenados en ThePhotoStick® Mobile o conéctelo fácilmente a un puerto USB para transferir todo a su computadora.<br><br>¡No se arriesgue a perder sus recuerdos en la nube!<br>",
+        "pf_5166c503_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">Acerca de</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contáctanos</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Términos y condiciones</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Políticas de privacidad</a>",
+        "pf_7fc96418_value": "<span style=\"font-weight: bold;\">!Esto es maravilloso!<br></span><br>Vaya, esto es maravilloso. Me sorprendió mucho. Tenía más de 3500 fotos en mi teléfono y estaba muy preocupada por perderlas. Muchos recuerdos.... The Photostick mobile fue muy fácil de usar y pienso regalarselo también a mi familia. - <a href=\"https://www.trustpilot.com/reviews/6046a3dff85d750394249ad1\" target=\"_blank\">Alice</a><br>",
+        "pf_8941a6b6_value": "Simplemente conectando ThePhotoStick® Mobile a su computadora, puede transferir fácilmente todas las fotos y vídeos del dispositivo. Es compatible con casi todos las computadoras modernas con sistemas operativos Windows y MacOS:<br><br>Windows:\rWindows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1 y Windows 10.\r<br><br>&nbsp;MacOS:\rMac OS X versión 10.6 y posterior.<br>",
+        "pf_bca4f50e_value": "¡Es muy fácil! Solo:\r<br><br>&nbsp;1. Descargue e inicie la aplicación gratuita \"ThePhotoStick® Mobile\".\r<br>2. Conecte el dispositivo\r<br>3. Haga clic en \"Respalde ahora\" (copia de seguridad)\r<br>&nbsp;4. (opcional) ¡Conéctelo a su ordenador para obtener las fotos y vídeos de su dispositivo!\r",
+        "pf_cd1673b0_value": "Sí, es una gran solución para un respaldo de seguridad. Mucha gente conecta ThePhotoStick® Mobile semanalmente y realiza una copia de seguridad rápida y sencilla para asegurarse de proteger continuamente sus recuerdos.",
+        "pf_c956c3ab_value": "Enviamos los pedidos RÁPIDAMENTE, pero no podemos controlar los tiempos de tránsito del transportista. Debido a COVID-19, los pedidos tardan hasta 10-20 días en ser entregados dependiendo del país.<br><br>",
+        "pf_418f1273_value": "ThePhotoStick® Mobile es un pequeño dispositivo que hace una copia de seguridad instantánea de sus recuerdos mas valiosos ¡Sin la frustración de tener que buscarlos y organizarlos usted mismo!",
+        "pf_bd33e2b6_label": "<span style=\"font-weight: bold;\">¿Qué tamaño de fotos se utiliza cuando decimos que la versión de 128 GB puede almacenar 60.000 fotos?</span>",
+        "pf_10028941_label": "<span style=\"font-weight: bold;\">¿Qué computadoras puedo utilizar para transferir las fotos y los vídeos del dispositivo?</span>",
+        "pf_8f2c74d8_value": "Realice rápidamente una copia de seguridad de los nuevos archivos cada semana y asegúrese de no perder nunca ningún recuerdo.",
+        "pf_d74fe07d_value": "Todos los productos están respaldados por nuestra garantía de devolución del dinero de 60 días, a partir del día del envío.",
+        "pf_8d155cf9_label": "<span style=\"font-weight: bold;\">¿Qué teléfonos o smartphones son compatibles con ThePhotoStick® Mobile?</span>",
+        "pf_0e5e25ab_value": "Dependiendo de su país, es posible que se le cobren una o más de estas tasas cuando reciba su pedido.<br>",
+        "pf_84738294_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_11d82377_value": "ThePhotoStick® Mobile hace una copia de seguridad de sus recuerdos más valiosos, automáticamente.",
+        "pf_3175d065_value": "Ahorre horas de búsqueda: ¡haga una copia de seguridad de miles de fotos y vídeos en minutos!<br>",
+        "pf_57cdca96_value": "No vuelvas a preocuparte por la pérdida de archivos en la nube o por daños causados por el agua.",
+        "pf_e5680e5e_label": "¿Tendré que pagar impuestos adicionales de aduana, aranceles o IVA cuando reciba mi pedido?",
+        "pf_67168b4f_value": "Hasta 128 GB de capacidad de almacenamiento - ¡respalde fácilmente 60.000 fotos y vídeos!",
+        "pf_c462e782_value": "Simplemente conéctalo a tu teléfono y pulsa \"Copia ahora\" en la aplicación gratuita.<br>",
+        "pf_6bfc8207_value": "Busca en TODO el teléfono para garantizar que no se pierda ninguna foto o vídeo.<br>",
+        "pf_5070cd16_label": "¿Puedo utilizar thephotostickmobile como solución de copia de seguridad continua?",
+        "pf_6bb5c956_label": "¿Cuánto tiempo tarda el envío a países fuera de los Estados Unidos de América?",
+        "pf_ba5fbca4_label": "<span style=\"font-weight: bold;\">¿Cómo se inicia ThePhotoStick® Mobile?</span>",
+        "pf_c649d74f_label": "¿Cómo funciona la garantía de devolución del dinero de 60 días?",
+        "pf_d35cdb41_value": "¡Diga adiós a los errores de <br>\"memoria llena\" para siempre!",
+        "pf_fae04bc5_value": "Por qué los clientes adoran ThePhotoStick® Mobile",
+        "pf_5a3d7e97_value": "Todos los dispositivos iOS con puerto lightning",
+        "pf_22a77685_value": "Disponible en 3 tamaños para iPhone y Android",
+        "pf_18047666_value": "Garantía de devolución del dinero de 60 días",
+        "pf_5b405531_value": "Realiza copias de seguridad rápidamente",
+        "pf_736f699a_value": "¡Vea ThePhotoStick Mobile en acción!",
+        "pf_c27471e0_value": "¡Guarde sus recuerdos para siempre!",
+        "pf_b110706f_value": "Compatible con Micro-USC y USB-C",
+        "pf_1055918f_value": "Copias de seguridad continuas",
+        "pf_b9ed8157_value": "Mantiene sus archivos a salvo",
+        "pf_e08d1a6b_value": "Encuentre TODOS los recuerdos",
+        "pf_4336e3b1_value": "Android Phones &amp; Tablets",
+        "pf_7e97811d_title": "32GB iPhone PhotoStick®",
+        "pf_682e2467_value": "Almacenamiento masivo",
+        "pf_62839121_value": "Preguntas frecuentes",
+        "pf_030681a3_text": "Agregar al carrito",
+        "pf_312072b9_text": "Agregar al carrito",
+        "pf_3a53cda3_text": "Agregar al carrito",
+        "pf_447942dc_alt": "ThePhotoStick Logo",
+        "pf_56a9bc1b_text": "Agregar al carrito",
+        "pf_cd3d1d1f_text": "Agregar al carrito",
+        "pf_fd6eb088_text": "Agregar al carrito",
+        "pf_35ee42c4_value": "Muy fácil de usar",
+        "pf_84738294_title": "Payments Accepted",
+        "pf_85a3f75a_value": "iPhone &amp; iPad",
+        "pf_dfab8473_value": "Formas de pago:",
+        "pf_77d51471_value": "ORDENA AHORA",
+        "pf_a37d4837_value": "ORDENA AHORA",
+        "pf_dcf3f2ab_value": "ORDENA AHORA",
+        "pf_2192a16f_value": "Divider",
+        "pf_66352473_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-4eb1e2e8"
+  ],
+  "layout": "theme.pagefly"
+}

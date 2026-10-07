@@ -1,0 +1,254 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_630493900007539248": {
+      "settings": {
+        "checksum": "905a9352b535a296886b3c56ffac5b3fa19c26a4c9c391146426e0d3b0b8ae0f_1_1_1_0__1",
+        "ggMYXnwG8pv_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_Every_Device_03.png",
+        "ggMiEqysWz8_text": "<p>Lightning</p>",
+        "ggRTabMutEJ_text": "<p>USB-C</p>",
+        "ggayznV1D_I_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_Every_Device_04.png",
+        "ggh33w8QJ_y_text": "<p>USB 3.0</p>",
+        "ggn8zRs_AX0_text": "<p>Micro-USB</p>",
+        "ggptcCKHiaK_text": "Back Up Photos &amp; Videos From Every Device",
+        "ggsgJLOiaVw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_Every_Device_01.png",
+        "ggvgrP1TuaF_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_Every_Device_02.png"
+      },
+      "type": "gp-section-630493900007539248"
+    },
+    "gp_section_630493900007604784": {
+      "settings": {
+        "checksum": "4c437f9ee7327467572e9f7b8cf03dff253fd84cc6e166a259f847499bc055fb_1_1_1_0__1",
+        "gg0L_ZXkQjS_childItem_0": "<p>FREE, Easy to Use Mobile App</p>",
+        "ggDDqoLu77R_text": "Keep Each and Every Special Memory Safe",
+        "ggJizpLi0Ya_childItem_0": "<p>No Monthly Fees or Subscriptions</p>",
+        "ggR1Vw8JhWj_text": "<p>Back up and protect a lifetime of memories with ThePhotoStick Omni</p>",
+        "gghhkXYBP38_html5Url": "https://cdn.shopify.com/videos/c/o/v/e36c599e07bc4bea920dc558662f7fd6.mp4",
+        "gghhkXYBP38_vimeoUrl": "https://vimeo.com/1095883398",
+        "gghhkXYBP38_youtubeUrl": "https://www.youtube.com/watch?v=NfASaHFN1zg",
+        "ggjio5gmR99_childItem_0": "<p>Protect 100,000+ Photos &amp; Videos</p>"
+      },
+      "type": "gp-section-630493900007604784"
+    },
+    "gp_section_630493900007670320": {
+      "settings": {
+        "checksum": "0f03f90e6bba9f84f1f50160fd8d623f6e9080582a1ad1a9e8e8101854f0d1cf_1_1_1_0__1"
+      },
+      "type": "gp-section-630493900007670320"
+    },
+    "gp_section_630493900007735856": {
+      "settings": {
+        "checksum": "cebc412c357f5ffdf01519d97621c64c92acfa12807c2f44d43381852dba40c1_1_1_1_0__1",
+        "gg-F2Gh1OOt_srcSet_desktop_src": "https://www.thephotostick.com/cdn/shop/files/TPSO_128gb.jpg?v=1767725072&width=300",
+        "gg-F2Gh1OOt_srcSet_mobile_src": "https://www.thephotostick.com/cdn/shop/files/TPSO_128gb.jpg?v=1767725072&width=200",
+        "gg-F2Gh1OOt_srcSet_tablet_src": "https://www.thephotostick.com/cdn/shop/files/TPSO_128gb.jpg?v=1767725072&width=200",
+        "gg4jXamlea0_text": "<p>Universal Compatibility</p>",
+        "gg5HbH8z4tD_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "gg5HbH8z4tD_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggA_Z2WJCkn_text": "<p>Fast Data Transfer</p>",
+        "ggBjUkWxFeW_text": "<p>Easy to Use</p>",
+        "ggFpKUcmuKc_text": "<p>No Monthly Fees</p>",
+        "ggS2Xqp-e6y_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "ggS2Xqp-e6y_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggTHYXmFLMg_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "ggTHYXmFLMg_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggWc3elOQxX_text": "<p>Competitors</p>",
+        "ggaoney33cZ_text": "<p>Huge Storage Capacity</p>",
+        "ggbT1KOvRxG_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "ggbT1KOvRxG_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggn0pjddeXq_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "ggn0pjddeXq_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggom3X8AOXi_text": "<p>Sorts Files For You</p>",
+        "ggqYHTPqrvc_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "ggqYHTPqrvc_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "ggufqC8Ai9U_text": "<p>Normal USB Drives</p>",
+        "ggvbgWp2wOI_text": "ThePhotoStick® Omni vs. Competitors",
+        "ggxJxJhlZj1_background_desktop_video": "https://www.youtube.com/watch?v=cyzh48XRS4M",
+        "ggxJxJhlZj1_background_desktop_videoHtml5": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+      },
+      "type": "gp-section-630493900007735856"
+    },
+    "gp_section_630493900007801392": {
+      "settings": {
+        "checksum": "6226b70fa03276563e9718705a90ad3d66d359ebc1b88205cbe6ff595d1c923f_1_1_1_0__1",
+        "gg9wiixCmXU_text": "<p>Plug It Into Your Device</p>",
+        "ggH_k4fdw50_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Steps_Omni_Classic_03.png",
+        "ggIFJdNCWZs_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Steps_Omni_Classic_01.png",
+        "ggK64ExjM6U_text": "<p>Download the FREE App</p>",
+        "ggLDyMOpOm1_text": "<p>Download ThePhotoStick Omni app from the Google Play Store or Apple App Store.</p>",
+        "ggNEUj3JVk1_text": "Get Started In 3 Easy Steps",
+        "ggNKRHAofgc_text": "<p>Plug ThePhotoStick Omni into your Android or Apple device and follow the on-screen instructions.</p>",
+        "ggZ51lpM5_V_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Articles_-_2026-06-04T143513.634.png",
+        "ggm61xDnTBH_text": "<p>Plug it into your computer to safely and easily transfer your photos and videos.</p>",
+        "ggxpsZtk0cz_text": "<p>Safely Transfer Files</p>"
+      },
+      "type": "gp-section-630493900007801392"
+    },
+    "gp_section_630493900007866928": {
+      "settings": {
+        "checksum": "d0009809962c00ea1580260965265b144105c3cd3976cb651310b148c4ae3b85_1_1_1_0__1",
+        "gg-qRaKtm2I_text": "<p><i>Merri D.</i></p>",
+        "gg0Xy-YqjJk_text": "<p>\"This stick holds thousands of pictures and videos. Then you can plug it in to your TV or laptop and look through the pictures or watch the videos. No more buying storage or being afraid of losing your memories if you phone breaks. I am going to get one for everyone in my household so they can always have their memories saved.\"</p>",
+        "gg9i4IgKp6w_text": "Join Over 2 Million+ ThePhotoStick® Users Worldwide",
+        "ggBtSqotnCn_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_review_img_01.png",
+        "ggDxURGJW-L_text": "<p>\"This is one of those devices that you never knew you needed until you got one. My phone is loaded with thousands of photos, so when I want to find one, it takes a long time. With this nifty little gadget, I can now offload all of those photos that I can't bring myself to delete and start over with a clean slate.\"</p>",
+        "ggPgMGwR4JB_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_review_img_03.png",
+        "ggPyVyK4UcU_text": "<p><i>Sherry H.</i></p>",
+        "ggS2BQLjIxB_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_review_img_02.png",
+        "ggbdGyeppWz_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_review_img_04.png",
+        "gglf50QRubB_text": "<p>\"I’m “one of those” whose pictures data spans over several years and amassing over 19,000, I finally caved and ordered this stick. It was so easy to download— uploaded the app, uploaded the photos and are now running on electronic picture library. Love it.\"</p>",
+        "ggqsIlgM4FS_text": "<p><span style=\"background-color:rgba(255,255,255,0);color:rgb(54,54,54);\">\"I have been kicking this purchase around for too long. Finally pulled the trigger and I couldn't be happier with the results. Very easy to use. I backed up everything from my Android phone then transferred all of those files to my laptop. Very happy with this purchase.\"</span></p>",
+        "ggxRiV5kOUa_text": "<p><i>Leslie B.</i></p>",
+        "ggxSxXrG2X1_text": "<p><i>Joseph L.</i></p>"
+      },
+      "type": "gp-section-630493900007866928"
+    },
+    "gp_section_630493900007932464": {
+      "settings": {
+        "checksum": "6059440dd35b1ab931308283e718f45d9f2c522ff8371e543c4264003bfe2650_1_1_1_0__1",
+        "ggppt329Eyw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Omni_Logo.png",
+        "ggppt329Eyw_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Omni_Logo.png",
+        "ggppt329Eyw_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Omni_Logo.png",
+        "section_preload": "true"
+      },
+      "type": "gp-section-630493900007932464"
+    },
+    "gp_section_630493900007998000": {
+      "settings": {
+        "checksum": "f164f0080c9e6b3b8bed1857a88b22971fffa35ab8a1448bde77d9ab8773e400_1_1_1_0__1",
+        "gg2jUB7RshJ_text": "Strong, Sleek, Take-Anywhere Design",
+        "ggAQ6DKvVLa_text": "<p>Built for life on the go, ThePhotoStick Omni features a compact, durable design that's easy to carry wherever you make memories.&nbsp;</p><p>&nbsp;</p><p>Slip it into a pocket, purse, backpack, or keychain and enjoy the confidence of having a simple backup solution always within reach.</p>",
+        "ggHEkJw-liQ_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Serenity_Template_Rectangle_35.png",
+        "ggHT22oAQI3_text": "<p>Some things are too important to leave unprotected.</p><p>&nbsp;</p><p>From treasured family photos and home videos to important documents, personal records, and files you rely on every day, ThePhotoStick Omni helps safeguard the digital pieces of your life. Everything that matters is backed up in one convenient place.</p>",
+        "ggLYFg_NSJJ_text": "All-in-One Multi-Device Compatibility",
+        "ggNeImPe4Vg_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Back_Up_More.png",
+        "ggZXKOtYeg1_text": "<p>Your memories aren't stored on just one device, so why should your backup only work with one?</p><p>&nbsp;</p><p>Back up photos and videos from iPhone®, Android™, Windows®, and Mac® devices using one simple solution. ThePhotoStick Omni helps you keep all your memories together, organized, and protected—without complicated setups or multiple backup tools.</p><p>&nbsp;</p>",
+        "ggnmqaZgK38_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Take_It_Anywhere.png",
+        "ggu_PQLsjKY_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_All_In_One_Compatibility.png",
+        "gguy9wSKlvE_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Serenity_Template_Rectangle_38.png",
+        "gguy9wSKlvE_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Serenity_Template_Rectangle_38.png",
+        "ggyk01pjb8v_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Serenity_Template_Rectangle_37.png",
+        "ggyzGFJWVxj_text": "Back Up More Than Just Photos and Videos"
+      },
+      "type": "gp-section-630493900007998000"
+    },
+    "gp_section_630493900008063536": {
+      "settings": {
+        "checksum": "425003ca6e7a12847ec6bb910b0b215db030b3509c2bcf4be9c6f29945782c9e_1_1_1_0__1",
+        "ggeqiWQdzMH_text": "<p>FREE Shipping On Orders $50+</p>",
+        "ggzqLiWd25H_text": "<p>30-Day Money-Back Guarantee</p>"
+      },
+      "type": "gp-section-630493900008063536"
+    },
+    "gp_section_630493900008129072": {
+      "settings": {
+        "checksum": "74f2cb4d4c27a54ea9eb5b0fa33e9c92e33aea0bb1633dc5b6fd605d0ff04f2b_1_1_1_0__1",
+        "gg0WUXbidyH_text": "<p>Simply download ThePhotoStick Omni app, plug ThePhotoStick Omni into your device, and tap 'BACK UP FILES NOW,' and that's it! Sit back and relax as it automatically finds and saves all of your precious photos, videos, and more.</p>",
+        "gg88rERqeSs_text": "<p>Starting your backup is easy as 1, 2, 3!</p>",
+        "ggF4BqBpf5g_text": "<p>Find and Protect 100,000+ photos and videos</p>",
+        "ggKY0K-vSJw_text": "<p>Approximate number of files stored on ThePhotoStick Omni USB:</p><p>&nbsp;</p><p>16GB - 6,400 photos and videos</p><p>32 GB - 12,800 photos and videos<br>64 GB - 25,600 photos and videos<br>128 GB - 51,200 photos and videos<br>256 GB - 102,400 photos and videos</p>",
+        "ggNqJkh1FQO_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Omni_Classic_BackUp_Made_Easy_01.png",
+        "ggOxhTHJGtX_text": "<p>Works with Android, iPhone, and iPad devices</p>",
+        "ggPhIMrEmg2_text": "<p>ThePhotoStick Omni is compatible with Windows, Android, and Apple Operating Systems:<br><br>- Windows: Windows 7 SP1 and later<br>- Apple: iOS and iPadOS 13.0 and later<br>- Android: 6.0 and later</p>",
+        "ggcB-8AjZvk_text": "Photo &amp; Video Backups Made Easy",
+        "ggey30_3Kms_childItem_0": "<p>Compatibility</p>",
+        "ggey30_3Kms_childItem_1": "<p>Capacity</p>",
+        "ggey30_3Kms_childItem_2": "<p>Getting Started</p>"
+      },
+      "type": "gp-section-630493900008129072"
+    },
+    "gp_section_630493900008194608": {
+      "settings": {
+        "checksum": "5ca3c8c97c65231dd949613b9ca835bd53164e3a58b75fa64a90d7a8e3459f04_1_1_1_0__1",
+        "ggNRAPy9tVO_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/NBC-News-logo-Black_9295d492-66df-4645-a50d-e9cf61c669e4.png",
+        "ggamBgMAZHU_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/FOX_Logo_Black.png",
+        "ggbYrmGYuCL_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/CBS_logo__2015.svg",
+        "ggfSXjNTUsC_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/AP_Logo_Black.png",
+        "ggp9xxBf2zk_text": "As Seen In",
+        "gguhPe_JrES_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/abc-broadcast-logo-png-transparent_1_b3327b88-91ed-4721-8981-8dc40fe9d009.png",
+        "gguio9bIJKH_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Business-Insider-Logo-2017_19065577-6f19-4f23-9be0-374943f6302b.png"
+      },
+      "type": "gp-section-630493900008194608"
+    },
+    "gp_section_630493900008260144": {
+      "settings": {
+        "checksum": "09aa3f52840bebb9f3d633f2070a4003a658098579c466501886288037658fc9_1_1_1_0__1",
+        "ggHo73hspRM_text": "<p>We are so confident you will love ThePhotoStick® Omni that we offer a no-risk 30-Day Money-Back Guarantee! If you're not 100% satisfied with your purchase, our team is happy to help you with an easy, hassle-free return.</p>",
+        "ggOUVMiouGA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_14.png",
+        "ggvLAU2cC3M_text": "100% Money-Back Guarantee"
+      },
+      "type": "gp-section-630493900008260144"
+    },
+    "gp_section_630493900008325680": {
+      "settings": {
+        "checksum": "8d5c512dfdfad65e828eccd98693109447f01c4421e2c2900b6c9514c1447fc4_1_1_1_0__1",
+        "gg0qRaD-e74_errorMessage": "Cannot add product to cart",
+        "gg0qRaD-e74_label": "ADD TO CART",
+        "gg0qRaD-e74_outOfStockLabel": "Out of stock",
+        "gg0qRaD-e74_successMessage": "Add product to cart successfully",
+        "gg0qRaD-e74_unavailableLabel": "Unavailable",
+        "gg0qRaD-e74_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
+      },
+      "type": "gp-section-630493900008325680"
+    },
+    "gp_section_630493900008391216": {
+      "settings": {
+        "checksum": "1872bcaf7bd8887d28ba4800fe829a6aea28243000fa8394de3c649148373b5b_1_1_1_0__1",
+        "gg6KkmgObRK_text": "<p><a href=\"https://www.thephotostick.com/pages/terms-of-service\" target=\"_blank\"><u>Terms of Service</u></a></p>",
+        "ggG6j4OrTm7_text": "<p><a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\"><u>Privacy Policy</u></a></p>",
+        "gg_db4JWL1C_text": "<p><a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_blank\"><u>Return Policy</u></a></p>",
+        "ggkIyRCLcJx_text": "<p><a href=\"https://www.thephotostick.com/pages/support-center\" target=\"_blank\"><u>Contact Us</u></a></p>",
+        "ggrM2BH81RS_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">Copyright ©2026 - ThePhotoStick® | All Rights Reserved</span></p>"
+      },
+      "type": "gp-section-630493900008391216"
+    },
+    "gp_section_630493900008456752": {
+      "settings": {
+        "checksum": "81bc6bdc96fd732deed4bd608c40c42b9a36175d778fade3aca50f74771b00ff_1_1_1_0__1",
+        "gg2IBlvQ_lT_text": "<p>Yes, it’s a great backup solution! Many people use ThePhotoStick Omni&nbsp;for&nbsp;weekly backups to make sure they are continually protecting their memories.</p>",
+        "gg90ebmzGqD_childItem_0": "<p>Is ThePhotoStick® Omni easy to use?</p>",
+        "gg90ebmzGqD_childItem_1": "<p>Will ThePhotoStick® Omni work with my device?</p>",
+        "gg90ebmzGqD_childItem_2": "<p>How many photos can I store on ThePhotoStick® Omni?</p>",
+        "gg90ebmzGqD_childItem_3": "<p>What photo and video file types can ThePhotoStick® Omni detect?</p>",
+        "gg90ebmzGqD_childItem_4": "<p>Can I use ThePhotoStick® Omni as an ongoing backup solution?</p>",
+        "gg90ebmzGqD_childItem_5": "<p>Does ThePhotoStick® Omni come with tech support?</p>",
+        "gg90ebmzGqD_childItem_6": "<p>How does the 30-day money-back guarantee work?</p>",
+        "ggCaflpu5Mi_text": "<p>Have questions? We’re here to help</p>",
+        "ggJZp62fynD_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Approximate Number of Photos Stored on ThePhotoStick Omni:</span><br><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">32GB - 12,800 photos</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">64GB - 25,600 photos</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">128GB - 51,200 photos</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">256GB - 102,400 photos</span><br><br><i>*Please note that storage capacity per GB listed above is approximate, and exact storage amounts vary depending on file type and size. For more in-depth information regarding ThePhotoStick Omni, check out our </i><a href=\"https://www.manula.com/manuals/product-support/thephotostick-omni-official-user-guide/4/en/topic/overview\" target=\"_blank\"><i><u>Official User Guide</u></i></a><i>.</i></p>",
+        "ggbWKzOwGnh_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Yes, getting started with ThePhotoStick Omni is incredibly easy! Please note, however, that it will take some time for ThePhotoStick Omni to find each of your photos and safely back them up. This time can vary depending on how many photos you have, the size of your files, and the type of device you are using. But the great thing about ThePhotoStick Omni is that anyone can use it, no matter how comfortable they are with technology!</span><br><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Check out our </span><a href=\"https://www.manula.com/manuals/product-support/thephotostick-omni-official-user-guide/4/en/topic/overview\" target=\"_blank\"><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\"><u>User Guide</u></span></a><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\"> for more information on getting started with ThePhotoStick Omni. We also offer live customer support if you have any questions or difficulties: support@thephotostick.com</span></p>",
+        "ggeM67yhadI_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">ThePhotoStick Omni works with all modern computers, smartphones, and tablets right out of the box.</span><br><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">It's compatible with the following Windows, Android, and Mac Operating Systems:</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">- Windows: Windows 7 SP1 and Later</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">- Apple: iOS and iPadOS 13.0 and Later</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">- Android: 8.0 and Later</span><br><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">For more up-to-date information regarding ThePhotoStick compatibility, we recommend viewing our </span><a href=\"https://www.thephotostick.com/pages/support-system-requirements\" target=\"_blank\"><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\"><u>System Requirements</u></span></a><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\"> page.</span></p>",
+        "gggJBjmCNqS_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">We offer a no-hassle, 30-Day Money Back Guarantee. If you're not 100% satisfied with your purchase from ThePhotoStick, our team is here to assist you with a return. We want you to be happy!</span><br><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">If you are not completely satisfied with your order, please get in touch with us&nbsp;at returns@thephotostick.com, and we'd be happy to facilitate your return and refund. For more information regarding our return process, check out our Returns and Refunds page.</span></p>",
+        "gggtDdkXDNb_text": "<p>Frequently asked questions</p>",
+        "ggqVAyfJUad_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Of course! Visit our website, thephotostick.com, and click the gray circle near the bottom right corner of the page to begin chatting with a member of our Support Team.</span><br><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Live Chat available Monday-Saturday, 8am-8pm PST</span></p>",
+        "ggsFp9atDpT_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Nearly all of them! It saves your standard JPEG, HEIC, PNG, GIF, MOV, and MP4, but ThePhotoStick Omni can now protect your contacts, documents, and audio files. It saves a vast array of file types, as listed below:</span><br><br><strong>PHOTO EXTENSIONS:</strong><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">JPEG (*.jpg;*.jpeg;*.jpe;*.jfif)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">HEIC (*.heic, *.heics, *.heif, *.heifs, *.avci, *.avcs)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">GIF (*.gif)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">PNG (*.png)BMP (*.bmp;*.rle;*.dib)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">TIFF (*.tif,*.tiff)ICO (*.ico)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Camera Raw (*.crw, *.nef, *.raf, *.orf, *.mrw, *.dcr, *.mos, *.raw, *.pef, *.srf, *.dng, *.x3f, *.cr2, *.erf, *.sr2, *.kdc, *.mfw, *.mef, *.arw, *.nrw, *.rw2, *.rwl, *.iiq, *.3fr, *.srw) Photoshop (*.psd, *.pdd, *.pdp, *.pse, *.eps)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">PICT File (*.PCT, *.PICT)</span><br><br><strong>VIDEO EXTENSIONS:</strong><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">MOV (*.mov, *.qt, *.hevc)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">MPEG4 (*.mp4, *.mpeg4, *.m4v, *.h264)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">AVI (*.avi)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">WMV (*.wmv)</span><br><br><strong>OTHER EXTENSIONS:</strong><br>Documents (*.doc, *.pdf)</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Audio (*.mp3, *.wav)</span><br><span style=\"background-color:rgb(255,255,255);color:rgb(54,54,54);\">Contacts (*.vcf)</span></p>"
+      },
+      "type": "gp-section-630493900008456752"
+    }
+  },
+  "order": [
+    "gp_section_630493900007932464",
+    "gp_section_630493900008063536",
+    "gp_section_630493900007670320",
+    "gp_section_630493900007866928",
+    "gp_section_630493900007801392",
+    "gp_section_630493900007604784",
+    "gp_section_630493900008194608",
+    "gp_section_630493900007998000",
+    "gp_section_630493900007735856",
+    "gp_section_630493900007539248",
+    "gp_section_630493900008129072",
+    "gp_section_630493900008456752",
+    "gp_section_630493900008260144",
+    "gp_section_630493900008391216",
+    "gp_section_630493900008325680"
+  ],
+  "layout": "theme.gempages.blank"
+}

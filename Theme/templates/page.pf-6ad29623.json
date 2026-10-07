@@ -1,0 +1,27 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-6ad29623": {
+      "type": "pf-6ad29623",
+      "settings": {
+        "pf_cf48b74f_code": "<script data-cfasync=\"false\" src=\"https://track.thephotostickquiz.com/integration/lumetric.js?2.2.0\"></script>\n<script>\n  var lum = new Lumetric();\n</script>\n\n<script>\nlum.event('view', {\n  'query': {\n    'f': '0tXCrOiMHG3c',\n    'n': '0vWiob1IO9xG',\n    'p': '0vWevbDKLO1R',\n    // 'ts': '0tXRWF1nMBVT',\n    // 'c': '{COST}'\n  },\n  'options': {\n\t'cookieAllowed': true,\n\t'urlRewrite': true,\n    'timeOnPage': false,\n    'resolveTokens': [],\n  },\n  'onDone': function (response) {}\n});\n</script>",
+        "pf_5fbeb800_value": "<a href=\"https://www.xtra-pc.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.xtra-pc.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.xtra-pc.com/policies/terms-of-service\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.xtra-pc.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_9c9d3bb7_alt": "American Express, Apple Pay, Diner's Club, Discover, Elo, Google Pay, JCB, MasterCard, PayPal, Shop Pay, Venmo, Visa",
+        "pf_9c9d3bb7_title": "Payments accepted from 12 secure payment gateways",
+        "pf_009c9d3b_value": "Payments Accepted:"
+      }
+    }
+  },
+  "order": [
+    "pf-6ad29623"
+  ],
+  "layout": "theme.pagefly"
+}

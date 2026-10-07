@@ -1,0 +1,47 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-4190c982": {
+      "type": "pf-4190c982",
+      "settings": {
+        "pf_31c413c2_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the chat circle near the bottom right of this page or send them a message using the form below.",
+        "pf_06fae391_value": "Looking for more in-depth knowledge on ThePhotoStick Omni? Our official user guide can answer all of your questions and help troubleshoot any issues you may run into.",
+        "pf_f58285fa_value": "With our helpful Quick Start Guide, you'll be backing up your favorite files with ThePhotoStick Omni in no time!",
+        "pf_47c6b3c9_value": "<span style=\"font-weight: bold;\">Android OS<br><br></span>Anroid OS 8.0 and Later",
+        "pf_a3689ccd_value": "<span style=\"font-weight: bold;\">iOS<br><br></span>iOS and iPadOS 13.0 and Later",
+        "pf_42ecf831_value": "<span style=\"font-weight: bold;\">Windows<br><br></span>Windows 7 SP1 and Later",
+        "pf_730373db_alt": "Find troubleshooting solutions with ThePhotoStick Omni Official User Guide",
+        "pf_0618d119_value": "Looking for help with ThePhotoStick Omni? You've come to the right place!",
+        "pf_8fc695c0_value": "<b>Mac<br></b><br>Mac OS X Version 10.13 and Later",
+        "pf_f7a5b731_value": "Still Can't Find What You're Looking For?",
+        "pf_5b811e06_value": "ThePhotoStick® Omni Official User Guide",
+        "pf_730373db_title": "ThePhotoStick Omni Official User Guide",
+        "pf_00e404f5_value": "ThePhotoStick® Omni Quick Start Guide",
+        "pf_82bc5406_value": "Getting Started: ThePhotoStick® Omni",
+        "pf_ad226789_value": "Download ThePhotoStick® Omni App",
+        "pf_c13b671c_value": "The PhotoStick® Omni - FAQs",
+        "pf_ab11e921_value": "System Requirements:",
+        "pf_1f2ad987_placeholder": "Your request",
+        "pf_775ffda6_value": "PDF Download",
+        "pf_1f735f7f_text": "Submit Form",
+        "pf_818eb9f0_placeholder": "Your name",
+        "pf_91a77303_value": "View Now",
+        "pf_faf471c8_value": "View Now",
+        "pf_1a72cab3_value": "Divider",
+        "pf_1f2ad987_label_text": "Message",
+        "pf_1131720c_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-4190c982"
+  ]
+}

@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-164ba90b": {
+      "type": "pf-164ba90b",
+      "settings": {
+        "pf_c32985c7_value": "You can return ThePhotoStick, ThePhotoStick Mobile, or ThePhotoStick Omni for any reason within 30 days, beginning the date of delivery, for a full refund<sup>*</sup> of your purchase amount.<br><sup>*</sup><em><sup>Shipping and handling charges and taxes paid (e.g. state, customs, VAT) are non-refundable.<br><br></sup></em>Just email us at <strong>returns@thephotostick.com</strong> to receive your required return instructions.<br><br>For more information, please visit: <strong><a href=\"/pages/support-return-and-refund-process\" target=\"_self\">Return and Refund Process for ThePhotoStick®</a></strong>",
+        "pf_27817566_value": "<strong>NOTICE:</strong> <strong>Disabling cookies may affect your experience on our website.</strong> If you&nbsp;have already denied cookies and wish to chat with a Support Agent please follow these steps:&nbsp; 1)&nbsp;Click the Consent Settings button.&nbsp; 2) Select Allow All cookies.&nbsp; 3) Refresh your browser.&nbsp; 4) Click the chat widget on the bottom right.",
+        "pf_b4d1cc68_value": "<strong>NOTICE: Disabling cookies may affect your experience on our website.</strong> If you have already denied cookies and wish to chat with a Support Agent please follow these steps: 1) Click the Consent Settings button.  2) Select Allow All cookies.  3) Refresh your browser.  4) Click the chat widget on the bottom right.<br> ",
+        "pf_6613df63_code": "<br>\n<div style=\"text-align: center;\">\n  <a href=\"#\" class=\"termly-display-preferences\"\n    style=\"background-color: #1990C6; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px;\">Consent\n    Settings</a>\n</div>",
+        "pf_2da676db_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the chat circle near the bottom right corner of this page or send them a message using the form below.",
+        "pf_d95fe946_value": "Click the gray circle near the bottom right corner of this page to begin chatting with a member of our Support Team.<br><br>Live Chat available Monday-Saturday, 8am-8pm PST",
+        "pf_ca4905e5_value": "<strong>All shipments are sent by DHL Global Mail.<br></strong><br>You can track your shipment via the DHL Global Mail tracking system by clicking the button below.",
+        "pf_0d019bd9_value": "For more information, please visit: <a href=\"/pages/support-shipping-information\" target=\"_self\"><strong>Shipping Information for&nbsp;ThePhotoStick®</strong></a>",
+        "pf_759719b5_value": "Easily access all the information you need, from FAQs and user guides to video tutorials and&nbsp;expert tips.",
+        "pf_fa043dc9_value": "Select your ThePhotoStick product to learn the ins and outs of your new backup device.",
+        "pf_f4958437_value": "What to Do if ThePhotoStick® Omni Drive Is Not Detected by Your Mobile&nbsp;Device",
+        "pf_1b94a161_alt": "How to Fully Close and Reopen ThePhotoStick® Omni App on Android and iOS Devices",
+        "pf_94a161bb_value": "How to Fully Close and Reopen ThePhotoStick® Omni App on Android and iOS Devices",
+        "pf_66f49584_alt": "What to Do if ThePhotoStick® Omni Drive Is Not Detected by Your Mobile Device",
+        "pf_21f833c7_value": "How to Properly Disconnect ThePhotoStick® Omni From Android and iOS Devices",
+        "pf_9b1bc0ae_title": "Support - ThePhotoStick® for PC and Mac Computers",
+        "pf_97d95fe9_alt": "Man happily looking at computer in his lap.",
+        "pf_e9e26df5_value": "ThePhotoStick<first-sel>®</first-sel> Omni",
+        "pf_83d10a2d_value": "Still Can't Find What You're Looking For?",
+        "pf_9b1bc0ae_alt": "ThePhotoStick for Computers graphic",
+        "pf_904e18af_value": "Mac OS X Version 10.13 and Later",
+        "pf_0be12f75_value": "ThePhotoStick® Support Center",
+        "pf_8ea5df73_title": "Support - ThePhotoStick® Omni",
+        "pf_b573a161_value": "iOS and iPadOS 13.0 and Later",
+        "pf_8ea5df73_alt": "ThePhotoStick Mobile graphic",
+        "pf_a9f956e9_alt": "ThePhotoStick Omni graphic",
+        "pf_40c6e2fa_value": "Not Sure Where to Start?",
+        "pf_63f30cc3_value": "Android OS 8.0 and Later",
+        "pf_32a39410_value": "Windows 7 SP1 and Later",
+        "pf_c1b17404_value": "System Requirements<br>",
+        "pf_7404ab23_value": "Helpful&nbsp;Resources",
+        "pf_732d35c0_value": "ThePhotoStick® Mobile",
+        "pf_d79377bd_value": "View All Product FAQs",
+        "pf_85cf4281_value": "Track Your Order Now",
+        "pf_d01f9fa7_value": "We're Here to Help!",
+        "pf_ab2392f0_value": "Video Tutorials",
+        "pf_ae403423_value": "ThePhotoStick®",
+        "pf_5ccb5489_placeholder": "Your request",
+        "pf_ab8d0826_value": "Coming Soon!",
+        "pf_c26ca781_text": "Submit Form",
+        "pf_1c1932a3_value": "Windows OS",
+        "pf_34d817b2_placeholder": "First Name",
+        "pf_34d817b2_label_text": "First Name",
+        "pf_d76763f3_value": "Android OS",
+        "pf_480c8ac7_label_text": "Last Name",
+        "pf_fb480c8a_placeholder": "Last Name",
+        "pf_e6fe5bd0_value": "Shipping",
+        "pf_5ccb5489_label_text": "Message",
+        "pf_827e9ed9_value": "Returns",
+        "pf_258f904e_value": "macOS",
+        "pf_c3f37d31_placeholder": "Email",
+        "pf_eebd5d98_value": "FAQs",
+        "pf_d6e3b573_value": "iOS"
+      }
+    }
+  },
+  "order": [
+    "pf-164ba90b"
+  ]
+}

@@ -1,0 +1,25 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-302bed3b": {
+      "type": "pf-302bed3b",
+      "settings": {
+        "pf_e6717253_value": "Apply now to collaborate with us and help spread the word about ThePhotoStick products while enjoying exclusive benefits and opportunities!&nbsp;<br><br>If accepted, we'll send you an invitation email to order your FREE welcome gift and create your&nbsp;account.",
+        "pf_aee70c9e_value": "As a Friend of ThePhotoStick®, you’ll have the opportunity to showcase the ultimate tool for effortlessly backing up and organizing photos and videos. Share the convenience, security, and peace of mind that ThePhotoStick brings to families everywhere.",
+        "pf_4c66faa0_value": "Become a Friend of ThePhotoStick!",
+        "pf_7b4a992a_value": "Friends of ThePhotoStick®"
+      }
+    }
+  },
+  "order": [
+    "pf-302bed3b"
+  ]
+}

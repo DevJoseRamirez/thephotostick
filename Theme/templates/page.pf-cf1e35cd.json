@@ -1,0 +1,101 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-cf1e35cd": {
+      "type": "pf-cf1e35cd",
+      "settings": {
+        "pf_7ac0135f_code": "<!-- Global site tag (gtag.js) - Google Ads: 441272717 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-441272717\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-441272717');\n</script>\n\n<!-- Event snippet for TPS Cube - Product Page - PIT - Page view conversion page -->\n<script>\n  gtag('event', 'conversion', {'send_to': 'AW-441272717/0Ln_CKi_7OICEI2TtdIB'});\n</script>\n\n\n<script data-cfasync=\"false\" src=\"https://track.thephotostickquiz.com/integration/lumetric.js?2.2.0\"></script>\n<script>\n  var lum = new Lumetric();\n</script>\n\n<script>\nlum.event('view', {\n  'query': {\n    'f': '189cynKTsNjW',\n    'n': '189d4nVq4pQ8',\n    'p': '189cns7uxD88',\n    // 'ts': '16B8qIT8pJ0s',\n    // 'c': '{COST}'\n  },\n  'options': {\n\t'cookieAllowed': true,\n\t'urlRewrite': true,\n    'timeOnPage': false,\n    'resolveTokens': [],\n  },\n  'onDone': function (response) {}\n});\n</script>\n\n\n<!-- Taboola Pixel Code -->\n<script type='text/javascript'>\n  window._tfa = window._tfa || [];\n  window._tfa.push({notify: 'event', name: 'page_view', id: 1397390});\n  !function (t, f, a, x) {\n         if (!document.getElementById(x)) {\n            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);\n         }\n  }(document.createElement('script'),\n  document.getElementsByTagName('script')[0],\n  '//cdn.taboola.com/libtrc/unip/1397390/tfa.js',\n  'tb_tfa_script');\n</script>\n<!-- End of Taboola Pixel Code -->\n\n<!-- Taboola Pixel Code -->\n<script>\n    _tfa.push({notify: 'event', name: 'tps_cube_sales_page_view_content', id: 1397390});\n</script>\n<!-- End of Taboola Pixel Code -->\n\n\n<!-- Facebook Pixel Code TPS & XPC Ad Account -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '888738925033509');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=888738925033509&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
+        "pf_f5d3c01e_value": "We are committed to delighting each customer of ThePhotoStick. We are so confident you will love it, that we offer a no-risk 30-Day Money Back Guarantee, starting at the day of delivery.<br><br>Try out ThePhotoStick for PC and Mac computers, or ThePhotoStick Mobile for iPhone or Android smartphones, with no risk! If you have any issues and are not completely satisfied with your purchase for whatever reason, simply contact returns@thephotostick.com or visit our Live Chat support at thephotostick.com.",
+        "pf_7c147898_value": "Eliminate the headaches of searching, organizing, transferring and saving photos and videos. <br><br>Let ThePhotoStick Cube's custom designed file-backup app do the work for you! <br><br>It is easy to understand regardless of your smartphone knowledge, the Cube can plug into your phone charger or your computer. It's that simple! <br><br>Never worry about losing files in the cloud or to unknown circumstances like water damage again.",
+        "pf_cc09337a_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_e6ea355c_value": "By simply plugging in ThePhotoStick® Cube to your computer, you can easily transfer all of the photos and videos off of you device. It’s compatible with nearly all modern computers that use Windows or Mac Operating Systems.<br><br>Windows: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10. <br><br>Mac: Mac OS X Version 10.6 and later.",
+        "pf_83faba7d_value": "Almost all major Android, iPhone, and iPad devices!&nbsp;<br><br>Supported Android devices: Compatible with all Samsung, LG, Motorola, and HTC phones running Android OS 6.0 or newer. <br><br>Supported iOS devices: Compatible with all iPhones, iPads, and iPod Touches that have a Lightning Port. Requires iOS 10.13 or later.",
+        "pf_0c956665_value": "It’s as EASY as 1, 2, 3!<br><br>1) Download and Launch the FREE “ThePhotoStick® Mobile” App<br>2) Plug the device into your wall charger<br>3) Plug your phone into the cube and let it run<br><br>(Optional) Plug into your computer to get the photos and videos off your device!",
+        "pf_3b0315a1_value": "ThePhotoStick Cube will backup both the static and MOV files from live photos.  On the Cube, you will have a static image as well as the short MOV clip file for each live photo.  The MOV file is the same length and looks like the live photo when viewing on the iPhone.",
+        "pf_eb370d8d_alt": "I had a grand total of about 60,000 images, with many duplicates. This little \"stick\" managed to eliminate the duplicates so that I now have about 24,00 originals preserved forever in a fire-proof vault, a cost-free and independent method of safekeeping.",
+        "pf_0d8d515d_alt": "The Photo Stick works just the way it says it does; very easy to use. I checked it when done, and there were my pictures. There is so much room on the stick that I should be able to use it for years to backup documents and pictures",
+        "pf_1f8430d3_alt": "Easy breezy, just plug into your computer and follow the directions. I wish I had this way back when I had my first camera phone so I wouldn't have lost so many pictures of my kids, other family, and friends, and important events.",
+        "pf_76f71f84_alt": "So easy to use. Can move tons of old keepable photos off my other devices and onto this stick. I must have moved 500 photos to the stick and the \"needle\" barely moved. Totally happy with it - especially at a rather low cost.",
+        "pf_1c96eb37_alt": "This thing is amazing! Plugged it into my iMac and it found all my pics and saved them. 85,000+ pics saved! Saved storage space on my computer and now I have all of these memories over the past decade saved in a safe place",
+        "pf_d6400064_value": "Yes, it’s a great backup solution! Many people plug ThePhotoStick® Cube in each night for a quick and easy backup to make sure they are continually protecting their memories.",
+        "pf_843d2b29_value": "We ship orders out FAST, but we can’t control carrier transit times. Due to COVID-19, orders are taking up to 10-20 days to be delivered depending on the country.",
+        "pf_f2cecc7c_value": "Easily transfer your photos to your Computer – plug it into the USB slot when you’re ready to move them. And keep a copy on the Cube for ongoing backup!<br>",
+        "pf_515d76f7_alt": "This was an excellent product to save my pictures. It captured all my photos off a computer that had crashed. I was very happy with the stick.",
+        "pf_3cf8c1b4_value": "Depending on your country, it is possible that you will be charged one or more of these fees when you receive your order.&nbsp;",
+        "pf_6e2ebc36_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_017c7f92_value": "Android version available and iOS version compatible with iPhone, iPad, and iPod Touch&nbsp;",
+        "pf_117ebb39_value": "All products are backed by our 30 Day Money Back Guarantee, starting on the day of shipping.",
+        "pf_9ce76041_value": "Fits between your normal wall charger box and charger cable for major Android and iPhones",
+        "pf_f2aa3cf8_label": "Will I have to pay any additional customs, duties or VAT fees when I receive my order?",
+        "pf_ee7f6a14_label": "What photo file size is used when we say the 128GB version can store 60,000 photos?",
+        "pf_0bc0d9da_value": "ThePhotoStick® Cube Backs Up Your Precious Memories Every Night – Automatically!",
+        "pf_f739cb7f_value": "Simply plug it in between your phone and your phone charger and let it work!",
+        "pf_6a57e6ea_label": "Which computers can I use to transfer photos and videos off of the device?",
+        "pf_72d8ce88_value": "Up to 256GB storage capacity – easily back up 120,000 photos and videos!",
+        "pf_0ce40d13_value": "Never worry about losing files, quickly backup new files nightly!",
+        "pf_a2568ae9_value": "Easily download for FREE in the Google Play Store and Apple Store",
+        "pf_5883843d_label": "How long does delivery take to countries outside of the U.S.?",
+        "pf_edcd484e_value": "Backs up photos, videos, and files while charging your phone",
+        "pf_42e2d640_label": "Can I use ThePhotostick Cube as an ongoing backup solution?",
+        "pf_6fe483fa_label": "Which smartphones are compatible with ThePhotostick Cube?",
+        "pf_a43259f2_value": "Here's Why Customers Love ThePhotoStick Products",
+        "pf_8e9b7b40_value": "Using ThePhotoStick Cube Is As Easy As 1, 2, 3!",
+        "pf_2d60117e_label": "How does the 30 Day Money Back Guarantee work?",
+        "pf_ff7a1e4b_value": "Say Goodbye To “Storage Full” Errors FOREVER!",
+        "pf_6e15dd1f_label": "Does ThePhotoStick Cube back up Live Photos?",
+        "pf_b96f4c8d_value": "Available in 4 Sizes for iPhone and Android",
+        "pf_4ce2ff62_value": "Reasons to Love ThePhotoStick Cube",
+        "pf_4dbb0c95_label": "How do I start ThePhotoStick Cube?",
+        "pf_68aac106_value": "\"ThePhotoStick Cube Is Wonderful\"",
+        "pf_71889c62_value": "Save 120,000 Photos &amp; Videos!",
+        "pf_620dc3d1_value": "Save 60,000 Photos &amp; Videos!",
+        "pf_9fcc1d8c_value": "Save 15,000 Photos &amp; Videos!",
+        "pf_d1ddff9f_value": "Save 30,000 Photos &amp; Videos!",
+        "pf_107b873d_value": "ThePhotoStick Cube for Android",
+        "pf_d8a4e910_value": "ThePhotoStick Cube for iPhone",
+        "pf_4d449001_value": "✅ Works On Multiple Devices",
+        "pf_8f57ef92_value": "30-Day Money Back Guarantee",
+        "pf_f9cb416e_value": "Frequently Asked Questions",
+        "pf_9db2ec0c_value": "✅ Keeps Your Files Safe",
+        "pf_83a3a69c_value": "2. Plug In Your Phone",
+        "pf_eb370d8d_title": "C. Reshetiloff Review",
+        "pf_62528cf7_value": "✅ Super Easy To Use",
+        "pf_7e482ca2_value": "1. Download the App",
+        "pf_affc2eed_value": "3. Automatic Backup",
+        "pf_35cd65d2_alt": "ThePhotoStick Logo",
+        "pf_80366e2e_value": "Payments accepted:",
+        "pf_36100dd0_value": "SEE HOW IT WORKS!",
+        "pf_6e2ebc36_title": "Payments Accepted",
+        "pf_921a02b7_value": "✅ Massive Storage",
+        "pf_e7b1732a_value": "SEE HOW IT WORKS!",
+        "pf_0d8d515d_title": "L. Wilson Review",
+        "pf_1f8430d3_title": "Sharon G. Review",
+        "pf_515d76f7_title": "Pastor T. Review",
+        "pf_1c96eb37_title": "T. Sharp Review",
+        "pf_76f71f84_title": "John H. Review",
+        "pf_43052393_value": "Add to Cart",
+        "pf_62598501_value": "Add to Cart",
+        "pf_67e547d2_value": "Add to Cart",
+        "pf_ffede2f1_value": "Add to Cart",
+        "pf_6400e2f8_value": "ORDER NOW",
+        "pf_7883ac52_value": "ORDER NOW",
+        "pf_a5bce0e5_value": "ORDER NOW",
+        "pf_4c459464_value": "SOLD OUT",
+        "pf_6ec1ee28_value": "Divider",
+        "pf_92b8375b_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-cf1e35cd"
+  ],
+  "layout": "theme.pagefly"
+}

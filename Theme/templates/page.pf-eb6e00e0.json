@@ -1,0 +1,102 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-eb6e00e0": {
+      "type": "pf-eb6e00e0",
+      "settings": {
+        "pf_52f2aff3_value": "Getting started with ThePhotoStick® Omni is incredibly easy! It’s as easy as 1,2,3 – no matter which device you're using!<br><br><strong>To start on Windows:</strong><br>Plug ThePhotoStick® Omni into an open USB slot.<br>From File Explorer, double-click on ThePhotoStick®Windows.exe.<br>Click “Go“!<br><br><strong>To start on Mac:</strong><br>Plug into an open USB slot.<br>Double-click on the USB icon labeled as PHOTOSTICK.<br>Double-click on ThePhotoStick®Mac.<br>Click “Go“!<br><br><strong>To start on any phone (Android or iOS):</strong><br>Download and Launch the FREE “ThePhotoStick® Omni” App<br>Plug in the device<br>Click “Backup Now”",
+        "pf_a399b746_value": "<strong>For computers (Mac or PC):</strong> ThePhotoStick® Omni does not need to install anything on your computer, nor does it require anything to be already installed on your computer.<br><br>It comes with everything it needs. Just simply plug it into an available USB slot, and you’re ready to get started.<br><br><strong>For phones (Android or iOS):</strong> ThePhotoStick® Omni offers a FREE app that allows you to back up, view, and organize your photos with ease.<br><br>There are no monthly charges or download costs for using the app – just download it and follow the on-screen instructions to easily get started. ",
+        "pf_4ebc8e08_value": "Copyright ©2025 - ThePhotoStick® | All Rights Reserved<br><br><a href=\"/pages/about-us\" target=\"_blank\">About</a> |&nbsp;<a href=\"/pages/support-center\" target=\"_blank\">Contact Us</a>&nbsp;|&nbsp;<a href=\"https://www.thephotostick.com/pages/terms-of-service\" target=\"_blank\">Terms of Service</a> | <a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a> | <a href=\"/pages/support-return-and-refund-process\" target=\"_blank\">Return&nbsp;Policy</a>&nbsp;| <a href=\"/pages/support-shipping-information\" target=\"_blank\">Shipping Policy</a>",
+        "pf_a7c8e5f0_value": "<strong></strong>We offer a no-hassle, 30-Day Money Back Guarantee. If you're not 100% satisfied with your purchase from ThePhotoStick®, our team is here to assist you with a return. We want you to be happy!<br><br>If you are not completely satisfied with your order, please get in touch with us&nbsp;at returns@thephotostick.com, and we'd be happy to facilitate your return and refund. For more information regarding our return process, check out our Returns and Refunds page.   ",
+        "pf_95f4312f_value": "ThePhotoStick® Omni works with all modern computers, smartphones, and tablets right out of the box.<br><br>It's also compatible with all Windows, Android, and Mac Operating Systems:<br>- Windows: Windows 7 SP1 and Later<br>- Apple: iOS and iPadOS 13.0 and Later<br>- Android: 8.0 and Later<br><br>For more up-to-date information regarding ThePhotoStick compatibility, we recommend viewing our System Requirements page. ",
+        "pf_f498b49d_value": "This depends on how many photos and videos you have.<br><br>- The 128GB version can hold up to 51,200 photos and videos, which will be plenty for most people.<br><br>- The 256GB version holds up to roughly 102,400 photos and videos, giving you all the storage you'll ever need, perfect for large families with lots of memories.<em></em> ",
+        "pf_232950a7_value": "Yes, getting started with ThePhotoStick® Omni is incredibly easy! <br><br>We also offer 24/7 support if you have any questions or difficulties... but it really is as easy as clicking “GO“. Anyone can use it, no matter how comfortable they are with technology!",
+        "pf_6cc7c450_value": "<em><strong>FAST</strong></em>! We ship all orders within 24-48 hours of receiving them! On average, our product is delivered within 3-5 business days in the United States. International shipping times will vary depending on the country/customs, etc.",
+        "pf_dd50d72d_value": "<strong></strong>Yes, it’s a great backup solution! Many people leave the ThePhotoStick® Omni plugged in and do a weekly backup to make sure they are continually protecting their memories. ",
+        "pf_dc7c1890_value": "Depending on your country, it is possible that you will be charged one or more of these fees at the time of checkout. ",
+        "pf_2f1ced84_label": "Q:  Will I have to pay any additional customs, duties or VAT fees when I receive my order?",
+        "pf_165b7076_label": "Q:  Does ThePhotoStick® Omni need to install anything on my computer?",
+        "pf_9df7ce3d_label": "Q:  What photo and video file types can ThePhotoStick® Omni detect?",
+        "pf_4696fd3f_label": "Q:  Can I use ThePhotoStick® Omni as an ongoing backup solution?",
+        "pf_905f9e63_label": "Q:  Which version of ThePhotoStick® Omni should I choose?",
+        "pf_507ce3ee_label": "Q:  How does the 30-Day Money Back Guarantee work?",
+        "pf_f3cb95ea_label": "Q:  Which devices work with ThePhotoStick® Omni?",
+        "pf_849a3294_value": "Don’t Risk Losing Your Photos In The Cloud!",
+        "pf_1143fdeb_value": "Get 50% off each additional ThePhotoStick!",
+        "pf_39cfc169_value": "Get 40% off each additional ThePhotoStick!",
+        "pf_4b58a059_value": "Get 50% off each additional ThePhotoStick!",
+        "pf_6297571e_value": "Get 50% off each additional ThePhotoStick!",
+        "pf_63d0ee9e_value": "Get 40% off each additional ThePhotoStick!",
+        "pf_9f87a348_value": "Get 50% off each additional ThePhotoStick!",
+        "pf_a3a492c1_value": "Get 50% off each additional ThePhotoStick!",
+        "pf_f83a7366_value": "Get 50% off each additional ThePhotoStick!",
+        "pf_053fd489_value": "Save 120,000 photos &amp; videos!",
+        "pf_ff446330_value": "Save 120,000 photos &amp; videos!",
+        "pf_1a82f184_value": "Save 30,000 photos &amp; videos!",
+        "pf_3e9f2913_value": "Save 15,000 photos &amp; videos!",
+        "pf_4783161b_value": "Save 60,000 photos &amp; videos!",
+        "pf_6c569165_value": "Save 15,000 photos &amp; videos!",
+        "pf_e8a7acbd_value": "Save 60,000 photos &amp; videos!",
+        "pf_f82f0840_value": "Save 30,000 photos &amp; videos!",
+        "pf_2a60a9f7_value": "Now available in 4 sizes",
+        "pf_5300ff44_value": "256GB of Storage",
+        "pf_57a3e315_value": "128GB of Storage",
+        "pf_69343e9f_value": "256GB of Storage",
+        "pf_8a784783_value": "128GB of Storage",
+        "pf_1df5f82f_value": "64GB of Storage",
+        "pf_32ed8093_value": "64GB of Storage",
+        "pf_1bb787d8_value": "Retail $159.99",
+        "pf_30c7bce9_value": "Retail $199.99",
+        "pf_4e6c6c56_value": "8GB of Storage",
+        "pf_7aca1ded_value": "Retail $199.99",
+        "pf_c9fef3a3_value": "8GB of Storage",
+        "pf_fc43e3e0_value": "Retail $159.99",
+        "pf_3fc063b4_value": "Retail $49.99",
+        "pf_40598a49_value": "Retail $99.99",
+        "pf_5ff17745_value": "FREE SHIPPING",
+        "pf_6570cf42_value": "Retail $49.99",
+        "pf_6d2ae7ed_value": "Retail $99.99",
+        "pf_d00058de_value": "FREE SHIPPING",
+        "pf_d4c1155c_value": "FREE SHIPPING",
+        "pf_0ce48bcf_value": "ORDER NOW",
+        "pf_29dc0fb2_value": "ORDER NOW",
+        "pf_339dddc9_value": "BEST DEAL",
+        "pf_791a91ac_value": "ORDER NOW",
+        "pf_7b035bba_value": "ORDER NOW",
+        "pf_a937354c_value": "BEST DEAL",
+        "pf_bb2d2919_value": "ORDER NOW",
+        "pf_df4ae3e5_value": "ORDER NOW",
+        "pf_e2cc243b_value": "ORDER NOW",
+        "pf_ed570d61_value": "ORDER NOW",
+        "pf_57d1e811_value": "Save $70",
+        "pf_5ac4cb09_value": "Save $15",
+        "pf_8a6b99be_value": "Save $60",
+        "pf_8b074b58_value": "Save $45",
+        "pf_bbfe63d0_value": "Save $15",
+        "pf_c37c9f87_value": "Save $70",
+        "pf_cfdea3a4_value": "Save $60",
+        "pf_dd5f43ab_value": "Save $45",
+        "pf_6f2e3687_value": "$129.99",
+        "pf_e91bc37c_value": "$129.99",
+        "pf_321631be_value": "$59.99",
+        "pf_3aa33825_value": "$34.99",
+        "pf_42eabbfe_value": "$34.99",
+        "pf_499b8b07_value": "$59.99",
+        "pf_9a9c0a3d_value": "$99.99",
+        "pf_d855cfde_value": "$99.99"
+      }
+    }
+  },
+  "order": [
+    "pf-eb6e00e0"
+  ],
+  "layout": "theme.pagefly"
+}

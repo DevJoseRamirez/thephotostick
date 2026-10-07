@@ -1,0 +1,56 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-64eb2654": {
+      "type": "pf-64eb2654",
+      "settings": {
+        "pf_bf4bf980_value": "We are committed to delighting each customer of ThePhotoStick. We are so confident you will love it, that we offer a no-risk 60-Day Money Back Guarantee, starting at the day of delivery.<br><br>Try out ThePhotoStick for PC and Mac computers, or ThePhotoStick Mobile for iPhone or Android smartphones, with no risk! If you have any issues and are not completely satisfied with your purchase for whatever reason, simply contact returns@thephotostick.com or visit our Live Chat support at thephotostick.com.",
+        "pf_4bee3e95_value": "Almost all major Android, iPhone, and iPad devices!\n\nSupported Android devices:\n\nCompatible with all Samsung, LG, Motorola, and HTC phones running Android OS 4.4 or newer made in the last 3 years. Phones must be OTG compatible. A FREE adapter is included that ensures compatibility with Micro-USB and USB-C devices.\n\nSupported iOS devices:\n\nCompatible with all iPhones, iPads, and iPod Touches that have a Lightning Port. Requires iOS 9.0 or later.",
+        "pf_38f149f5_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_eaf888e5_value": "By simply plugging in ThePhotoStick® Mobile to your computer, you can easily transfer all the photos and videos off the device. It’s compatible with nearly all modern computers using Windows and Mac Operating Systems:<br><br>Windows:<br>Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10.<br><br>Mac:<br>Mac OS X Version 10.6 and later.",
+        "pf_6e6e01f5_value": "It’s as easy as 1,2,3!<br><br>1. Download and Launch the FREE “ThePhotoStick® Mobile” App<br>2. Plug in the device<br>3. Click “Backup Now”<br><br>(optional) Plug into your computer to get the photos and videos off your device!",
+        "pf_225e93a3_value": "Yes, it’s a great backup solution! Many people plug ThePhotoStick® Mobile in weekly and do a quick and easy backup to make sure they are continually protecting their memories.",
+        "pf_269b9c9f_value": "We ship orders out FAST, but we can’t control carrier transit times. Due to COVID-19, orders are taking up to 10-20 days to be delivered depending on the country.<br><br>",
+        "pf_1c3e579a_value": "Depending on your country, it is possible that you will be charged one or more of these fees when you receive your order.<br><br>",
+        "pf_1251e4e3_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_c8cfb2ef_value": "All products are backed by our 60 Day Money Back Guarantee, starting on the day of shipping.",
+        "pf_75991c3e_label": "Will I have to pay any additional customs, duties or VAT fees when I receive my order?",
+        "pf_4d431aa5_label": "What photo file size is used when we say the 128GB version can store 60,000 photos?",
+        "pf_13ec1ba9_value": "Get ThePhotoStick Mobile &amp; Say Goodbye To “Storage Full” Errors FOREVER!<br>",
+        "pf_991ceaf8_label": "Which computers can I use to transfer photos and videos off the device?",
+        "pf_ff70225e_label": "Can I use ThePhotoStick® Mobile as an ongoing backup solution?",
+        "pf_2ae0269b_label": "How long does delivery take to countries outside of the U.S.?",
+        "pf_ec864bee_label": "Which smartphones are compatible with ThePhotoStick® Mobile?",
+        "pf_41d8c8cf_label": "How does the 60 Day Money Back Guarantee work?",
+        "pf_f9e38832_value": "Available in 3 Sizes for iPhone and Android",
+        "pf_9b806e6e_label": "How do I start ThePhotoStick® Mobile?",
+        "pf_791ce56f_value": "All iOS Devices with Lightning Port",
+        "pf_ebd900f7_value": "Micro-USC and USB-C Compatible",
+        "pf_88bf39eb_value": "Android Phones &amp; Tablets",
+        "pf_5bf800f1_value": "60-Day Money Back Guarantee",
+        "pf_4da2b6cc_value": "Frequently Asked Questions",
+        "pf_e56fdd3a_title": "32GB iPhone PhotoStick®",
+        "pf_2654c261_alt": "ThePhotoStick Logo",
+        "pf_6f561251_value": "Payments accepted:",
+        "pf_1251e4e3_title": "Payments Accepted",
+        "pf_32074e79_value": "iPhone &amp; iPad",
+        "pf_b72a540c_value": "ORDER NOW",
+        "pf_b8552a62_value": "ORDER NOW",
+        "pf_cc12650d_value": "Divider",
+        "pf_f1d66ef5_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-64eb2654"
+  ],
+  "layout": "theme.pagefly"
+}

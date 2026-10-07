@@ -1,0 +1,75 @@
+{% if localization.country.iso_code == 'GB' %}
+  <style>
+    /* =============================================
+       UK Region - Hidden Pricing & Purchase Elements
+       Last updated: 26 May 2026
+    ============================================= */
+
+    /* Sale / strikethrough prices (PDP + featured product section) */
+    .product__price,
+    .price--on-sale,
+    .price__sale,
+    .price__regular {
+      display: none !important;
+    }
+
+    /* Inline price inside Add to Cart button */
+    product-buy-price {
+      display: none !important;
+    }
+
+    /* Add to Cart button (standard + bundle) */
+    .product-form__submit.button--primary,
+    button[name="add"],
+    button[data-product-bundle-submit] {
+      display: none !important;
+    }
+
+    /* Shop Pay / Buy Now / accelerated checkout buttons */
+    .shopify-payment-button,
+    shopify-accelerated-checkout,
+    .shopify-payment-button__more-options {
+      display: none !important;
+    }
+
+    /* Cart item prices */
+    .price.text-sm {
+      display: none !important;
+    }
+
+  </style>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+      const notAvailableHTML = `
+        <button disabled style="
+          background-color: #d1d1d1;
+          color: #222222;
+          border: none;
+          padding: 14px 28px;
+          font-size: 16px;
+          font-weight: 600;
+          cursor: not-allowed;
+          width: 100%;
+          border-radius: 4px;
+          letter-spacing: 0.5px;
+          display: block;
+          margin-top: 10px;
+        ">Not Available</button>
+      `;
+
+      // Find all ATC buttons, deduplicate by parent form, insert once per form
+      const forms = new Set();
+      document.querySelectorAll('button[name="add"], button[data-product-bundle-submit]').forEach(btn => {
+        const form = btn.closest('form') || btn.parentNode;
+        if (!forms.has(form)) {
+          forms.add(form);
+          btn.insertAdjacentHTML('afterend', notAvailableHTML);
+        }
+      });
+
+    });
+  </script>
+
+{% endif %}

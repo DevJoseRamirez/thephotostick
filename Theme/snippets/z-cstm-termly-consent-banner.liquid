@@ -1,0 +1,76 @@
+{% assign excluded_pages = 'offer-03-dtc' | split: ',' %}
+
+{% unless excluded_pages contains page.handle %}
+  <style>
+    .t-consentPrompt {
+      width: fit-content !important;
+      max-width: 600px !important;
+      border-radius: 0 !important;
+      padding: 8px 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .t-consentPrompt {
+        width: 85vw !important;
+        max-width: 85vw !important;
+      }
+    }
+
+    .t-consentPrompt [class*="termly-styles-main"],
+    .t-consentPrompt [class*="termly-styles-content"] {
+      padding: 0 !important;
+      gap: 4px !important;
+    }
+
+    .t-consentPrompt [class*="termly-styles-message"] {
+      margin: 0 0 6px 0 !important;
+      line-height: 1.3 !important;
+    }
+
+    .t-consentPrompt [class*="termly-styles-buttons"] {
+      padding: 0 !important;
+      gap: 4px !important;
+      margin: 0 !important;
+    }
+
+    .t-consentPrompt .t-preference-button,
+    .t-consentPrompt .t-declineButton,
+    .t-consentPrompt .t-acceptAllButton {
+      padding: 4px 8px !important;
+      min-height: unset !important;
+    }
+  </style>
+
+  <script
+    type="text/javascript"
+    src="https://app.termly.io/resource-blocker/90f6a0c0-33da-4b6b-b6b1-910ebe84e0a0?autoBlock=on"
+  ></script>
+
+  <script>
+    function patchTermlyBanner() {
+      const msg = document.querySelector('.t-consentPrompt [data-testid="cookie-policy-link"]')?.closest('div');
+      if (msg && !msg.dataset.patched) {
+        const cookieLinkClass = document.querySelector('[data-testid="cookie-policy-link"]').className;
+        const prefLinkClass = document.querySelector('[data-testid="preferences-link"]').className;
+
+        msg.innerHTML = `We use cookies for personalization, marketing, and analytics. See our <span role="button" tabindex="0" data-testid="cookie-policy-link" class="${cookieLinkClass}">Cookie Policy</span> or edit your <span role="button" tabindex="0" data-testid="preferences-link" class="${prefLinkClass}">Preferences</span>.`;
+        msg.dataset.patched = 'true';
+        return true;
+      }
+      return false;
+    }
+
+    const observer = new MutationObserver(() => {
+      patchTermlyBanner();
+    });
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+
+    let attempts = 0;
+    const interval = setInterval(() => {
+      attempts++;
+      if (patchTermlyBanner() || attempts >= 25) {
+        clearInterval(interval);
+      }
+    }, 200);
+  </script>
+{% endunless %}

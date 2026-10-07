@@ -1,0 +1,70 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-04d0f36a": {
+      "type": "pf-04d0f36a",
+      "settings": {
+        "pf_20dee6d9_value": "Our products were designed to help you easily back up your photos and videos and to keep those precious memories safe. Find out which one will work best with your device's operating system:",
+        "pf_133d5515_value": "Our support team is ready to assist you. Simply start a chat with them by clicking the blue chat circle at the bottom right of this page or send them a message using the form below.",
+        "pf_1f1dd889_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Android OS</span>",
+        "pf_c28e01fa_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Android OS</span>",
+        "pf_2109f821_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Windows</span>",
+        "pf_5da2f13e_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Windows</span>",
+        "pf_6d623ff6_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Windows</span>",
+        "pf_c5ca88fa_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Windows</span>",
+        "pf_07670393_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Mac</span>",
+        "pf_35000b44_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Mac</span>",
+        "pf_3cb8b7b0_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Mac</span>",
+        "pf_7d3104f8_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">Mac</span>",
+        "pf_abeccd23_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">iOS</span>",
+        "pf_adef7446_value": "<span style=\"text-decoration-line: underline; font-weight: bold;\">iOS</span>",
+        "pf_b7d7d413_value": "Still Can't Find What You're Looking For?",
+        "pf_14bb77e8_value": "ThePhotoStick Omni&nbsp; (All Devices)",
+        "pf_e1202bb8_value": "ThePhotoStick for PC and Mac Computers",
+        "pf_e8cc03ec_value": "ThePhotoStick for PC and Mac Computers",
+        "pf_9a3f4b84_value": "The PhotoStick® - Additional Support",
+        "pf_6a496120_value": "ThePhotoStick® System Requirements",
+        "pf_218fdfd1_value": "ThePhotoStick Mobile for Android",
+        "pf_44c26795_value": "Mac OS X Version 10.13 and Later",
+        "pf_92ac3489_value": "ThePhotoStick Mobile for Android",
+        "pf_93e8dc56_value": "Mac OS X Version 10.13 and Later",
+        "pf_b09a1220_value": "Mac OS X Version 10.13 and Later",
+        "pf_b2ae3501_placeholder": "What can we help you with today?",
+        "pf_f88be528_value": "Mac OS X Version 10.13 and Later",
+        "pf_235666f3_value": "iOS and iPadOS 13.0 and Later",
+        "pf_bfd169f0_value": "ThePhotoStick Mobile for iOS",
+        "pf_ec2ad921_value": "ThePhotoStick Mobile for iOS",
+        "pf_46f8120c_value": "iOS Version 10.13 and Later",
+        "pf_893fd651_value": "Android OS 6.0 and Later",
+        "pf_fa796a8a_value": "Android OS 8.0 and Later",
+        "pf_21acc17e_value": "Windows 7 SP1 and Later",
+        "pf_3eb9d502_value": "Windows 7 SP1 and Later",
+        "pf_f67729a7_value": "Windows 7 SP1 and Later",
+        "pf_fa650dfc_value": "Windows 7 SP1 and Later",
+        "pf_4ab725b6_value": "ThePhotoStick Omni",
+        "pf_1fad6c7e_text": "Submit Form",
+        "pf_0bc3c7c5_label_text": "First Name",
+        "pf_710bc3c7_placeholder": "First Name",
+        "pf_07b04087_label_text": "Last Name",
+        "pf_c507b040_placeholder": "Last Name",
+        "pf_25c244b8_value": "Divider",
+        "pf_9a9f62d4_value": "Divider",
+        "pf_a869dc2f_value": "Divider",
+        "pf_ae3501c3_label_text": "Message",
+        "pf_c056deb6_value": "Divider",
+        "pf_710bc3c7_label_text": "Email"
+      }
+    }
+  },
+  "order": [
+    "pf-04d0f36a"
+  ]
+}

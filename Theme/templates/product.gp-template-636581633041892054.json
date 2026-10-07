@@ -1,0 +1,143 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_636581633142555350": {
+      "settings": {
+        "checksum": "b791cff3cea0e933e8e787c6c4b4d23da251f7efd75cbe8d4dfcafb8197e4984_1_1_1_0__1",
+        "ggTVd0sxrs8_text": "Shop ThePhotoStick®",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636581633142555350"
+    },
+    "gp_section_636581633142620886": {
+      "settings": {
+        "checksum": "5fa028b06ce39b0c1f007495518e8ead4a39e265f170ffaa9d895ad0af279f2a_1_1_1_0__1",
+        "ggvLILd8gkW_text": "<p>⚡️ <strong>FREE</strong> Shipping On All U.S. Orders Over $50 ⚡️</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636581633142620886"
+    },
+    "gp_section_636581633142686422": {
+      "settings": {
+        "checksum": "32dccff8917b1b15bbfe6902b4f7755f7148e7aae0134a571d62446ec5daf330_1_1_1_0__1",
+        "ggEBmuI-zm5_text": "ThePhotoStick® Gear",
+        "ggGI3rvDUDG_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggGI3rvDUDG_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Quick_Click_Remote_5.gif",
+        "ggGI3rvDUDG_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_Quick_Click_Remote_5.gif",
+        "ggoFU7WUuf3_label": "<p>SHOP ALL PRODUCTS</p>",
+        "ggu7ab2vPIR_text": "<p>Smart, stylish accessories that make it easy to&nbsp;</p><p>capture, protect, and enjoy your memories wherever life takes you.</p>",
+        "ggzzinM5Ao8_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png",
+        "ggzzinM5Ao8_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_34.png"
+      },
+      "type": "gp-section-636581633142686422"
+    },
+    "gp_section_636581633142751958": {
+      "settings": {
+        "checksum": "4d7564248ec68bab8e04ce48e10557d5c89658533dfd7e4ea4cde401fa098802_1_1_1_0__1",
+        "ggR51vaMCES_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">Copyright ©2026 - ThePhotoStick® | All Rights Reserved</span></p><p><a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\"> |&nbsp;</span><a href=\"https://www.thephotostick.com/pages/support-center\" target=\"_blank\">Contact Us</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">&nbsp;|&nbsp;</span><a href=\"https://www.thephotostick.com/pages/terms-of-service\" target=\"_blank\">Terms of Service</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\"> | </span><a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a></p><p><a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_blank\">Return&nbsp;Policy</a><span style=\"background-color:rgb(255,255,255);color:rgb(23,23,23);\">&nbsp;| </span><a href=\"https://www.thephotostick.com/pages/support-shipping-information\" target=\"_blank\">Shipping Policy</a></p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636581633142751958"
+    },
+    "gp_section_636581633142817494": {
+      "block_order": [
+        "gp_app_okendo-reviews-loyalty_gZ6LFs_1-Q"
+      ],
+      "blocks": {
+        "gp_app_okendo-reviews-loyalty_gZ6LFs_1-Q": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{ product }}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "settings": {
+        "checksum": "f7a5bb56a63648a44860ae578009b4a3c528a6e32b6dbe74c579e689172318c6_1_1_1_0__1",
+        "gg-HZVPxq2U_displayContent": "App Exclusive: {percent_discount} OFF",
+        "gg0S4cndBrI_text": "<p>Fast</p><p>Shipping</p>",
+        "gg7kI4TRtsJ_text": "<p><strong>Perfect for Every Type of Home</strong></p>",
+        "gg7rDDi3IgU_text": "<p><strong>• </strong>Color: Black<br><br><strong>• </strong>Outer Material: Leather</p><p>&nbsp;</p><p><strong>• </strong>Inner Material: Kraft/EVA, Elastic Band<br><br><strong>• </strong>Size: 5.4\" x 5.4\"</p><p>&nbsp;</p><p><strong>• </strong>Photo Frame Size: 4\" x 4\"</p><p><br><strong>• </strong>Weight: 4.4 OZ</p>",
+        "gg9azCNw2Mi_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-0f8a1c83-1df7-48bd-8ea0-69fe91399f1b.svg?v=1718348678",
+        "gg9azCNw2Mi_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_20.png",
+        "ggBRdgqt4qj_text": "<p>Live Chat Support</p>",
+        "ggI74HP5Iw0_text": "<p><strong>A Thoughtful Gift for Anyone</strong></p>",
+        "ggItceyZaw6_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-07ba47bc-bd82-4197-8a16-a6e65ca8f7fa.png?v=1716375124",
+        "ggItceyZaw6_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/KFB_Halloween_Image_1.jpg",
+        "ggItceyZaw6_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/KFB_Halloween_Image_1.jpg",
+        "ggOHXtEPlRb_errorMessage": "Cannot add product to cart",
+        "ggOHXtEPlRb_label": "Add to cart",
+        "ggOHXtEPlRb_outOfStockLabel": "Out of stock",
+        "ggOHXtEPlRb_successMessage": "Add product to cart successfully",
+        "ggOHXtEPlRb_unavailableLabel": "Unavailable",
+        "ggQesUdn4C8_text": "<p><strong>Customizable Photo Frame</strong></p>",
+        "ggQne_5n9ae_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-9d2a2a98-7aa9-4d10-ac13-0cc0b763c713.svg?v=1718348798",
+        "ggQne_5n9ae_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_22.png",
+        "ggRrl219-yt_text": "<p>Secure Checkout</p>",
+        "ggUfHbbrPio_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(29,31,37);\">Give your precious memories the home they deserve. ThePhotoStick® Keepsake Frame Box is an elegant, gift-ready display box designed to hold your ThePhotoStick® Omni while showcasing a favorite photo on the front.</span></p>",
+        "ggVevG23eea_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8a685f74-1ee2-4eab-a19e-17f5e720f623.svg?v=1718348722",
+        "ggVevG23eea_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_17.png",
+        "ggZsOP65o8V_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b1b8e8b4-1a58-40a9-9a81-c5ad8a1b619e.png?v=1716375140",
+        "ggZsOP65o8V_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/20251116_033934.jpg",
+        "ggZsOP65o8V_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/20251116_033934.jpg",
+        "gga7aFDi-MY_text": "ThePhotoStick® Keepsake Frame Box",
+        "ggaC7AZvrT-_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d76ff965-5eb9-4369-acf8-a935b85cbb3f.svg?v=1718348823",
+        "ggaC7AZvrT-_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_19.png",
+        "ggcc6Jh3vwb_text": "<p>30 Day Guarantee</p>",
+        "ggckONzDw_M_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggckONzDw_M_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggiKOCRtT0t_text": "<p>Trusted by</p><p>2 Million+</p>",
+        "ggm_HP19WfH_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(29,31,37);\">Personalize the front with a meaningful photo or one of the included inserts.</span></p>",
+        "ggmq5AqBqrY_text": "<p>All shipments are sent by DHL Global Mail</p><p>You can track your shipment via the DHL Global Mail tracking system at <a href=\"https://webtrack.dhlglobalmail.com/\"><strong>https://webtrack.dhlglobalmail.com</strong></a></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(66,66,66);\">We offer a no-hassle, 30-Day Money Back Guarantee. If you’re not 100% satisfied with your purchase from ThePhotoStick®, our team will happily assist you with your return.&nbsp;</span></p>",
+        "ggn5KcBHDKv_text": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(29,31,37);\">A delightful way to elevate your own space, beautifully preserving and showcasing memories you'll want to celebrate every day.</span></p>",
+        "ggpDT2JjMb8_text": "<p>89+ Reviews</p>",
+        "ggqpnCEQMQV_text": "<p>A stylish way to present ThePhotoStick Omni to parents, grandparents, or anyone who loves preserving and displaying meaningful memories.</p>",
+        "ggsLbWM0bz9_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7382edec-3685-4565-b421-e96bbb0c96e3.png?v=1716375112",
+        "ggsLbWM0bz9_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/KFB_Red_Family_1.png",
+        "ggsLbWM0bz9_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/KFB_Red_Family_1.png",
+        "ggx6FYywMWR_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-1be461db-3fb2-4dd2-ae5f-875b1ce4bfc5.svg?v=1718348667",
+        "ggx6FYywMWR_srcSet_tablet_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/Icons_21.png",
+        "ggy0s0EIoju_childItem_0": "<p>SPECIFICATIONS</p>",
+        "ggy0s0EIoju_childItem_1": "<p>SHIPPING &amp; RETURNS</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-636581633142817494"
+    },
+    "gp_section_636581633142883030": {
+      "settings": {
+        "checksum": "7643b32ef958fea41d3e9a2e40bd9d89611be5b7082d04180ed64c014de584f5_1_1_1_0__1",
+        "gg0pLVMam0s_text": "Frequently Asked Questions",
+        "gg4TkwRjFpV_text": "<p>Yes! Simply add a favorite family photo, vacation memory, milestone moment, or other special picture to personalize your Keepsake Frame Box.</p>",
+        "ggDFVBy3_ux_text": "<p>ThePhotoStick Omni is sold separately unless otherwise specified as part of a bundle. The Keepsake Frame Box is designed as the perfect add-on to make your ThePhotoStick Omni more giftable and display-ready.</p>",
+        "ggaEVrQTJHR_text": "<p>No problem! The Keepsake Frame Box includes multiple inserts that can be displayed in place of a personal photo. This makes it easy to create a polished, gift-ready presentation even when you don’t have time to print a picture.</p>",
+        "ggmySa8-oE__text": "<p>We offer a no-hassle, 30-Day Money Back Guarantee. If you’re not 100% satisfied with your purchase from ThePhotoStick®, our team is here to help you with a return. We want you to be happy!</p><p>&nbsp;</p><p>If you are not completely satisfied with your order, please contact us at returns@thephotostick.com, and we'd be happy to facilitate your return and refund. For more information regarding our return process, check out our <a href=\"https://www.thephotostick.com/pages/support-return-and-refund-process\" target=\"_blank\"><strong>Returns and Refunds</strong></a> page.</p>",
+        "ggqsP5Ip4P5_background_mobile_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggqsP5Ip4P5_background_tablet_image_src": "https://cdn.shopify.com/s/files/1/1681/4029/files/TPS_LP_Mobile_33.png",
+        "ggw7bbKA89T_childItem_0": "<p>Does ThePhotoStick® Omni come with the Keepsake Frame Box?</p>",
+        "ggw7bbKA89T_childItem_1": "<p>Can I add my own photo to the frame?</p>",
+        "ggw7bbKA89T_childItem_2": "<p>What if I don’t have a photo ready to put in the frame?</p>",
+        "ggw7bbKA89T_childItem_3": "<p>What is the Keepsake Frame Box made from?</p>",
+        "ggw7bbKA89T_childItem_4": "<p>How does the 30-Day Money Back Guarantee work?</p>",
+        "ggy8wQHDqPh_text": "<p>The box features a sleek black leather outer case with an inner drawer constructed from kraft and EVA materials, creating an attractive combination of presentation and protective storage.</p>"
+      },
+      "type": "gp-section-636581633142883030"
+    }
+  },
+  "order": [
+    "gp_section_636581633142620886",
+    "gp_section_636581633142555350",
+    "gp_section_636581633142817494",
+    "gp_section_636581633142686422",
+    "gp_section_636581633142883030",
+    "gp_section_636581633142751958"
+  ],
+  "layout": "theme.gempages.blank"
+}

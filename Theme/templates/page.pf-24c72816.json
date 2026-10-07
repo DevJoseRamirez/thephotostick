@@ -1,0 +1,50 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "pf-24c72816": {
+      "type": "pf-24c72816",
+      "settings": {
+        "pf_180a433c_code": "<!-- Global site tag (gtag.js) - Google Ads: 441272717 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-441272717\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-441272717');\n</script>\n\n<!-- Event snippet for ThePhotoStick For Computers -  Product Page - PIT - Page view conversion page -->\n<script>\n  gtag('event', 'conversion', {'send_to': 'AW-441272717/1OUwCLTH9vkBEI2TtdIB'});\n</script>\n\n\n<script data-cfasync=\"false\" src=\"https://track.thephotostickquiz.com/integration/lumetric.js?2.2.0\"></script>\n<script>\n  var lum = new Lumetric();\n</script>\n\n<script>\nlum.event('view', {\n  'query': {\n    'f': '0tXCrOiMHG3c',\n    'n': '0wC936dZ04h3',\n    'p': '0wC8jUKY9bnJ',\n    // 'ts': '0tXRWF1nMBVT',\n    // 'c': '{COST}'\n  },\n  'options': {\n\t'cookieAllowed': true,\n\t'urlRewrite': true,\n    'timeOnPage': false,\n    'resolveTokens': [],\n  },\n  'onDone': function (response) {}\n});\n</script>",
+        "pf_583870ef_value": "We are committed to delighting each customer of ThePhotoStick. We are so confident you will love it, that we offer a no-risk 60-Day Money Back Guarantee, starting at the day of delivery.<br><br>Try out ThePhotoStick for PC and Mac computers, or ThePhotoStick Mobile for iPhone or Android smartphones, with no risk! If you have any issues and are not completely satisfied with your purchase for whatever reason, simply contact returns@thephotostick.com or visit our Live Chat support at thephotostick.com.",
+        "pf_a1a6efb3_value": "<a href=\"https://www.thephotostick.com/pages/about-us\" target=\"_blank\">About Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/support\" target=\"_blank\">Contact Us</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/terms-conditions\" target=\"_blank\">Terms &amp; Conditions</a>&nbsp; &nbsp; &nbsp;<a href=\"https://www.thephotostick.com/pages/privacy-policy\" target=\"_blank\">Privacy Policy</a>",
+        "pf_7a9d4f8e_value": "ThePhotoStick® is compatible with nearly all modern computers using Windows and Mac Operating Systems:<br><br><span style=\"font-weight: bold;\">Windows</span>: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10.<br><br><span style=\"font-weight: bold;\">Mac</span>: Mac OS X Version 10.7 and later.<br>",
+        "pf_7f274541_value": "No, that’s what makes it so great! ThePhotoStick® does not need to install anything on your computer, nor does it require anything to be already installed on your computer.<br><br>ThePhotoStick® comes with everything it needs — you simply need to plug it into an available USB slot and it’s ready to run.",
+        "pf_8c7d0da6_value": "Yes, it’s a great backup solution! Many people leave the ThePhotoStick® plugged in and do a quick and easy weekly backup to make sure they are continually protecting their memories.",
+        "pf_55484051_alt": "Amazon Payments, American Express, Apple Pay, Diner's Club, Discover, JCB, Master Card, PayPal, and Visa",
+        "pf_fe49a6bf_label": "What photo and video file types can ThePhotoStick® find and save?",
+        "pf_7b787f27_label": "Does ThePhotoStick® need to install anything on my computer?",
+        "pf_4225fa06_value": "Easily Backup ALL Your Photos &amp; Videos in ONE Click!",
+        "pf_b1a38c7d_label": "Can I use ThePhotoStick® as an ongoing backup solution?",
+        "pf_b3507a9d_label": "Which computers can I use ThePhotoStick® on?",
+        "pf_6f618797_value": "60-Day Money Back Guarantee",
+        "pf_e1e877e3_value": "Frequently Asked Questions",
+        "pf_b9408bc0_value": "Now Available in 3 Sizes!",
+        "pf_281655de_alt": "ThePhotoStick Logo",
+        "pf_e18b5548_value": "Payments accepted:",
+        "pf_55484051_title": "Payments Accepted",
+        "pf_132ecb0a_value": "ORDER NOW",
+        "pf_209e004d_value": "ORDER NOW",
+        "pf_91fdfcc4_text": "ORDER NOW",
+        "pf_fa109a5d_text": "ORDER NOW",
+        "pf_fb061dc1_text": "ORDER NOW",
+        "pf_06c1438e_value": "Divider",
+        "pf_4e4db290_value": "Divider",
+        "pf_97b9ef20_value": "Divider",
+        "pf_d9af4d98_value": "Divider",
+        "pf_e3f57f8f_value": "Divider"
+      }
+    }
+  },
+  "order": [
+    "pf-24c72816"
+  ],
+  "layout": "theme.pagefly"
+}
